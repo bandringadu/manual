@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terapi.rsupsoeradji.id/services/sitemap.xml
