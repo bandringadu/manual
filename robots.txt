@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/sitemap.xml
+Sitemap: https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/sitemap.xml
