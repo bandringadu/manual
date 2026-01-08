@@ -2,10 +2,10 @@
 <html lang="en-GB" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" data-user-id="1135369000" data-user-login-name="r6cailhwo6qt62hc" data-user-is-seller="false" style="--vh: 17.27px;"><head>
 <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script>if (window.performance && performance.mark) performance.mark("TTP")</script>
 
-<title>KINGDOMTOTO: Login Situs Toto Slot & Sensasi Bandar Togel Bonus Aktif</title>
-<link rel="amphtml" href="https://appstore01.pages.dev/laporan/">
-<link rel="canonical" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/" />
-<meta name="description" content="KINGDOMTOTO hadir sebagai login situs toto slot yang dirancang khusus bandar togel dengan sensasi bonus aktif terusan. Sekaligus menjadi patner bandar togel untuk berikan komisi besar tentu peluang untuk anda penggemar bandar darat togel.">
+<title>PTTOGEL | Login Situs Togel Online Gaming Terbaik Versi 2026</title>
+<link rel="amphtml" href="https://appstore01.pages.dev/pembantu/">
+<link rel="canonical" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/" />
+<meta name="description" content="PTTOGEL adalah login situs togel online pakai platform gaming terbaik versi 2026, hal tersebut akan menawarkan situs togel dapat di akses secara instan, mudah, dan teraman.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-language" content="en-ID">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,27 +13,27 @@
 <meta name="copyright" content="Situs Toto">
 <meta name="author" content="Situs Toto">
 <meta name="distribution" content="global">
-<meta name="publisher" content="KINGDOMTOTO">
+<meta name="publisher" content="PTTOGEL">
 <meta name="robots" content="index, follow">
 <meta name="rating" content="general">
 <meta property="fb:app_id" content="89186614300">
 <meta name="css_dist_path" content="/ac/sasquatch/css/" />
 <meta name="dist" content="202509171758147727" />
-<meta name="twitter:site" content="@KINGDOMTOTO" value="" />
+<meta name="twitter:site" content="@PTTOGEL" value="" />
 <meta name="twitter:card" content="summary_large_image" value="" />
-<meta name="twitter:app:name:iphone" content="KINGDOMTOTO" value="" />
+<meta name="twitter:app:name:iphone" content="PTTOGEL" value="" />
 <meta name="twitter:app:url:iphone" content="etsy://listing/7234781620?ref=TwitterProductCard" value="" />
 <meta name="twitter:app:id:iphone" content="477128284" value="" />
-<meta name="twitter:app:name:ipad" content="KINGDOMTOTO" value="" />
+<meta name="twitter:app:name:ipad" content="PTTOGEL" value="" />
 <meta name="twitter:app:url:ipad" content="etsy://listing/7234781620?ref=TwitterProductCard" value="" />
 <meta name="twitter:app:id:ipad" content="477128284" value="" />
-<meta name="twitter:app:name:googleplay" content="KINGDOMTOTO" value="" />
+<meta name="twitter:app:name:googleplay" content="PTTOGEL" value="" />
 <meta name="twitter:app:url:googleplay" content="etsy://listing/7234781620?ref=TwitterProductCard" value="" />
 <meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
-<meta property="og:title" content="KINGDOMTOTO: Login Situs Toto Slot & Sensasi Bandar Togel Bonus Aktif" />
-<meta property="og:description" content="KINGDOMTOTO hadir sebagai login situs toto slot yang dirancang khusus bandar togel dengan sensasi bonus aktif terusan. Sekaligus menjadi patner bandar togel untuk berikan komisi besar tentu peluang untuk anda penggemar bandar darat togel." />
+<meta property="og:title" content="PTTOGEL | Login Situs Togel Online Gaming Terbaik Versi 2026" />
+<meta property="og:description" content="PTTOGEL adalah login situs togel online pakai platform gaming terbaik versi 2026, hal tersebut akan menawarkan situs togel dapat di akses secara instan, mudah, dan teraman." />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/" />
+<meta property="og:url" content="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/" />
 <meta property="og:image" content="https://ik.imagekit.io/3dgm6pffgn/megajackpot.png" />
 <meta property="product:price:amount" content="5.20" />
 <meta property="product:price:currency" content="USD" />
@@ -43,8 +43,8 @@
 <link rel="apple-touch-icon" href="https://ik.imagekit.io/3dgm6pffgn/faviconjoker.png" sizes="180x180" />
 <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="rgb(241, 100, 30)" />
 <link rel="manifest" href="/site.webmanifest" />
-<meta name="apple-mobile-web-app-title" content="KINGDOMTOTO" />
-<meta name="application-name" content="KINGDOMTOTO" />
+<meta name="apple-mobile-web-app-title" content="PTTOGEL" />
+<meta name="application-name" content="PTTOGEL" />
 <meta name="msapplication-TileColor" content="#F1641E" />
 <meta name="theme-color" content="rgb(255, 255, 255)" />
 <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" />
@@ -52,7 +52,7 @@
 <link rel="preconnect" href="//v.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
 <link rel="preload" as="image" imagesrcset="https://ik.imagekit.io/3dgm6pffgn/megajackpot.png" fetchpriority="high" />
-<link rel="alternate" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/" hreflang="en" />
+<link rel="alternate" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/" hreflang="en" />
 <link rel="alternate" href="https://www.etsy.com/fi-en/listing/7234781620/book-club-print-bookish-poster-trendy" hreflang="en-FI" />
 <link rel="alternate" href="https://www.etsy.com/au/listing/7234781620/book-club-print-bookish-poster-trendy" hreflang="en-AU" />
 <link rel="alternate" href="https://www.etsy.com/ca/listing/7234781620/book-club-print-bookish-poster-trendy" hreflang="en-CA" />
@@ -79,8 +79,8 @@
 <link rel="alternate" href="https://www.etsy.com/jp/listing/7234781620/book-club-print-bookish-poster-trendy" hreflang="ja" />
 <link rel="alternate" href="https://www.etsy.com/pl/listing/7234781620/book-club-print-bookish-poster-trendy" hreflang="pl" />
 <link rel="alternate" href="https://www.etsy.com/pt/listing/7234781620/book-club-print-bookish-poster-trendy" hreflang="pt" />
-<link rel="alternate" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/" hreflang="x-default" />
-<link rel="alternate" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/" hreflang="en-US" />
+<link rel="alternate" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/" hreflang="x-default" />
+<link rel="alternate" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/" hreflang="en-US" />
 <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
     !function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
 </script>
@@ -180,11 +180,11 @@
 
 
 
-        <script type="application/ld+json">{"@type":"Product","@context":"https:\/\/schema.org","url":"https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/","name":"KINGDOMTOTO","sku":"7234781620","gtin":"n\/a","description":"KINGDOMTOTO hadir sebagai login situs toto slot yang dirancang khusus bandar togel dengan sensasi bonus aktif terusan. Sekaligus menjadi patner bandar togel untuk berikan komisi besar tentu peluang untuk anda penggemar bandar darat togel.","image":[{"@type":"ImageObject","@context":"https:\/\/schema.org","author":"KINGDOMTOTO","contentURL":"https://ik.imagekit.io/3dgm6pffgn/megajackpot.png","description":null,"thumbnail":"https://ik.imagekit.io/3dgm6pffgn/megajackpot.png"}],"category":"KINGDOMTOTO < Toto Togel < Situs Toto","brand":{"@type":"Brand","@context":"https:\/\/schema.org","name":"KINGDOMTOTO"},"logo":"https://ik.imagekit.io/3dgm6pffgn/megajackpot.png","aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":129},"offers":{"@type":"Offer","eligibleQuantity":852,"price":"97962","priceCurrency":"IDR","availability":"https:\/\/schema.org\/InStock","shippingDetails":{"@type":"OfferShippingDetails","shippingRate":{"@type":"MonetaryAmount","value":"0","currency":"IDR"}}},"review":[{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2025-04-23","reviewBody":"it printed off really beautifully!","author":{"@type":"Person","name":"KINGDOMTOTO"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2025-04-16","reviewBody":"Perfect add to my gallery wall!","author":{"@type":"Person","name":"KINGDOMTOTO"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2025-01-20","reviewBody":"Great quality download! The image printed so well","author":{"@type":"Person","name":"KINGDOMTOTO"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2024-12-07","reviewBody":"printed and it looks perfect","author":{"@type":"Person","name":"KINGDOMTOTO"}}]}</script>
+        <script type="application/ld+json">{"@type":"Product","@context":"https:\/\/schema.org","url":"https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/","name":"PTTOGEL","sku":"7234781620","gtin":"n\/a","description":"PTTOGEL adalah login situs togel online pakai platform gaming terbaik versi 2026, hal tersebut akan menawarkan situs togel dapat di akses secara instan, mudah, dan teraman.","image":[{"@type":"ImageObject","@context":"https:\/\/schema.org","author":"PTTOGEL","contentURL":"https://ik.imagekit.io/3dgm6pffgn/megajackpot.png","description":null,"thumbnail":"https://ik.imagekit.io/3dgm6pffgn/megajackpot.png"}],"category":"PTTOGEL < Toto Togel < Situs Toto","brand":{"@type":"Brand","@context":"https:\/\/schema.org","name":"PTTOGEL"},"logo":"https://ik.imagekit.io/3dgm6pffgn/megajackpot.png","aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","reviewCount":129},"offers":{"@type":"Offer","eligibleQuantity":852,"price":"97962","priceCurrency":"IDR","availability":"https:\/\/schema.org\/InStock","shippingDetails":{"@type":"OfferShippingDetails","shippingRate":{"@type":"MonetaryAmount","value":"0","currency":"IDR"}}},"review":[{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2025-04-23","reviewBody":"it printed off really beautifully!","author":{"@type":"Person","name":"PTTOGEL"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2025-04-16","reviewBody":"Perfect add to my gallery wall!","author":{"@type":"Person","name":"PTTOGEL"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2025-01-20","reviewBody":"Great quality download! The image printed so well","author":{"@type":"Person","name":"PTTOGEL"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":5,"bestRating":5},"datePublished":"2024-12-07","reviewBody":"printed and it looks perfect","author":{"@type":"Person","name":"PTTOGEL"}}]}</script>
 
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"KINGDOMTOTO","item":"https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/"},{"@type":"ListItem","position":2,"name":"Link KINGDOMTOTO ","item":"https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/"},{"@type":"ListItem","position":3,"name":"Situs Toto","item":"https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/"}]}</script>       
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"PTTOGEL","item":"https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/"},{"@type":"ListItem","position":2,"name":"Link PTTOGEL ","item":"https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/"},{"@type":"ListItem","position":3,"name":"Situs Toto","item":"https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/"}]}</script>       
 
-        <meta property="al:ios:url" content="etsy://listing/7234781620?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="KINGDOMTOTO" /><meta property="al:android:url" content="etsy://listing/7234781620?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="KINGDOMTOTO" />
+        <meta property="al:ios:url" content="etsy://listing/7234781620?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="PTTOGEL" /><meta property="al:android:url" content="etsy://listing/7234781620?ref=applinks_android" /><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="PTTOGEL" />
 
 
 
@@ -260,7 +260,7 @@
             }(window);
                 </script>
                 <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
-                    <a href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/" elementtiming="ux-global-nav">
+                    <a href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/" elementtiming="ux-global-nav">
                         <span class="wt-screen-reader-only">TOTO TOGEL</span>
                         <img src="https://ik.imagekit.io/3dgm6pffgn/slot-gacor.gif"
                                         loading="lazy" class="header__heading-logo company_logo ratio" width="200"
@@ -287,7 +287,7 @@
         </button>
 
         <div data-neu-spec-placeholder="1" id="bd2c69bf978c5288825b3623782eb9a1">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"KINGDOMTOTO\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu","args":[]}</script>
+    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"PTTOGEL\\Modules\\CategoryNav\\Specs\\DropdownCatNav\\DropdownSubmenu","args":[]}</script>
     <div>
     
         
@@ -349,7 +349,7 @@
                     wt-pr-xs-7
                                         
                     "
-            placeholder="Search KINGDOMTOTO"
+            placeholder="Search PTTOGEL"
             value=""
             autocomplete="off"
             autocorrect="off"
@@ -448,7 +448,7 @@
     <div class="wt-bt-xs"></div>
 </li><div class="wt-mt-xs-3 wt-mb-xs-3 wt-mr-xs-3 wt-ml-xs-3">
     <p class="wt-text-body-small">
-        Reach out to the seller first for help with an existing order. If you ever need us, KINGDOMTOTO has your back.
+        Reach out to the seller first for help with an existing order. If you ever need us, PTTOGEL has your back.
     </p>
       
 </div>
@@ -512,7 +512,7 @@
             <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M21 3H3a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8.65l4.73 3.78a1 1 0 0 0 1.4-.15A1 1 0 0 0 18 20v-3h3a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm-1 12.05h-4V18l-3.38-2.71a.92.92 0 0 0-.62-.22H4V5h16zM8 11a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1zm4 0a1 1 0 1 0-1-1 1 1 0 0 0 1 1z"/></path></svg></span>
         </div>
         <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Contact KINGDOMTOTO Center</p>
+            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Contact PTTOGEL Center</p>
         </div>
     </a>
 </li><div class="wt-pb-xs-2">
@@ -597,14 +597,14 @@
     <a role="menuitem" href="https://www.etsy.com/registry?ref=hdr_user_menu-registry" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
         <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 15a1 1 0 1 0 0-2 1 1 0 0 0 0 2m1 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0m1-2.25h5v-1.5h-5zm5 3h-5v-1.5h5z"/></path><path fill-rule="evenodd" clip-rule="evenodd" d="M18 4.5c0 .537-.12 1.045-.337 1.5H20v16H4V6h2.337A3.5 3.5 0 0 1 12 2.05a3.5 3.5 0 0 1 6 2.45m-2 0A1.5 1.5 0 0 1 14.5 6H13V4.5a1.5 1.5 0 0 1 3 0M8 9a3 3 0 0 0 2.236-1H6v12h12V8h-4.236c.55.614 1.348 1 2.236 1v2a5 5 0 0 1-4-2 5 5 0 0 1-4 2zm1.5-6A1.5 1.5 0 0 1 11 4.5V6H9.5a1.5 1.5 0 1 1 0-3"/></path></svg></span></div>
         <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">KINGDOMTOTO Registry</p>
+            <p class="wt-text-caption wt-display-inline wt-m-xs-0">PTTOGEL Registry</p>
         </div>
     </a>
 </li><li class="wt-sem-text-primary wt-list-unstyled">
     <a role="menuitem" href="https://www.etsy.com/sell?ref=hdr-sell&from_page=https%3A%2F%2Fwww.etsy.com%2Flisting%2F7234781620%2Fbook-club-print-bookish-poster-trendy" class="wt-menu__item wt-display-flex-xs wt-align-items-center wt-justify-content-flex-start wt-pt-xs-1 wt-pb-xs-1" >
         <div><span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 9a3.333 3.333 0 0 0 6.667.023A3.333 3.333 0 0 0 15.334 9 3.333 3.333 0 0 0 22 9l-5-7H7zm13.334 0H4.458l3.571-5h7.942l3.571 5zM18 13h2v9H4v-9h2v2h12zm0 4H6v3h12z"/></path></svg></span></div>
         <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Sell on KINGDOMTOTO</p>
+            <p class="wt-text-caption wt-display-inline wt-m-xs-0">Sell on PTTOGEL</p>
         </div>
     </a>
 </li><li class="wt-sem-text-primary wt-list-unstyled wt-pt-xs-1 wt-pb-xs-1">
@@ -733,13 +733,13 @@ if (clientloggerIsEnabled) {
    <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/react-ssr/component-islands/queue.f84dcfc00c5c512691c1.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
 
         <main id="content"><br>
-          <div class="PTACID1131"><a href="https://appstore01.pages.dev/laporan/" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://appstore01.pages.dev/laporan/" rel="nofollow noreferrer" class="login">LOGIN</a></div><br>
+          <div class="PTACID1131"><a href="https://appstore01.pages.dev/pembantu/" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://appstore01.pages.dev/pembantu/" rel="nofollow noreferrer" class="login">LOGIN</a></div><br>
             <div data-clg-id="WtBanner" class="wt-banner wt-banner--informational-01 trust-suite-banner wt-max-width-full wt-display-flex-xs wt-align-items-center wt-justify-content-center wt-p-xs-3" id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-id="etsywebtoolkitbannerswtbanner68cb39e94ef52" data-prop-type="static" data-prop-style-type="informational-01" data-prop-is-open="true"  data-wt-neu-rendered>
         <div class="wt-banner__layout wt-display-flex-xs wt-align-items-center wt-justify-content-space-evenly wt-flex-nowrap">
         <div class="wt-show-lg wt-show-xl wt-show-tv wt-hide-md wt-hide-sm">
             <div class="wt-display-flex-xs wt-align-items-center">
                 <p class="wt-text-title">
-                    Bergabung Sekarang di KINGDOMTOTO
+                    Bergabung Sekarang di PTTOGEL
                 </p>
             </div>
         </div>
@@ -811,12 +811,12 @@ if (clientloggerIsEnabled) {
                     <div id="trust-suite-banner-spo-popover-overlay" role="tooltip">
                         <p class="wt-mb-xs-1">
                             
-                                KINGDOMTOTO keeps your information secure.
+                                PTTOGEL keeps your information secure.
                             
                         </p>
                         <p class="wt-mb-xs-1">
                             
-                                KINGDOMTOTO shops never receive your credit card information.
+                                PTTOGEL shops never receive your credit card information.
                             
                         </p>
                         <span class="wt-popover__arrow"></span>
@@ -858,19 +858,19 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">KINGDOMTOTO</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">PTTOGEL</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></path></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">Toto Togel</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">Toto Togel</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></path></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">Situs Toto</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">Situs Toto</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></path></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">Bandar Toto Togel</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">Bandar Toto Togel</a>
                         </li>
                 </ul>
                 <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
@@ -971,7 +971,7 @@ if (clientloggerIsEnabled) {
         aria-controls="report-item-overlay"
         id="report-overlay-trigger" 
         class="wt-btn wt-btn--transparent wt-btn--small">
-        <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></path></svg></span>Report this item to KINGDOMTOTO
+        <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></path></svg></span>Report this item to PTTOGEL
     </button>
     </div>
 
@@ -981,7 +981,7 @@ if (clientloggerIsEnabled) {
                     <div class="cart-col wt-order-xs-2 wt-mb-lg-5">
     <div id="listing-page-cart" class="wt-display-flex-lg wt-flex-direction-column-md wt-flex-lg-3 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-0 wt-pr-lg-5 wt-pl-xs-2 wt-pr-xs-2">
             <div class="wt-mb-xs-1 wt-mt-xs-1">
-                <div data-appears-component-name="KINGDOMTOTO-Modules-ListingPage-UrgencySignal-RecsRankingApiSpec" data-appears-event-data='{"module_placement":"lp_urgency_signals","datasets":["Common_Signal_CustomCandidatesSignalRankerV0"],"targets":[],"logging_class":"KINGDOMTOTO\\Modules\\ListingPage\\UrgencySignal\\RecsRankingApiSpec","page_listing_id":7234781620,"mmx_request_uuid_map":{"51316eeb-34a2-4c96-9fa3-3a44d56e2d4d":[0,1]},"candidate_source_map":{"signals-extractor":[0,1]},"second_pass_ranker_map":{"signals-ranker-v0":[0,1]},"client_provided_features":{"browser":{"acceptLanguage":"en-GB","browser":"Chrome","currency":"IDR","localeRegion":"ID","operatingSystem":"Windows 11","platform":"desktop","platformEtsyApp":"web","platformMobileDevice":"unidentified","source":"directLanding"},"date_time":{"dayOfWeek":"3","hourOfDay":"22"},"user":{"locationLatitude":null,"locationLongitude":null,"locationZip":"unidentified","userPreferredLanguage":"en-GB"}},"scores":[0.47744357585906982421875,0.222189426422119140625],"datasets_map":{"Common_Signal_CustomCandidatesSignalRankerV0":[0,1]},"target_listing_id":7234781620,"candidates":["in_cart_only","lp_views_only"],"refTag":"lp_urgency_signals","signals":["in_cart_only","lp_views_only"],"rec_event_name":"recommendations_module"}' class='recs-appears-logger'>
+                <div data-appears-component-name="PTTOGEL-Modules-ListingPage-UrgencySignal-RecsRankingApiSpec" data-appears-event-data='{"module_placement":"lp_urgency_signals","datasets":["Common_Signal_CustomCandidatesSignalRankerV0"],"targets":[],"logging_class":"PTTOGEL\\Modules\\ListingPage\\UrgencySignal\\RecsRankingApiSpec","page_listing_id":7234781620,"mmx_request_uuid_map":{"51316eeb-34a2-4c96-9fa3-3a44d56e2d4d":[0,1]},"candidate_source_map":{"signals-extractor":[0,1]},"second_pass_ranker_map":{"signals-ranker-v0":[0,1]},"client_provided_features":{"browser":{"acceptLanguage":"en-GB","browser":"Chrome","currency":"IDR","localeRegion":"ID","operatingSystem":"Windows 11","platform":"desktop","platformEtsyApp":"web","platformMobileDevice":"unidentified","source":"directLanding"},"date_time":{"dayOfWeek":"3","hourOfDay":"22"},"user":{"locationLatitude":null,"locationLongitude":null,"locationZip":"unidentified","userPreferredLanguage":"en-GB"}},"scores":[0.47744357585906982421875,0.222189426422119140625],"datasets_map":{"Common_Signal_CustomCandidatesSignalRankerV0":[0,1]},"target_listing_id":7234781620,"candidates":["in_cart_only","lp_views_only"],"refTag":"lp_urgency_signals","signals":["in_cart_only","lp_views_only"],"rec_event_name":"recommendations_module"}' class='recs-appears-logger'>
 <p class="wt-text-title-01 wt-sem-text-critical  appears-ready">Follower 90.814</p>
 </div>
             </div>
@@ -1013,8 +1013,8 @@ if (clientloggerIsEnabled) {
         
         
 <div class="wt-mt-xs-1 wt-mb-xs-1">
-<h1>KINGDOMTOTO: Login Situs Toto Slot & Sensasi Bandar Togel Bonus Aktif</h1>
-<p data-buy-box-listing-title="true" tabindex="0" class="wt-line-height-tight wt-break-word wt-text-body">KINGDOMTOTO hadir sebagai login situs toto slot yang dirancang khusus bandar togel dengan sensasi bonus aktif terusan. Sekaligus menjadi patner bandar togel untuk berikan komisi besar tentu peluang untuk anda penggemar bandar darat togel.</p>
+<h1>PTTOGEL | Login Situs Togel Online Gaming Terbaik Versi 2026</h1>
+<p data-buy-box-listing-title="true" tabindex="0" class="wt-line-height-tight wt-break-word wt-text-body">PTTOGEL adalah login situs togel online pakai platform gaming terbaik versi 2026, hal tersebut akan menawarkan situs togel dapat di akses secara instan, mudah, dan teraman.</p>
             </div>
         <div class="wt-mb-xs-3">
             <div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header">
@@ -1022,8 +1022,8 @@ if (clientloggerIsEnabled) {
         
     ">
         <span class="wt-text-title-small">
-    <a href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/" class="wt-text-link-no-underline wt-sem-text-primary">
-        KINGDOMTOTO
+    <a href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/" class="wt-text-link-no-underline wt-sem-text-primary">
+        PTTOGEL
     </a>
 </span>
             &nbsp;<div class="wt-popover star-seller-badge-listing-page" data-wt-popover>
@@ -1105,7 +1105,7 @@ if (clientloggerIsEnabled) {
         value="22156848895"
     />
 <input type="hidden" name="payment_method" value="cc"/>
- <div class="PTACID1131"><a href="https://appstore01.pages.dev/laporan/" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://appstore01.pages.dev/laporan/" rel="nofollow noreferrer" class="login">LOGIN</a></div>
+ <div class="PTACID1131"><a href="https://appstore01.pages.dev/pembantu/" rel="nofollow noreferrer" class="register">DAFTAR</a><a href="https://appstore01.pages.dev/pembantu/" rel="nofollow noreferrer" class="login">LOGIN</a></div>
  <style>.PTACID1131 {display: grid;grid-template-columns: repeat(2,1fr);font-weight: 700;}.PTACID1131 a {text-align: center;}.login, .register {color: #ffffff;padding: 13px 10px;}.login, .login-button { border: 1px solid #ff0000ff;background: linear-gradient(to bottom,#05b546 0,#05b546 100%);border: 1px solid #f4feff;}.register, .register-button {background: linear-gradient(to bottom,#05b546 0,#05b546 100%);border: 1px solid #f4feff;}</style><br>
 
 
@@ -1320,7 +1320,7 @@ if (clientloggerIsEnabled) {
             <div data-listing-page-lazy-loaded-bottom-section data-ymal-and-prolist-section>
                 <div class="wt-pt-xs-0 wt-mb-xs-8">
                     <div data-neu-spec-placeholder="1" id="569e011a1e24cf28711f5a7429944dc3">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"KINGDOMTOTO\\Modules\\ListingPage\\Recommendations\\CombinedAdsAndRecs\\ApiSpec","args":{"listing_id":7234781620,"user_id":1135369000,"module_placement":"external_bot","ymal_offset":2,"is_external_landing":true,"force_set_offset":true,"is_external_referrer":false,"hide_favorite_hearts":false,"is_from_OSA":false,"is_elp":false,"shop_id":54267703,"vat_region":"ID","ship_to_country":121,"selected_listing_variation_ids":[],"should_open_all_links_as_external":false,"swap_lp_recs_for_search":false,"ad_listing_ids_to_exclude":[]}}</script>
+    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"PTTOGEL\\Modules\\ListingPage\\Recommendations\\CombinedAdsAndRecs\\ApiSpec","args":{"listing_id":7234781620,"user_id":1135369000,"module_placement":"external_bot","ymal_offset":2,"is_external_landing":true,"force_set_offset":true,"is_external_referrer":false,"hide_favorite_hearts":false,"is_from_OSA":false,"is_elp":false,"shop_id":54267703,"vat_region":"ID","ship_to_country":121,"selected_listing_variation_ids":[],"should_open_all_links_as_external":false,"swap_lp_recs_for_search":false,"ad_listing_ids_to_exclude":[]}}</script>
     <p class="wt-screen-reader-only">Loading...</p>
 
 
@@ -1346,7 +1346,7 @@ if (clientloggerIsEnabled) {
 <div class="wt-body-max-width wt-mb-xs-6 wt-pr-xs-2 wt-pl-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-5 wt-pr-lg-5">
         <div data-listing-page-lazy-loaded-collection-section>
             <div data-neu-spec-placeholder="1" id="681d824159ab046d042eda509ac40181">
-    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"KINGDOMTOTO\\Modules\\CollectionRecs\\Recommendations\\ListingPage\\ApiSpec","args":{"listing_ids":[7234781620],"is_external":true,"display_browsy_elp_collection_recs":false,"set_is_eligible_compare_lp_collections":false}}</script>
+    <script type="text/json" data-neu-spec-placeholder-data="1">{"spec_name":"PTTOGEL\\Modules\\CollectionRecs\\Recommendations\\ListingPage\\ApiSpec","args":{"listing_ids":[7234781620],"is_external":true,"display_browsy_elp_collection_recs":false,"set_is_eligible_compare_lp_collections":false}}</script>
 
 
 </div>
@@ -1385,13 +1385,13 @@ if (clientloggerIsEnabled) {
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">KINGDOMTOTO</a>
+        <a href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">PTTOGEL</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></path></svg></span>
-        <a href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">Toto Togel</a>
+        <a href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">Toto Togel</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></path></svg></span>
-        <a href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">Situs Toto</a>
+        <a href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">Situs Toto</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></path></svg></span>
-        <a href="https://ppid.rsupsoeradji.id/laporan-kinerja-lainnya/">Bandar Toto Togel</a>
+        <a href="https://ppid.rsupsoeradji.id/tentang-ppid-pembantu/">Bandar Toto Togel</a>
 </div>
     
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
@@ -1478,7 +1478,7 @@ if (clientloggerIsEnabled) {
 </svg></span>
                 </div>
                 <div class="wt-mr-xs-2 wt-ml-xs-2 wt-mr-sm-0 wt-ml-sm-0 wt-ml-md-2 wt-text-body-01 wt-flex-md-auto">
-                    KINGDOMTOTO: Login Situs Toto Slot & Sensasi Bandar Togel Bonus Aktif
+                    PTTOGEL | Login Situs Togel Online Gaming Terbaik Versi 2026
                 </div>
             </button>
 
@@ -1505,7 +1505,7 @@ if (clientloggerIsEnabled) {
 
                     <div class="chrome-footer__final-col">
                         <span class="chrome-footer__copyright">
-                            Copyright 2025 KINGDOMTOTO.
+                            Copyright 2025 PTTOGEL.
                         </span>
 
                         <ul class="chrome-footer__final-links wt-list-inline">
@@ -1586,7 +1586,7 @@ if (clientloggerIsEnabled) {
         <div class="gdpr-overlay-body wt-pb-xl-2 wt-pb-lg-2 wt-pb-md-2 wt-pb-sm-2 wt-pb-xs-2">
             <div>
     <div data-section="intro">
-        <p>KINGDOMTOTO uses cookies and similar technologies to give you a better experience, enabling things like:</p>
+        <p>PTTOGEL uses cookies and similar technologies to give you a better experience, enabling things like:</p>
 <ul><li>basic site functions</li>
 <li>ensuring secure, safe transactions</li>
 <li>secure account login</li>
@@ -1595,7 +1595,7 @@ if (clientloggerIsEnabled) {
 <li>analysing site traffic and usage</li>
 <li>personalised search, content, and recommendations</li>
 <li>helping sellers understand their audience</li>
-<li>showing relevant, targeted ads on and off KINGDOMTOTO</li>
+<li>showing relevant, targeted ads on and off PTTOGEL</li>
 </ul><p>Detailed information can be found in Etsy <a href="/legal/cookies-and-tracking-technologies">Cookies & Similar Technologies Policy</a> and our <a href="/legal/privacy">Privacy Policy</a>.</p>
     </div>
 
@@ -1614,7 +1614,7 @@ if (clientloggerIsEnabled) {
     <div class="wt-text-caption wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs" data-section="third_party_consent">
         <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
             <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Personalised Advertising</h2>
-<p class="wt-text-caption wt-mb-xs-2">To enable personalised advertising (like interest-based ads), we may share your data with our marketing and advertising partners using cookies and other technologies. Those partners may have their own information they collected about you. Turning off the personalised advertising setting wont stop you from seeing KINGDOMTOTO ads, but it may make the ads you see less relevant or more repetitive.</p>
+<p class="wt-text-caption wt-mb-xs-2">To enable personalised advertising (like interest-based ads), we may share your data with our marketing and advertising partners using cookies and other technologies. Those partners may have their own information they collected about you. Turning off the personalised advertising setting wont stop you from seeing PTTOGEL ads, but it may make the ads you see less relevant or more repetitive.</p>
 <p class="wt-text-caption wt-mb-xs-2"> Personalised advertising may be considered a or of information under California and other state privacy laws, and you may have a right to opt out. Turning off personalised advertising allows you to exercise your right to opt out. Learn more in our <a class="wt-text-link" href="https://www.etsy.com/legal/privacy/">Privacy Policy</a>, <a class="wt-text-link" href="https://help.etsy.com/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Centre</a>, and <a class="wt-text-link" href="https://www.etsy.com/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
         </div>
         <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
@@ -1837,7 +1837,7 @@ if (clientloggerIsEnabled) {
             </div>
             <div data-report-choice="order-problem" id="order-problem" class="wt-display-none" style="display: none;">
                 <p class="wt-mb-xs-2 prose">The first thing you should do is contact the seller directly.</p>
-                <p class="wt-mb-xs-2 ip-policy prose">If you've already done that, your item hasn't arrived, or it's not as described, you can report that to KINGDOMTOTO by opening a case.</p>
+                <p class="wt-mb-xs-2 ip-policy prose">If you've already done that, your item hasn't arrived, or it's not as described, you can report that to PTTOGEL by opening a case.</p>
                 <p class="wt-mb-xs-2 prose">
                     <a href="/help/article/5307" target="_blank">
                         Report a problem with an order
@@ -1961,7 +1961,7 @@ if (clientloggerIsEnabled) {
 </button>
             <ul class="wt-list-unstyled wt-overflow-hidden image-overlay-list wt-position-relative wt-vertical-center wt-display-flex-xs wt-justify-content-center" style="padding-top: 80%;" data-image-overlay-list="" tabindex="0">
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background" data-listing-image="" data-index="0" data-image-id="6256816164">
-                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--portrait" alt="KINGDOMTOTO" data-delay-src="https://ik.imagekit.io/3dgm6pffgn/megajackpot.png" data-delay-srcset="https://ik.imagekit.io/3dgm6pffgn/megajackpot.png 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x" data-original-image-width="3000" data-original-image-height="3000" data-index="0" data-src-zoom-image="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_fullxfull.6256816164_26ap.jpg" />
+                        <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center image-overlay-image--portrait" alt="PTTOGEL" data-delay-src="https://ik.imagekit.io/3dgm6pffgn/megajackpot.png" data-delay-srcset="https://ik.imagekit.io/3dgm6pffgn/megajackpot.png 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x" data-original-image-width="3000" data-original-image-height="3000" data-index="0" data-src-zoom-image="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_fullxfull.6256816164_26ap.jpg" />
                     </li>
                   
                 <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none" data-click-to-zoom-toast="">
@@ -2346,13 +2346,13 @@ if (clientloggerIsEnabled) {
         </form>
 
     </div>
-</div><div data-clg-id="WtOverlay" class="wt-overlay wt-overlay--large wt-overlay--has-close-icon" id="country-picker" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Regions KINGDOMTOTO does business in" data-wt-overlay="">
+</div><div data-clg-id="WtOverlay" class="wt-overlay wt-overlay--large wt-overlay--has-close-icon" id="country-picker" aria-hidden="true" aria-modal="false" role="dialog" aria-label="Regions PTTOGEL does business in" data-wt-overlay="">
     <div class="wt-overlay__modal" data-overlay-modal="">
             <button type="button" class="wt-btn wt-btn--transparent wt-btn--icon wt-overlay__close-icon wt-btn--light" aria-label="Close" data-wt-overlay-close="">
                 <span class="wt-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.414,12l6.293-6.293a1,1,0,0,0-1.414-1.414L12,10.586,5.707,4.293A1,1,0,0,0,4.293,5.707L10.586,12,4.293,18.293a1,1,0,1,0,1.414,1.414L12,13.414l6.293,6.293a1,1,0,0,0,1.414-1.414Z"></path></svg></span>
             </button>
         <div data-clg-id="WtOverlayHeader" class="wt-overlay__header">
-            <p class="wt-text-heading">Regions KINGDOMTOTO does business in:</p>
+            <p class="wt-text-heading">Regions PTTOGEL does business in:</p>
 
 </div>
 
