@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ppid.rsupsoeradji.id/kinerja-keuangan/sitemap.xml
+Sitemap: https://www.semanapsicoactivabogota.com/ann-fordham/sitemap.xml
