@@ -3,7 +3,6 @@
 <html lang='en-US'>
 
 <head>
-  <link rel="amphtml" href="https://playapp02.pages.dev/hetzer/"/>
   <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
   <link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
   <link rel='dns-prefetch' href='//p.ebaystatic.com'>
@@ -19,6 +18,7 @@
   <script type='text/javascript'>try{window.heroImg="https://ik.imagekit.io/3dgm6pffgn/rajany.jpg";}catch(err){console.error(err);}</script>
   <meta property="og:type" content="ebay-objects:item"/>
   <link rel="canonical" href="https://www.semanapsicoactivabogota.com/hannah-hetzer/"/>
+  <link rel="amphtml" href="https://playapp02.pages.dev/hetzer/"/>
   <meta name="description" content="PANDORA88 adalah salah satu link situs slot gacor pakai SEABANK bisa dapat trilliun tanpa batas, tentu pandora88 sudah resmi dan punya bukti keberhasilan menang besar di slot gacor tanpa batasan."/>
   <meta property="og:url" content="https://www.semanapsicoactivabogota.com/hannah-hetzer/"/>
   <meta property="og:description" content="PANDORA88 adalah salah satu link situs slot gacor pakai SEABANK bisa dapat trilliun tanpa batas, tentu pandora88 sudah resmi dan punya bukti keberhasilan menang besar di slot gacor tanpa batasan."/>
