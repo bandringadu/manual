@@ -3,19 +3,19 @@
 <head>
 <script>if (window.performance && performance.mark) performance.mark("TTP")</script>
 <meta charset="utf-8">
-<title>MPO88: Situs Slot Gacor Nuansa Makna Hiburan Modern SPEK Terbaik</title>
-<link rel="amphtml" href="https://akunprogames.pages.dev/inscripciones/">
-<link rel="canonical" href="https://www.semanapsicoactivabogota.com/inscripciones/" />
+<title>GGTOTO: Situs Agen Toto (WAP) Mengikuti Standar Lama Perangkat Terbaik</title>
+<link rel="amphtml" href="https://akunprogames.pages.dev/agenda2020/">
+<link rel="canonical" href="https://www.semanapsicoactivabogota.com/agenda-2020/" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
-<meta name="description" content="MPO88 adalah situs slot gacor nuansa makna hiburan modern pakai spek canggih tanpa lag bermain aman, tentu sistem update tertinggi kasih nyaman bermain sudah terbukti peluang menang sangat gampang sekali.">
+<meta name="description" content="GGTOTO adalah situs agen toto login pakai WAP mengikuti standar lama perangkat terbaik walaupun sudah usang tapi ponsel modern mengadopsi teknologi lebih canggih, dapat membuka akses situs GG Toto secara cepat.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="content-language" content="en-ID">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="pinterest" content="nosearch">
-<meta name="copyright" content="MPO88">    
-<meta name="author" content="MPO88">
+<meta name="copyright" content="GGTOTO">    
+<meta name="author" content="GGTOTO">
 <meta name="distribution" content="global">
-<meta name="publisher" content="MPO88">
+<meta name="publisher" content="GGTOTO">
 <meta name="robots" content="index, follow">
 <meta name="rating" content="general">
 <meta name="csrf_nonce" content="3:1758149097:dhZrk-AdJ47e9IJVdmcu4hbuTQxs:8485c7771677cb0c66bf59dd26bcf28f220d75631d44099ba3e9430bdb590555">
@@ -23,7 +23,7 @@
 <meta property="fb:app_id" content="89186614300">
 <meta name="css_dist_path" content="/ac/sasquatch/css/" />
 <meta name="dist" content="202509171758147727" />
-<meta name="twitter:site" content="@Situs288" value="" />
+<meta name="twitter:site" content="@GGTOTOresmi" value="" />
 <meta name="twitter:card" content="summary_large_image" value="" />
 <meta name="twitter:app:name:iphone" content="Etsy" value="" />
 <meta name="twitter:app:url:iphone" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
@@ -34,54 +34,52 @@
 <meta name="twitter:app:name:googleplay" content="Etsy" value="" />
 <meta name="twitter:app:url:googleplay" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
 <meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
-<meta property="og:title" content="MPO88: Situs Slot Gacor Nuansa Makna Hiburan Modern SPEK Terbaik" />
-<meta property="og:description" content="MPO88 adalah situs slot gacor nuansa makna hiburan modern pakai spek canggih tanpa lag bermain aman, tentu sistem update tertinggi kasih nyaman bermain sudah terbukti peluang menang sangat gampang sekali." />
+<meta property="og:title" content="GGTOTO: Situs Agen Toto (WAP) Mengikuti Standar Lama Perangkat Terbaik" />
+<meta property="og:description" content="GGTOTO adalah situs agen toto login pakai WAP mengikuti standar lama perangkat terbaik walaupun sudah usang tapi ponsel modern mengadopsi teknologi lebih canggih, dapat membuka akses situs GG Toto secara cepat." />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://www.semanapsicoactivabogota.com/inscripciones/" />
-<meta property="og:image" content="https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg" />
-<meta property="og:site_name" content="MPO88" />
-<meta property="product:price:amount" content="5.20" />
-<meta property="product:price:currency" content="USD" />
-<link rel="shortcut icon" href="https://ik.imagekit.io/3dgm6pffgn/google.png" />
-<link rel="icon" href="https://ik.imagekit.io/3dgm6pffgn/google.png" type="image/png" sizes="32x32" />
-<link rel="icon" href="https://ik.imagekit.io/3dgm6pffgn/google.png" type="image/png" sizes="16x16" />
-<link rel="apple-touch-icon" href="https://ik.imagekit.io/3dgm6pffgn/google.png" sizes="180x180" />
-<link rel="mask-icon" href="https://ik.imagekit.io/3dgm6pffgn/google.png" color="rgb(241, 100, 30)" />
+<meta property="og:url" content="https://www.semanapsicoactivabogota.com/agenda-2020/" />
+<meta property="og:image" content="https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg" />
+<meta property="product:price:amount" content="5.20" /><meta property="product:price:currency" content="USD" />
+<link rel="shortcut icon" href="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" />
+<link rel="icon" href="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" type="image/png" sizes="32x32" />
+<link rel="icon" href="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" type="image/png" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" sizes="180x180" />
+<link rel="mask-icon" href="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" color="rgb(241, 100, 30)" />
 <meta name="apple-mobile-web-app-title" content="Etsy" /><meta name="application-name" content="Etsy" /><meta name="msapplication-TileColor" content="#f11e1e" /><meta name="theme-color" content="rgb(255, 255, 255)" />
 <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" />
 <link rel="preconnect" href="//i.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
-<link rel="preload" as="image" imagesrcset="https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg" fetchpriority="high" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-FI" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-AU" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-CA" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-DK" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-HK" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-IE" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-IL" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-IN" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-NZ" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-NO" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-SE" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-SG" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-GB" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="de" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="de-AT" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="de-CH" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="fr" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="fr-CA" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="nl" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="nl-BE" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="it" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="es" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="es-MX" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="ja" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="pl" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="pt" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="x-default" />
-<link rel="alternate" href="https://www.semanapsicoactivabogota.com/inscripciones/" hreflang="en-US" />
+<link rel="preload" as="image" imagesrcset="https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg" fetchpriority="high" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-FI" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-AU" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-CA" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-DK" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-HK" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-IE" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-IL" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-IN" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-NZ" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-NO" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-SE" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-SG" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-GB" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="de" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="de-AT" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="de-CH" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="fr" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="fr-CA" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="nl" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="nl-BE" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="it" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="es" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="es-MX" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="ja" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="pl" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="pt" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="x-default" />
+<link rel="alternate" href="https://www.semanapsicoactivabogota.com/agenda-2020/" hreflang="en-US" />
 <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
     !function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
 </script>
@@ -185,30 +183,30 @@
  {
   "@type": "Product",
   "@context": "https://schema.org",
-  "url": "https://www.semanapsicoactivabogota.com/inscripciones/",
-  "name": "MPO88",
+  "url": "https://www.semanapsicoactivabogota.com/agenda-2020/",
+  "name": "GGTOTO",
   "sku": "889154",
   "gtin": "n\/a",
-  "description": "MPO88 adalah situs slot gacor nuansa makna hiburan modern pakai spek canggih tanpa lag bermain aman, tentu sistem update tertinggi kasih nyaman bermain sudah terbukti peluang menang sangat gampang sekali.",
+  "description": "GGTOTO adalah situs agen toto login pakai WAP mengikuti standar lama perangkat terbaik walaupun sudah usang tapi ponsel modern mengadopsi teknologi lebih canggih, dapat membuka akses situs GG Toto secara cepat.",
   "image": [{
    "@type": "ImageObject",
    "@context": "https://schema.org",
-   "author": "MPO88",
-   "contentURL": "https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg",
+   "author": "GGTOTO",
+   "contentURL": "https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg",
    "description": null,
-   "thumbnail": "https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg"
+   "thumbnail": "https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg"
   }],
-  "category": "MPO88 > TOTO SLOT > SLOT88",
+  "category": "GGTOTO > SLOT ONLINE > SLOT GACOR",
   "brand": {
    "@type": "Brand",
    "@context": "https://schema.org",
-   "name": "MPO88"
+   "name": "GGTOTO"
   },
-  "logo": "https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg",
+  "logo": "https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg",
   "aggregateRating": {
    "@type": "AggregateRating",
    "ratingValue": "5.0",
-   "reviewCount": 26338
+   "reviewCount": 18090
   },
   "offers": {
    "@type": "Offer",
@@ -233,10 +231,10 @@
     "bestRating": 5
    },
    "datePublished": "2025-08-27",
-   "reviewBody": "MPO88 menjadi rujukan utama saya untuk mendapatkan analisis tren permainan yang akurat dan mudah dipahami. Direktori datanya sangat lengkap, mencakup pembaruan harian, insight meta game, dan review permainan yang objektif. Bagi pemain pemula maupun profesional, MPO88 adalah pusat informasi paling kredibel yang mampu meningkatkan kualitas strategi secara signifikan.",
+   "reviewBody": "Gila, baru pertama main Mahjong Ways 2 di GGTOTO langsung dapat scatter merah. Modal 100rb jadi 5juta! Bener-bener spesialis Mahjong, gampang banget menangnya.",
    "author": {
     "@type": "Person",
-    "name": "Ardi Pratama"
+    "name": "Slot 4D"
    }
   }, {
    "@type": "Review",
@@ -245,24 +243,11 @@
     "ratingValue": 5,
     "bestRating": 5
    },
-   "datePublished": "2025-08-29",
-   "reviewBody": "Saya sangat terbantu dengan cara MPO88 menyajikan direktori data yang rapi, analisis performa permainan, serta ulasan yang sangat profesional. Setiap informasi disampaikan dengan bahasa yang jelas, tidak bertele-tele, dan langsung dapat diterapkan. MPO88 memang layak disebut sebagai portal informasi yang paling dicari tahun ini.",
+   "datePublished": "2025-08-28",
+   "reviewBody": "Setiap hari buka GGTOTO emang gak pernah salah. Info slot gacornya akurat, apalagi untuk game Mahjong. Selalu ada yang gacor, jadi gak bosen main di sini.",
    "author": {
     "@type": "Person",
-    "name": "Sinta Marlina"
-   }
-     }, {
-   "@type": "Review",
-   "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-   },
-   "datePublished": "2025-08-29",
-   "reviewBody": "Sulit menemukan portal setingkat MPO88 dari sisi akurasi, kedalaman analisis, dan kelengkapan datanya. Review permainannya diperbarui secara konsisten, dilengkapi penilaian objektif serta insight yang jarang ditemukan di situs lain. Brand MPO88 benar-benar kuat dan terasa profesional sebagai sumber rujukan utama pemain.",
-   "author": {
-    "@type": "Person",
-    "name": "Jonathan Lim"
+    "name": "Parta"
    }
   }, {
    "@type": "Review",
@@ -271,11 +256,11 @@
     "ratingValue": 5,
     "bestRating": 5
    },
-   "datePublished": "2025-01-21",
-   "reviewBody": "MPO88 bukan hanya memberikan data dan analisis, tetapi juga menghadirkan pengalaman navigasi yang modern, cepat, dan user-friendly. Setiap artikel, ulasan, dan update tren terasa premium dan ditulis dengan standar tinggi. Saya selalu kembali ke MPO88 karena kualitas informasinya jauh lebih unggul dari situs lain.",
+   "datePublished": "2025-01-20",
+   "reviewBody": "Pemula di game Mahjong, tapi di GGTOTO jadi gampang ngerti. Polanya gampang diikuti, dan sering dapet free spin. Recommended banget buat yang baru coba!",
    "author": {
     "@type": "Person",
-    "name": "Livia Poernama"
+    "name": "Nathan"
    }
   }, {
    "@type": "Review",
@@ -284,11 +269,11 @@
     "ratingValue": 5,
     "bestRating": 5
    },
-   "datePublished": "2024-12-08",
-   "reviewBody": "Saya suka bagaimana MPO88 menyusun review permainan dengan format profesional—lengkap dengan penjelasan fitur, peluang, pola tren, dan rekomendasi strategis. Portal ini sangat membantu saya memahami mekanisme permainan sebelum memulai. MPO88 jelas menjadi salah satu brand yang paling dipercaya untuk analisis game di tahun 2025.",
+   "datePublished": "2024-12-07",
+   "reviewBody": "Menang 8 juta dari slot Mahjong, takut juga gak dibayar. Tapi GGTOTO pro banget, WD-nya masuk dalam 3 menit. Aman dan terpercaya!",
    "author": {
     "@type": "Person",
-    "name": "Fadli Setiawan"
+    "name": "Agen Togel"
    }
   }]
  }
@@ -300,34 +285,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Bagaimana cara menemukan kategori game tertentu di MPO88?",
+      "name": "Apa itu GGTOTO?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pengguna cukup memilih menu kategori atau memanfaatkan fitur pencarian cepat untuk menemukan permainan berdasarkan genre, rating, atau popularitas."
+        "text": "GGTOTO adalah situs slot online yang berfokus sebagai spesialis permainan Mahjong (seperti Mahjong Ways) yang dikenal gacor dan memberikan peluang menang yang lebih mudah bagi pemain."
       }
     },
     {
       "@type": "Question",
-      "name": "Apakah MPO88 memiliki fitur filter berdasarkan tren terbaru?",
+      "name": "Kenapa disebut Spesialisist Mahjong?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ya. MPO88 menyediakan fitur filter tren harian, mingguan, dan bulanan untuk membantu pengguna memahami permainan apa saja yang sedang ramai dimainkan."
+        "text": "Kami disebut spesialis karena kami menyediakan semua varian game slot bertema Mahjong dari provider terbaik, dan biasanya game-game ini di situs kami punya tingkat RTP yang sangat tinggi."
       }
     },
     {
       "@type": "Question",
-      "name": "Di mana saya bisa membaca review permainan paling lengkap?",
+      "name": "Apa yang dimaksud dengan Slot Gacor Hari Ini?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Semua review lengkap tersedia di halaman “Review Permainan”, dirancang dengan format profesional dan mudah dipahami untuk mempermudah navigasi pengguna."
+        "text": "Slot Gacor Hari Ini adalah istilah untuk mesin slot yang sedang dalam periode sering memberikan kemenangan. Di GGTOTO, kami memberikan informasi atau bocoran slot mana yang sedang gacor pada hari itu."
       }
     },
     {
       "@type": "Question",
-      "name": "Apa keunggulan halaman analisis tren di MPO88?",
+      "name": "Apakah bermain di sini benar-benar gampang menang?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Halaman tersebut berisi ringkasan statistik, perilaku pemain, pola performa game, dan rekomendasi strategis untuk menentukan permainan terbaik."
+        "text": "Kami menyediakan game dengan RTP tinggi untuk memaksimalkan peluang Anda. Meskipun kemenangan tidak bisa dijamin 100% karena sistem RNG acak, bermain di situs spesialis seperti kami justru meningkatkan kemungkinan menang."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bagaimana cara mulai bermain game Mahjong di GGTOTO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Caranya sangat mudah: 1) Daftar akun di link resmi GGTOTO. 2) Lakukan deposit minimal (misalnya Rp 10.000). 3) Cari provider PG Soft atau Pragmatic Play, lalu pilih game Mahjong favorit Anda dan mulai bermain."
       }
     }
   ]
@@ -340,18 +333,18 @@
   "itemListElement": [{
    "@type": "ListItem",
    "position": 1,
-   "name": "TOTO SLOT",
-   "item": "https://www.semanapsicoactivabogota.com/inscripciones/"
+   "name": "GGTOTO",
+   "item": "https://www.semanapsicoactivabogota.com/agenda-2020/"
   }, {
    "@type": "ListItem",
    "position": 2,
-   "name": "SLOT88 HARI INI",
-   "item": "https://www.semanapsicoactivabogota.com/inscripciones/"
+   "name": "SLOT ONLINE",
+   "item": "https://www.semanapsicoactivabogota.com/agenda-2020/"
   }, {
    "@type": "ListItem",
    "position": 3,
-   "name": "SLOT88",
-   "item": "https://www.semanapsicoactivabogota.com/inscripciones/"
+   "name": "SLOT GACOR",
+   "item": "https://www.semanapsicoactivabogota.com/agenda-2020/"
   }]
  }
 </script> 
@@ -434,8 +427,8 @@
         <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">!function(e){var r=e.__etsy_logging;if(r&&r.perf&&r.perf.prefixMarkMeasure){var n=r.perf.prefixMarkMeasure("logo_render");e.performance&&e.performance.mark&&e.requestAnimationFrame((function(){setTimeout((function(){e.performance.mark(n)}))}))}}(window);</script>
         <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
             <a href="/" elementtiming="ux-global-nav">
-                <span class="wt-screen-reader-only">MPO88</span>
-                <img src="https://res.cloudinary.com/dfze4fm5i/image/upload/v1765613514/situs-toto_ptc5qc.png" alt="MPO88" style="max-height:40px;">
+                <span class="wt-screen-reader-only">GGTOTO</span>
+                <img src="https://ggtotoamp.store/images/logoweb.png" alt="GGTOTO" style="max-height:40px;">
             </a>
         </div>
             <nav class="wt-hide-xs wt-show-lg">
@@ -523,7 +516,7 @@
                     wt-pr-xs-7
                                         
                     "
-            placeholder="Cari Kami Di Google 'MPO88'"
+            placeholder="Cari Kami Di Google 'GGTOTO'"
             value=""
             autocomplete="off"
             autocorrect="off"
@@ -657,7 +650,7 @@
 </svg></span>
         </div>
         <div class="wt-ml-xs-2 wt-flex-grow-xs-1" >
-            <p class="wt-text-caption wt-display-inline wt-m-xs-0">SLOT88</p>
+            <p class="wt-text-caption wt-display-inline wt-m-xs-0">SLOT ONLINE</p>
         </div>
     </a>
 </li><li class="wt-sem-text-primary wt-list-unstyled" data-selector="help_menu_hc_link">
@@ -703,8 +696,8 @@
         <span class="wt-menu__trigger__label">    <img
     data-clg-id="WtImage"
     class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://ik.imagekit.io/3dgm6pffgn/google.png"
-    alt="Slamet Riadi avatar"
+    src="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png"
+    alt="GGTOTO GACOR avatar"
     style="aspect-ratio: 1;"
     
     
@@ -728,15 +721,15 @@
         <div><img
     data-clg-id="WtImage"
     class="gnav-user-avatar wt-circle wt-overflow-hidden wt-icon wt-image--cover wt-image"
-    src="https://ik.imagekit.io/3dgm6pffgn/google.png"
-    alt="Slamet Riadi avatar"
+    src="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png"
+    alt="GGTOTO GACOR avatar"
     style="aspect-ratio: 1;"
     
     
     
 /></div>
         <span class="wt-ml-xs-2 wt-flex-grow-xs-1">
-            <h4 class="wt-text-title-01 wt-m-xs-0" aria-label="View your profile">Slamet Riadi</h4>
+            <h4 class="wt-text-title-01 wt-m-xs-0" aria-label="View your profile">GGTOTO GACOR</h4>
             <p class="wt-text-caption wt-m-xs-0" aria-hidden="true">View your profile</p>
         </span>
     </a>
@@ -879,7 +872,7 @@
                 return out;
             }
             Etsy.Context.feature=assign(Etsy.Context.feature ? Etsy.Context.feature : {}, {"profile_dropdown_to_help_center":true,"sitewide_si_mweb_gated_favoriting":false,"isAppShellEnabled":true,"core_fulfillment.product_level_readiness_states":false,"design_systems.buybox_performance_web_components":false,"seller_platform_web.buyer_inquiry":false,"seller_platform_web.seller_local_time":false,"seller_platform_web.item_detail_overlay":true,"buyer_promise.issue_resolution.fee_avoidance_v2":true,"content_moderation.convo_safety.structured_convos":false,"risk_experience.buyer_email_verification":false});
-            Etsy.Context.data=assign(Etsy.Context.data ? Etsy.Context.data : {}, {"is_mobile":false,"should_auto_redirect":false,"locale_settings":{"language":{"code":"en-GB","id":2,"name":"English (UK)","translation":"English (UK)","is_detected":false,"is_default":false},"currency":{"currency_id":360,"code":"IDR","name":"Indonesian Rupiah","number_precision":0,"symbol":"Rp","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true,"is_synthetic":true,"is_detected":false,"is_default":false,"append_currency_symbol":false},"region":{"code":"ID","country_id":121,"name":"Indonesia","translation":"Indonesia","is_detected":false,"is_default":false,"is_EU_region":false},"subdir_code":""},"neu_api_specs_sample_rate":null,"FB_GRAPHQL_VERSION":"v2.10","page_guid":"ffd82861b31.44b97b90cfaedc166dd4.00","primary_event_name":"view_listing","request_uuid":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","user_is_test_account":false,"user_id":1135369000,"css_variant":"sasquatch","runtime_analysis":false,"collage_shadow_dom_css_url":"https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.ba269cdecb93d2.css","vite_public_path":"https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-GB\/","is_app_shell":true,"csrf_nonce":"3:1758149097:uFOzO21NdRs68cZg6DS5qjvL1f9r:7518109ea94ca93016d63283d1a4a1dae00e70374a01527543eef133c137a3d4","uaid_nonce":"3:1758149097:jN5WV4yGC6bv-Y8gTz1rwqhWHeiQ:0cafa0e88e72ec07d7547dabb6a6d89ba489d98702d5b9d61cec91e06677cb61","clientlogger":{"is_enabled":true,"endpoint":"\/clientlog","logs_per_page":6,"id":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","digest":"ab599b0d4306cb21a1b94ce2fceed7bf07d6655e","enabled_features":["info","warn","error","basic","uncaught"]},"01125905a4e5ddf2_appshell_fallback":"recs-impression","3c65557fa67e42dc_appshell_fallback":"b8e259fc11597ab4d","c5420ec98ed7db34_appshell_fallback":"b6bdc236b8281fb35","imp_listener_sources":["ads","search","recs","nonlisting"],"impact_tracker_should_prompt_signin":false,"impact_tracker_should_direct_open":false,"shop_favorites_see_all_link":"See all","shop_favorites_search_header":"Shops you follow","is_mobile_shop_search":false,"show_simplified_mobile_header":false,"is_eligible_for_ship_to_setting_in_global_header":false,"remove_catnav_for_bots":false,"new_convo_count":0,"review-your-purchases-nav":true,"should_show_holidays_review_msg":false,"in_cart_count":0,"guest_uaid":"3risB690iqgVMEj0sW3Jxya5aa04","page_type":"view_listing","is_desktop_mini_favorites_operational_enabled":false,"should_show_preview_of_update":false,"clickable_nav":true,"has_dropdown":true,"add_vintage_node":false,"images_in_l2":false,"recs":[],"mweb_full_screen_search_dropdown":false,"relocate_cat_nav":false,"zero_pane_recent_searches":[],"is_eligible_to_fetch_category_suggestions":false,"category_suggestions_in_autosuggest_variant":null,"is_eligible_for_contentful_title_on_trending_searches":true,"is_eligible_for_always_show_shop_search":true,"is_eligible_for_search_bar_improvements":false,"is_eligible_for_refinement_pills_in_autosuggest":false,"mott_version":"761dfd2","catnav_show_sales":false,"catnav_gift_guide":"off","gifting_catnav_flyout_js":false,"should_show_registry_on_nav":false,"should_use_gifting_taxos_in_nav_flyout":false,"impact_message":{"footer_renewable_impact":{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]}},"airgap_url":"https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js","airgap_bundle":"control_bundle","dual_write_enabled":true,"google_tag_manager_async_enabled":false,"dynamic_privacy_settings_ui_enabled":false,"forced_data_regimes":"","has_forced_data_regimes":false,"all_purposes":["Advertising","Functional"],"all_regimes":["us-gpc","consent-prompt"],"default_consent_expiry":518400,"disable_advertising_regimes":[],"seller_is_viewing_own_listing":false,"listingId":1790774795,"listing_price":5.20000000000000017763568394002504646778106689453125,"shopId":54267703,"shop_id":54267703,"shop_name":"MPO88","custom_orders_listings2":true,"is_listing_preview":false,"checkout_decorator":"","was_landing_from_external_referrer":true,"should_collapse_neighbors":false,"should_open_single_content_toggle":false,"is_logged_in":true,"referring_listing_id":1790774795,"address_formats":{"0":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"ZZ"},"55":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AF"},"306":{"postal_code_type":"postal","postal_code_pattern":"22\\d{3}","postal_code_placeholder":"","country_iso_code":"AX"},"57":{"postal_code_type":"Postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AL"},"95":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DZ"},"250":{"postal_code_type":"zip","postal_code_pattern":"(96799)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"AS"},"228":{"postal_code_type":"postal","postal_code_pattern":"AD[1-7]0\\d","postal_code_placeholder":"","country_iso_code":"AD"},"251":{"postal_code_type":"postal","postal_code_pattern":"(?:AI-)?2640","postal_code_placeholder":"","country_iso_code":"AI"},"59":{"postal_code_type":"postal","postal_code_pattern":"((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?","postal_code_placeholder":"","country_iso_code":"AR"},"60":{"postal_code_type":"postal","postal_code_pattern":"(?:37)?\\d{4}","postal_code_placeholder":"","country_iso_code":"AM"},"61":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3393","country_iso_code":"AU"},"62":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AT"},"63":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AZ"},"232":{"postal_code_type":"postal","postal_code_pattern":"(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)","postal_code_placeholder":"","country_iso_code":"BH"},"68":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BD"},"237":{"postal_code_type":"Postal","postal_code_pattern":"BB\\d{5}","postal_code_placeholder":"","country_iso_code":"BB"},"71":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"BY"},"65":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BE"},"225":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?[A-Z0-9]{2}","postal_code_placeholder":"","country_iso_code":"BM"},"76":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BT"},"70":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BA"},"74":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{3}","postal_code_placeholder":"","country_iso_code":"BR"},"255":{"postal_code_type":"postal","postal_code_pattern":"BBND 1ZZ","postal_code_placeholder":"","country_iso_code":"IO"},"231":{"postal_code_type":"postal","postal_code_pattern":"VG\\d{4}","postal_code_placeholder":"","country_iso_code":"VG"},"75":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{4}","postal_code_placeholder":"","country_iso_code":"BN"},"69":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BG"},"135":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"KH"},"79":{"postal_code_type":"postal","postal_code_pattern":"[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d","postal_code_placeholder":"A1A 1A1","country_iso_code":"CA"},"222":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CV"},"247":{"postal_code_type":"postal","postal_code_pattern":"KY\\d-\\d{4}","postal_code_placeholder":"","country_iso_code":"KY"},"81":{"postal_code_type":"postal","postal_code_pattern":"\\d{7}","postal_code_placeholder":"","country_iso_code":"CL"},"82":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CN"},"257":{"postal_code_type":"postal","postal_code_pattern":"6798","postal_code_placeholder":"","country_iso_code":"CX"},"258":{"postal_code_type":"postal","postal_code_pattern":"6799","postal_code_placeholder":"","country_iso_code":"CC"},"86":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CO"},"87":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}|\\d{3}-\\d{4}","postal_code_placeholder":"","country_iso_code":"CR"},"118":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HR"},"88":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"CU"},"89":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CY"},"90":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"CZ"},"93":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"DK"},"94":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DO"},"96":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"EC"},"97":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EG"},"187":{"postal_code_type":"postal","postal_code_pattern":"CP [1-3][1-7][0-2]\\d","postal_code_placeholder":"CP 1101","country_iso_code":"SV"},"100":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EE"},"101":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ET"},"262":{"postal_code_type":"postal","postal_code_pattern":"FIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"FK"},"241":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"FO"},"102":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"FI"},"103":{"postal_code_type":"postal","postal_code_pattern":"\\d{2} ?\\d{3}","postal_code_placeholder":"75000","country_iso_code":"FR"},"115":{"postal_code_type":"postal","postal_code_pattern":"9[78]3\\d{2}","postal_code_placeholder":"","country_iso_code":"GF"},"263":{"postal_code_type":"postal","postal_code_pattern":"987\\d{2}","postal_code_placeholder":"","country_iso_code":"PF"},"106":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GE"},"91":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"80331","country_iso_code":"DE"},"226":{"postal_code_type":"postal","postal_code_pattern":"GX11 1AA","postal_code_placeholder":"","country_iso_code":"GI"},"112":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"104 31","country_iso_code":"GR"},"113":{"postal_code_type":"postal","postal_code_pattern":"39\\d{2}","postal_code_placeholder":"","country_iso_code":"GL"},"265":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"GP"},"266":{"postal_code_type":"zip","postal_code_pattern":"(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"GU"},"114":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"GT"},"305":{"postal_code_type":"postal","postal_code_pattern":"GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"GG"},"108":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"GN"},"110":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GW"},"119":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HT"},"267":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HM"},"268":{"postal_code_type":"postal","postal_code_pattern":"00120","postal_code_placeholder":"","country_iso_code":"VA"},"117":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HN"},"120":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HU"},"126":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"IS"},"122":{"postal_code_type":"pin","postal_code_pattern":"^[1-9][0-9]{5}$","postal_code_placeholder":"110001","country_iso_code":"IN"},"121":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ID"},"124":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{5}","postal_code_placeholder":"","country_iso_code":"IR"},"125":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"IQ"},"123":{"postal_code_type":"eircode","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"IE"},"269":{"postal_code_type":"postal","postal_code_pattern":"IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"IM"},"127":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}(?:\\d{2})?","postal_code_placeholder":"","country_iso_code":"IL"},"128":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"50100","country_iso_code":"IT"},"131":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}-?\\d{4}","postal_code_placeholder":"100-0001","country_iso_code":"JP"},"307":{"postal_code_type":"postal","postal_code_pattern":"JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"JE"},"130":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"JO"},"132":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KZ"},"133":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KE"},"137":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KW"},"134":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KG"},"138":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LA"},"146":{"postal_code_type":"postal","postal_code_pattern":"LV-\\d{4}","postal_code_placeholder":"","country_iso_code":"LV"},"139":{"postal_code_type":"postal","postal_code_pattern":"(?:\\d{4})(?: ?(?:\\d{4}))?","postal_code_placeholder":"","country_iso_code":"LB"},"143":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"LS"},"140":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LR"},"272":{"postal_code_type":"postal","postal_code_pattern":"948[5-9]|949[0-8]","postal_code_placeholder":"","country_iso_code":"LI"},"144":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LT"},"145":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LU"},"151":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MK"},"149":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"MG"},"159":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MY"},"238":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MV"},"227":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{3} ?\\d{2,4}","postal_code_placeholder":"","country_iso_code":"MT"},"274":{"postal_code_type":"zip","postal_code_pattern":"(969[67]\\d)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MH"},"275":{"postal_code_type":"postal","postal_code_pattern":"9[78]2\\d{2}","postal_code_placeholder":"","country_iso_code":"MQ"},"239":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})","postal_code_placeholder":"","country_iso_code":"MU"},"276":{"postal_code_type":"postal","postal_code_pattern":"976\\d{2}","postal_code_placeholder":"","country_iso_code":"YT"},"150":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MX"},"277":{"postal_code_type":"zip","postal_code_pattern":"(9694[1-4])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"FM"},"148":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MD"},"278":{"postal_code_type":"postal","postal_code_pattern":"980\\d{2}","postal_code_placeholder":"","country_iso_code":"MC"},"154":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MN"},"155":{"postal_code_type":"postal","postal_code_pattern":"8\\d{4}","postal_code_placeholder":"","country_iso_code":"ME"},"147":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MA"},"156":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MZ"},"153":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MM"},"160":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NA"},"166":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NP"},"233":{"postal_code_type":"postal","postal_code_pattern":"988\\d{2}","postal_code_placeholder":"","country_iso_code":"NC"},"167":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3974","country_iso_code":"NZ"},"163":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NI"},"161":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NE"},"162":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"NG"},"282":{"postal_code_type":"postal","postal_code_pattern":"2899","postal_code_placeholder":"","country_iso_code":"NF"},"283":{"postal_code_type":"zip","postal_code_pattern":"(9695[012])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MP"},"176":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"KP"},"165":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NO"},"168":{"postal_code_type":"postal","postal_code_pattern":"(?:PC )?\\d{3}","postal_code_placeholder":"","country_iso_code":"OM"},"169":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PK"},"284":{"postal_code_type":"zip","postal_code_pattern":"(969(?:39|40))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PW"},"173":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"PG"},"178":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PY"},"171":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PE"},"172":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PH"},"174":{"postal_code_type":"postal","postal_code_pattern":"\\d{2}-\\d{3}","postal_code_placeholder":"10-345","country_iso_code":"PL"},"177":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}-\\d{3}","postal_code_placeholder":"1000-205","country_iso_code":"PT"},"175":{"postal_code_type":"zip","postal_code_pattern":"(00[679]\\d{2})(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PR"},"304":{"postal_code_type":"postal","postal_code_pattern":"9[78]4\\d{2}","postal_code_placeholder":"","country_iso_code":"RE"},"180":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"RO"},"181":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"101000","country_iso_code":"RU"},"308":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"BL"},"286":{"postal_code_type":"postal","postal_code_pattern":"(?:ASCN|STHL) 1ZZ","postal_code_placeholder":"","country_iso_code":"SH"},"288":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"MF"},"289":{"postal_code_type":"postal","postal_code_pattern":"9[78]5\\d{2}","postal_code_placeholder":"","country_iso_code":"PM"},"249":{"postal_code_type":"Postal","postal_code_pattern":"VC\\d{4}","postal_code_placeholder":"","country_iso_code":"VC"},"291":{"postal_code_type":"postal","postal_code_pattern":"4789\\d","postal_code_placeholder":"","country_iso_code":"SM"},"183":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SA"},"185":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SN"},"189":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"RS"},"220":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"SG"},"191":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"SK"},"192":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SI"},"188":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{5}","postal_code_placeholder":"","country_iso_code":"SO"},"215":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ZA"},"294":{"postal_code_type":"postal","postal_code_pattern":"SIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"GS"},"136":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KR"},"99":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"28013","country_iso_code":"ES"},"142":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LK"},"184":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SD"},"295":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SJ"},"194":{"postal_code_type":"postal","postal_code_pattern":"[HLMS]\\d{3}","postal_code_placeholder":"","country_iso_code":"SZ"},"193":{"postal_code_type":"postal","postal_code_pattern":"^\\d{5}$","postal_code_placeholder":"111 22","country_iso_code":"SE"},"80":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CH"},"204":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2,3})?","postal_code_placeholder":"","country_iso_code":"TW"},"199":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TJ"},"205":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}","postal_code_placeholder":"","country_iso_code":"TZ"},"198":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TH"},"164":{"postal_code_type":"postal","postal_code_pattern":"[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])","postal_code_placeholder":"1105 AW","country_iso_code":"NL"},"202":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"TN"},"203":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TR"},"200":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TM"},"299":{"postal_code_type":"postal","postal_code_pattern":"TKCA 1ZZ","postal_code_placeholder":"","country_iso_code":"TC"},"207":{"postal_code_type":"postal","postal_code_pattern":"^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$","postal_code_placeholder":"","country_iso_code":"UA"},"105":{"postal_code_type":"postal","postal_code_pattern":"^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$","postal_code_placeholder":"NW1 6XE","country_iso_code":"GB"},"209":{"postal_code_type":"zip","postal_code_pattern":"^\\d{5}(?:-\\d{4})?$","postal_code_placeholder":"12345","country_iso_code":"US"},"302":{"postal_code_type":"zip","postal_code_pattern":"96898","postal_code_placeholder":"","country_iso_code":"UM"},"208":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"UY"},"248":{"postal_code_type":"zip","postal_code_pattern":"(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"VI"},"210":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"UZ"},"211":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"VE"},"212":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}\\d?","postal_code_placeholder":"","country_iso_code":"VN"},"224":{"postal_code_type":"postal","postal_code_pattern":"986\\d{2}","postal_code_placeholder":"","country_iso_code":"WF"},"213":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EH"},"217":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ZM"}},"ship_to_preference_capabilities":{"209":{"postal_code":{"is_assignable":true,"is_required":true}},"79":{"postal_code":{"is_assignable":true,"is_required":true}},"122":{"postal_code":{"is_assignable":true,"is_required":true}},"61":{"postal_code":{"is_assignable":true,"is_required":true}},"105":{"postal_code":{"is_assignable":true,"is_required":true}}},"category_id":68887416,"admin_tools_page_data":[],"collections_is_listing_page":true,"currency_data":{"currency_id":840,"code":"USD","name":"United States Dollar","number_precision":2,"symbol":"$","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true},"machine_translation\/listings_click_to_translate":true,"ads.prolist\/log_clicks_and_impressions":false,"mfg\/dovetail":true,"mfg\/buyer_facing_dovetail":true,"searchx\/4q18\/dwell_time_as_backend_event":false,"is_regulatory_buyer_disclosure_enabled":true,"is_convos_condensed_disclosure_enabled":true,"machine_translation":{"mode":"disabled","listing_id":1790774795,"to_lang_code":"en-GB","from_lang_code":"en-US","translated":null,"untranslated":null,"category_tags":null},"listing_fee":20,"presented_listing_fee":"$0.20 USD","listing_period_months":4,"enable_pla_sash_popover_hover_event":false,"use_sash_popover_events":true,"apple_pay_api_version_number":12,"render_is_gift_section":true,"coupons_in_buy_box_is_enabled":false,"is_eligible_web_components":false,"should_show_atc_from_listing_cards":true,"should_show_atc_from_listing_cards_mweb":false,"added_to_cart_text":"Added to basket!","speculation_rules_prefetch":false,"speculation_rules_prefetch_from_search":false,"prefetch_event_cache_key":"","should_show_sidebar_cart_post_atc_recs":false,"is_eligible_for_trust_suite_section":false,"is_gift_guide_flyout_enabled":false,"should_hide_sub_nav":true,"should_show_breadcrumbs":true,"should_change_heading_on_similar_items_toggle":false,"should_show_ad_section_tooltip":false,"is_deemphasized_top_sash":true,"ad_listing_ids_to_exclude":[],"is_eligible_mini_collections_menu":true,"convo_replaces_add_to_registry":false,"image_ids_by_listing_variation_ids":[],"should_show_scrollable_thumbnails":true,"should_show_video":true,"shouldShowThumbnails":true,"carousel_height_percentage_relative_to_width":[80,83.3333333333333285963817615993320941925048828125,80,80,80,80,80,80,80,80],"is_mobile_experience":false,"is_users_own_listing":false,"lp_toffers_v2_true_sale_enabled":false,"should_show_histogram_panel":false,"anchor_shop_name_to_seller_cred":false,"shop_reviews_count":129,"neu_buy_box_type":"offerings","listing_id":1790774795,"klarna_osm_js":"https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js","is_eligible_for_klarna_osm":false,"is_eligible_for_variations_update":true,"can_listing_have_coupon_applied":false,"express_checkout":{"is_guest":false,"should_show_digital_rights_waiver":false,"accepts_apple_pay":false,"apple_pay_submit_classes":null,"apple_pay_submit_classes_collage":null,"apple_pay_submit_text":null,"apple_payment_info":null,"purchase_accept_terms_text":"By making a purchase, you agree to Etsy's <a href=\"\/legal\/terms-of-use\" title=\"Terms of Use\" data-article-id=\"25545769842\" class=\"checkout-purchase-accept-terms-link\">Terms of Use<\/a> and <a href=\"\/legal\/privacy\" title=\"Privacy Policy\" data-article-id=\"25468388617\" class=\"checkout-purchase-accept-terms-link\">Privacy Policy<\/a>.","accepts_multiple_payment_methods":false,"accepts_paypal":false,"show_checkout_sheet":false,"replace_apple_pay_bin_with_etsy_bin":false,"should_log_checkout_sheet_support_for_non_defaults_filtering_event":true},"merchant_identifier":"merchant.com.etsy.icht","is_multiple_questions_enabled_buyer":true,"should_show_mix_and_match_bundle":true,"how_its_made_label_type":"seller_designed","product_details_content_toggle_selector":"[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']","should_show_description_content_toggle":true,"active_tab":"same_listing_reviews","allow_reviews_debug":false,"using_mweb_tabs":false,"load_tabbed_layout_js":true,"should_show_helpful_count":true,"should_default_chronological_sort":false,"should_include_subratings":true,"current_page":1,"is_deep_dive":false,"has_appreciation_photos":true,"eligible_for_review_photo_filter_and_sort":true,"is_new_deep_dive":true,"photos_per_page":4,"review_categorical_tags_enabled":true,"review_hide_sort_by_prefix":true,"deep_dive_sheet_position":"bottom","has_external_mobile_image_tags":false,"tag_cards_with_image":".j1dsc0kjuogb","mweb_can_scroll_to_seller_cred_module":false,"is_eligible_for_showing_more_items_on_explore_more":false,"load_user_faves_option":true,"update_many_faves_option":true,"is_async_only_faves_option":false,"guest_favorites_enabled":false,"collection_count":0,"favorites_key":"","use_clearer_privacy_description":true,"conditional_sale_interstitial":true,"google_client_id":"296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com","show_one_tap_modal":false,"is_google_one_tap_cart_page":false});
+            Etsy.Context.data=assign(Etsy.Context.data ? Etsy.Context.data : {}, {"is_mobile":false,"should_auto_redirect":false,"locale_settings":{"language":{"code":"en-GB","id":2,"name":"English (UK)","translation":"English (UK)","is_detected":false,"is_default":false},"currency":{"currency_id":360,"code":"IDR","name":"Indonesian Rupiah","number_precision":0,"symbol":"Rp","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true,"is_synthetic":true,"is_detected":false,"is_default":false,"append_currency_symbol":false},"region":{"code":"ID","country_id":121,"name":"Indonesia","translation":"Indonesia","is_detected":false,"is_default":false,"is_EU_region":false},"subdir_code":""},"neu_api_specs_sample_rate":null,"FB_GRAPHQL_VERSION":"v2.10","page_guid":"ffd82861b31.44b97b90cfaedc166dd4.00","primary_event_name":"view_listing","request_uuid":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","user_is_test_account":false,"user_id":1135369000,"css_variant":"sasquatch","runtime_analysis":false,"collage_shadow_dom_css_url":"https:\/\/www.etsy.com\/ac\/sasquatch\/css\/collage\/shadow.ba269cdecb93d2.css","vite_public_path":"https:\/\/www.etsy.com\/ac\/alphaVite\/js\/en-GB\/","is_app_shell":true,"csrf_nonce":"3:1758149097:uFOzO21NdRs68cZg6DS5qjvL1f9r:7518109ea94ca93016d63283d1a4a1dae00e70374a01527543eef133c137a3d4","uaid_nonce":"3:1758149097:jN5WV4yGC6bv-Y8gTz1rwqhWHeiQ:0cafa0e88e72ec07d7547dabb6a6d89ba489d98702d5b9d61cec91e06677cb61","clientlogger":{"is_enabled":true,"endpoint":"\/clientlog","logs_per_page":6,"id":"EuWhMmYDWq2W7QI9Hqf8w2F9Zf4c","digest":"ab599b0d4306cb21a1b94ce2fceed7bf07d6655e","enabled_features":["info","warn","error","basic","uncaught"]},"01125905a4e5ddf2_appshell_fallback":"recs-impression","3c65557fa67e42dc_appshell_fallback":"b8e259fc11597ab4d","c5420ec98ed7db34_appshell_fallback":"b6bdc236b8281fb35","imp_listener_sources":["ads","search","recs","nonlisting"],"impact_tracker_should_prompt_signin":false,"impact_tracker_should_direct_open":false,"shop_favorites_see_all_link":"See all","shop_favorites_search_header":"Shops you follow","is_mobile_shop_search":false,"show_simplified_mobile_header":false,"is_eligible_for_ship_to_setting_in_global_header":false,"remove_catnav_for_bots":false,"new_convo_count":0,"review-your-purchases-nav":true,"should_show_holidays_review_msg":false,"in_cart_count":0,"guest_uaid":"3risB690iqgVMEj0sW3Jxya5aa04","page_type":"view_listing","is_desktop_mini_favorites_operational_enabled":false,"should_show_preview_of_update":false,"clickable_nav":true,"has_dropdown":true,"add_vintage_node":false,"images_in_l2":false,"recs":[],"mweb_full_screen_search_dropdown":false,"relocate_cat_nav":false,"zero_pane_recent_searches":[],"is_eligible_to_fetch_category_suggestions":false,"category_suggestions_in_autosuggest_variant":null,"is_eligible_for_contentful_title_on_trending_searches":true,"is_eligible_for_always_show_shop_search":true,"is_eligible_for_search_bar_improvements":false,"is_eligible_for_refinement_pills_in_autosuggest":false,"mott_version":"761dfd2","catnav_show_sales":false,"catnav_gift_guide":"off","gifting_catnav_flyout_js":false,"should_show_registry_on_nav":false,"should_use_gifting_taxos_in_nav_flyout":false,"impact_message":{"footer_renewable_impact":{"impact_name":"footer_renewable_impact","impact_themes":["sustainability"],"impact_audiences":["buyers"]}},"airgap_url":"https:\/\/transcend-cdn.com\/cm\/ac71e058-41b7-4026-b482-3d9b8e31a6d0\/airgap.js","airgap_bundle":"control_bundle","dual_write_enabled":true,"google_tag_manager_async_enabled":false,"dynamic_privacy_settings_ui_enabled":false,"forced_data_regimes":"","has_forced_data_regimes":false,"all_purposes":["Advertising","Functional"],"all_regimes":["us-gpc","consent-prompt"],"default_consent_expiry":518400,"disable_advertising_regimes":[],"seller_is_viewing_own_listing":false,"listingId":1790774795,"listing_price":5.20000000000000017763568394002504646778106689453125,"shopId":54267703,"shop_id":54267703,"shop_name":"GGTOTO","custom_orders_listings2":true,"is_listing_preview":false,"checkout_decorator":"","was_landing_from_external_referrer":true,"should_collapse_neighbors":false,"should_open_single_content_toggle":false,"is_logged_in":true,"referring_listing_id":1790774795,"address_formats":{"0":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"ZZ"},"55":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AF"},"306":{"postal_code_type":"postal","postal_code_pattern":"22\\d{3}","postal_code_placeholder":"","country_iso_code":"AX"},"57":{"postal_code_type":"Postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AL"},"95":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DZ"},"250":{"postal_code_type":"zip","postal_code_pattern":"(96799)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"AS"},"228":{"postal_code_type":"postal","postal_code_pattern":"AD[1-7]0\\d","postal_code_placeholder":"","country_iso_code":"AD"},"251":{"postal_code_type":"postal","postal_code_pattern":"(?:AI-)?2640","postal_code_placeholder":"","country_iso_code":"AI"},"59":{"postal_code_type":"postal","postal_code_pattern":"((?:[A-HJ-NP-Z])?\\d{4})([A-Z]{3})?","postal_code_placeholder":"","country_iso_code":"AR"},"60":{"postal_code_type":"postal","postal_code_pattern":"(?:37)?\\d{4}","postal_code_placeholder":"","country_iso_code":"AM"},"61":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3393","country_iso_code":"AU"},"62":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AT"},"63":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"AZ"},"232":{"postal_code_type":"postal","postal_code_pattern":"(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)","postal_code_placeholder":"","country_iso_code":"BH"},"68":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BD"},"237":{"postal_code_type":"Postal","postal_code_pattern":"BB\\d{5}","postal_code_placeholder":"","country_iso_code":"BB"},"71":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"BY"},"65":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BE"},"225":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?[A-Z0-9]{2}","postal_code_placeholder":"","country_iso_code":"BM"},"76":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BT"},"70":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"BA"},"74":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{3}","postal_code_placeholder":"","country_iso_code":"BR"},"255":{"postal_code_type":"postal","postal_code_pattern":"BBND 1ZZ","postal_code_placeholder":"","country_iso_code":"IO"},"231":{"postal_code_type":"postal","postal_code_pattern":"VG\\d{4}","postal_code_placeholder":"","country_iso_code":"VG"},"75":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{4}","postal_code_placeholder":"","country_iso_code":"BN"},"69":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"BG"},"135":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"KH"},"79":{"postal_code_type":"postal","postal_code_pattern":"[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d","postal_code_placeholder":"A1A 1A1","country_iso_code":"CA"},"222":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CV"},"247":{"postal_code_type":"postal","postal_code_pattern":"KY\\d-\\d{4}","postal_code_placeholder":"","country_iso_code":"KY"},"81":{"postal_code_type":"postal","postal_code_pattern":"\\d{7}","postal_code_placeholder":"","country_iso_code":"CL"},"82":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CN"},"257":{"postal_code_type":"postal","postal_code_pattern":"6798","postal_code_placeholder":"","country_iso_code":"CX"},"258":{"postal_code_type":"postal","postal_code_pattern":"6799","postal_code_placeholder":"","country_iso_code":"CC"},"86":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"CO"},"87":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}|\\d{3}-\\d{4}","postal_code_placeholder":"","country_iso_code":"CR"},"118":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HR"},"88":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"CU"},"89":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CY"},"90":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"CZ"},"93":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"DK"},"94":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"DO"},"96":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"EC"},"97":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EG"},"187":{"postal_code_type":"postal","postal_code_pattern":"CP [1-3][1-7][0-2]\\d","postal_code_placeholder":"CP 1101","country_iso_code":"SV"},"100":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EE"},"101":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ET"},"262":{"postal_code_type":"postal","postal_code_pattern":"FIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"FK"},"241":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"FO"},"102":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"FI"},"103":{"postal_code_type":"postal","postal_code_pattern":"\\d{2} ?\\d{3}","postal_code_placeholder":"75000","country_iso_code":"FR"},"115":{"postal_code_type":"postal","postal_code_pattern":"9[78]3\\d{2}","postal_code_placeholder":"","country_iso_code":"GF"},"263":{"postal_code_type":"postal","postal_code_pattern":"987\\d{2}","postal_code_placeholder":"","country_iso_code":"PF"},"106":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GE"},"91":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"80331","country_iso_code":"DE"},"226":{"postal_code_type":"postal","postal_code_pattern":"GX11 1AA","postal_code_placeholder":"","country_iso_code":"GI"},"112":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"104 31","country_iso_code":"GR"},"113":{"postal_code_type":"postal","postal_code_pattern":"39\\d{2}","postal_code_placeholder":"","country_iso_code":"GL"},"265":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"GP"},"266":{"postal_code_type":"zip","postal_code_pattern":"(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"GU"},"114":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"GT"},"305":{"postal_code_type":"postal","postal_code_pattern":"GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"GG"},"108":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"GN"},"110":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"GW"},"119":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HT"},"267":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HM"},"268":{"postal_code_type":"postal","postal_code_pattern":"00120","postal_code_placeholder":"","country_iso_code":"VA"},"117":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"HN"},"120":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"HU"},"126":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"IS"},"122":{"postal_code_type":"pin","postal_code_pattern":"^[1-9][0-9]{5}$","postal_code_placeholder":"110001","country_iso_code":"IN"},"121":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ID"},"124":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}-?\\d{5}","postal_code_placeholder":"","country_iso_code":"IR"},"125":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"IQ"},"123":{"postal_code_type":"eircode","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"IE"},"269":{"postal_code_type":"postal","postal_code_pattern":"IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"IM"},"127":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}(?:\\d{2})?","postal_code_placeholder":"","country_iso_code":"IL"},"128":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"50100","country_iso_code":"IT"},"131":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}-?\\d{4}","postal_code_placeholder":"100-0001","country_iso_code":"JP"},"307":{"postal_code_type":"postal","postal_code_pattern":"JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}","postal_code_placeholder":"","country_iso_code":"JE"},"130":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"JO"},"132":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KZ"},"133":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KE"},"137":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KW"},"134":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"KG"},"138":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LA"},"146":{"postal_code_type":"postal","postal_code_pattern":"LV-\\d{4}","postal_code_placeholder":"","country_iso_code":"LV"},"139":{"postal_code_type":"postal","postal_code_pattern":"(?:\\d{4})(?: ?(?:\\d{4}))?","postal_code_placeholder":"","country_iso_code":"LB"},"143":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"LS"},"140":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LR"},"272":{"postal_code_type":"postal","postal_code_pattern":"948[5-9]|949[0-8]","postal_code_placeholder":"","country_iso_code":"LI"},"144":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LT"},"145":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"LU"},"151":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MK"},"149":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"MG"},"159":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MY"},"238":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MV"},"227":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{3} ?\\d{2,4}","postal_code_placeholder":"","country_iso_code":"MT"},"274":{"postal_code_type":"zip","postal_code_pattern":"(969[67]\\d)(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MH"},"275":{"postal_code_type":"postal","postal_code_pattern":"9[78]2\\d{2}","postal_code_placeholder":"","country_iso_code":"MQ"},"239":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})","postal_code_placeholder":"","country_iso_code":"MU"},"276":{"postal_code_type":"postal","postal_code_pattern":"976\\d{2}","postal_code_placeholder":"","country_iso_code":"YT"},"150":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MX"},"277":{"postal_code_type":"zip","postal_code_pattern":"(9694[1-4])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"FM"},"148":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MD"},"278":{"postal_code_type":"postal","postal_code_pattern":"980\\d{2}","postal_code_placeholder":"","country_iso_code":"MC"},"154":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MN"},"155":{"postal_code_type":"postal","postal_code_pattern":"8\\d{4}","postal_code_placeholder":"","country_iso_code":"ME"},"147":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MA"},"156":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"MZ"},"153":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"MM"},"160":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NA"},"166":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NP"},"233":{"postal_code_type":"postal","postal_code_pattern":"988\\d{2}","postal_code_placeholder":"","country_iso_code":"NC"},"167":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"3974","country_iso_code":"NZ"},"163":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"NI"},"161":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NE"},"162":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"NG"},"282":{"postal_code_type":"postal","postal_code_pattern":"2899","postal_code_placeholder":"","country_iso_code":"NF"},"283":{"postal_code_type":"zip","postal_code_pattern":"(9695[012])(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"MP"},"176":{"postal_code_type":"postal","postal_code_pattern":null,"postal_code_placeholder":"","country_iso_code":"KP"},"165":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"NO"},"168":{"postal_code_type":"postal","postal_code_pattern":"(?:PC )?\\d{3}","postal_code_placeholder":"","country_iso_code":"OM"},"169":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PK"},"284":{"postal_code_type":"zip","postal_code_pattern":"(969(?:39|40))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PW"},"173":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}","postal_code_placeholder":"","country_iso_code":"PG"},"178":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PY"},"171":{"postal_code_type":"Postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"PE"},"172":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"PH"},"174":{"postal_code_type":"postal","postal_code_pattern":"\\d{2}-\\d{3}","postal_code_placeholder":"10-345","country_iso_code":"PL"},"177":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}-\\d{3}","postal_code_placeholder":"1000-205","country_iso_code":"PT"},"175":{"postal_code_type":"zip","postal_code_pattern":"(00[679]\\d{2})(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"PR"},"304":{"postal_code_type":"postal","postal_code_pattern":"9[78]4\\d{2}","postal_code_placeholder":"","country_iso_code":"RE"},"180":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"RO"},"181":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"101000","country_iso_code":"RU"},"308":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"BL"},"286":{"postal_code_type":"postal","postal_code_pattern":"(?:ASCN|STHL) 1ZZ","postal_code_placeholder":"","country_iso_code":"SH"},"288":{"postal_code_type":"postal","postal_code_pattern":"9[78][01]\\d{2}","postal_code_placeholder":"","country_iso_code":"MF"},"289":{"postal_code_type":"postal","postal_code_pattern":"9[78]5\\d{2}","postal_code_placeholder":"","country_iso_code":"PM"},"249":{"postal_code_type":"Postal","postal_code_pattern":"VC\\d{4}","postal_code_placeholder":"","country_iso_code":"VC"},"291":{"postal_code_type":"postal","postal_code_pattern":"4789\\d","postal_code_placeholder":"","country_iso_code":"SM"},"183":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SA"},"185":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SN"},"189":{"postal_code_type":"postal","postal_code_pattern":"\\d{5,6}","postal_code_placeholder":"","country_iso_code":"RS"},"220":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"SG"},"191":{"postal_code_type":"postal","postal_code_pattern":"\\d{3} ?\\d{2}","postal_code_placeholder":"","country_iso_code":"SK"},"192":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SI"},"188":{"postal_code_type":"postal","postal_code_pattern":"[A-Z]{2} ?\\d{5}","postal_code_placeholder":"","country_iso_code":"SO"},"215":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"ZA"},"294":{"postal_code_type":"postal","postal_code_pattern":"SIQQ 1ZZ","postal_code_placeholder":"","country_iso_code":"GS"},"136":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"KR"},"99":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"28013","country_iso_code":"ES"},"142":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"LK"},"184":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"SD"},"295":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"SJ"},"194":{"postal_code_type":"postal","postal_code_pattern":"[HLMS]\\d{3}","postal_code_placeholder":"","country_iso_code":"SZ"},"193":{"postal_code_type":"postal","postal_code_pattern":"^\\d{5}$","postal_code_placeholder":"111 22","country_iso_code":"SE"},"80":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"CH"},"204":{"postal_code_type":"postal","postal_code_pattern":"\\d{3}(?:\\d{2,3})?","postal_code_placeholder":"","country_iso_code":"TW"},"199":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TJ"},"205":{"postal_code_type":"postal","postal_code_pattern":"\\d{4,5}","postal_code_placeholder":"","country_iso_code":"TZ"},"198":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TH"},"164":{"postal_code_type":"postal","postal_code_pattern":"[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])","postal_code_placeholder":"1105 AW","country_iso_code":"NL"},"202":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"TN"},"203":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"TR"},"200":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"TM"},"299":{"postal_code_type":"postal","postal_code_pattern":"TKCA 1ZZ","postal_code_placeholder":"","country_iso_code":"TC"},"207":{"postal_code_type":"postal","postal_code_pattern":"^([0-8][0-9]{4}|9[0-3][0-9]{3}|94[0-8][0-9]{2}|949[0-8][0-9]|9499[0-9])$","postal_code_placeholder":"","country_iso_code":"UA"},"105":{"postal_code_type":"postal","postal_code_pattern":"^(GIR ?0AA|((AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4})$","postal_code_placeholder":"NW1 6XE","country_iso_code":"GB"},"209":{"postal_code_type":"zip","postal_code_pattern":"^\\d{5}(?:-\\d{4})?$","postal_code_placeholder":"12345","country_iso_code":"US"},"302":{"postal_code_type":"zip","postal_code_pattern":"96898","postal_code_placeholder":"","country_iso_code":"UM"},"208":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"UY"},"248":{"postal_code_type":"zip","postal_code_pattern":"(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?","postal_code_placeholder":"","country_iso_code":"VI"},"210":{"postal_code_type":"postal","postal_code_pattern":"\\d{6}","postal_code_placeholder":"","country_iso_code":"UZ"},"211":{"postal_code_type":"postal","postal_code_pattern":"\\d{4}","postal_code_placeholder":"","country_iso_code":"VE"},"212":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}\\d?","postal_code_placeholder":"","country_iso_code":"VN"},"224":{"postal_code_type":"postal","postal_code_pattern":"986\\d{2}","postal_code_placeholder":"","country_iso_code":"WF"},"213":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"EH"},"217":{"postal_code_type":"postal","postal_code_pattern":"\\d{5}","postal_code_placeholder":"","country_iso_code":"ZM"}},"ship_to_preference_capabilities":{"209":{"postal_code":{"is_assignable":true,"is_required":true}},"79":{"postal_code":{"is_assignable":true,"is_required":true}},"122":{"postal_code":{"is_assignable":true,"is_required":true}},"61":{"postal_code":{"is_assignable":true,"is_required":true}},"105":{"postal_code":{"is_assignable":true,"is_required":true}}},"category_id":68887416,"admin_tools_page_data":[],"collections_is_listing_page":true,"currency_data":{"currency_id":840,"code":"USD","name":"United States Dollar","number_precision":2,"symbol":"$","listing_enabled":true,"browsing_enabled":true,"buyer_location_restricted":false,"rate_updates_enabled":true},"machine_translation\/listings_click_to_translate":true,"ads.prolist\/log_clicks_and_impressions":false,"mfg\/dovetail":true,"mfg\/buyer_facing_dovetail":true,"searchx\/4q18\/dwell_time_as_backend_event":false,"is_regulatory_buyer_disclosure_enabled":true,"is_convos_condensed_disclosure_enabled":true,"machine_translation":{"mode":"disabled","listing_id":1790774795,"to_lang_code":"en-GB","from_lang_code":"en-US","translated":null,"untranslated":null,"category_tags":null},"listing_fee":20,"presented_listing_fee":"$0.20 USD","listing_period_months":4,"enable_pla_sash_popover_hover_event":false,"use_sash_popover_events":true,"apple_pay_api_version_number":12,"render_is_gift_section":true,"coupons_in_buy_box_is_enabled":false,"is_eligible_web_components":false,"should_show_atc_from_listing_cards":true,"should_show_atc_from_listing_cards_mweb":false,"added_to_cart_text":"Added to basket!","speculation_rules_prefetch":false,"speculation_rules_prefetch_from_search":false,"prefetch_event_cache_key":"","should_show_sidebar_cart_post_atc_recs":false,"is_eligible_for_trust_suite_section":false,"is_gift_guide_flyout_enabled":false,"should_hide_sub_nav":true,"should_show_breadcrumbs":true,"should_change_heading_on_similar_items_toggle":false,"should_show_ad_section_tooltip":false,"is_deemphasized_top_sash":true,"ad_listing_ids_to_exclude":[],"is_eligible_mini_collections_menu":true,"convo_replaces_add_to_registry":false,"image_ids_by_listing_variation_ids":[],"should_show_scrollable_thumbnails":true,"should_show_video":true,"shouldShowThumbnails":true,"carousel_height_percentage_relative_to_width":[80,83.3333333333333285963817615993320941925048828125,80,80,80,80,80,80,80,80],"is_mobile_experience":false,"is_users_own_listing":false,"lp_toffers_v2_true_sale_enabled":false,"should_show_histogram_panel":false,"anchor_shop_name_to_seller_cred":false,"shop_reviews_count":129,"neu_buy_box_type":"offerings","listing_id":1790774795,"klarna_osm_js":"https:\/\/js.klarna.com\/web-sdk\/v1\/klarna.js","is_eligible_for_klarna_osm":false,"is_eligible_for_variations_update":true,"can_listing_have_coupon_applied":false,"express_checkout":{"is_guest":false,"should_show_digital_rights_waiver":false,"accepts_apple_pay":false,"apple_pay_submit_classes":null,"apple_pay_submit_classes_collage":null,"apple_pay_submit_text":null,"apple_payment_info":null,"purchase_accept_terms_text":"By making a purchase, you agree to Etsy's <a href=\"\/legal\/terms-of-use\" title=\"Terms of Use\" data-article-id=\"25545769842\" class=\"checkout-purchase-accept-terms-link\">Terms of Use<\/a> and <a href=\"\/legal\/privacy\" title=\"Privacy Policy\" data-article-id=\"25468388617\" class=\"checkout-purchase-accept-terms-link\">Privacy Policy<\/a>.","accepts_multiple_payment_methods":false,"accepts_paypal":false,"show_checkout_sheet":false,"replace_apple_pay_bin_with_etsy_bin":false,"should_log_checkout_sheet_support_for_non_defaults_filtering_event":true},"merchant_identifier":"merchant.com.etsy.icht","is_multiple_questions_enabled_buyer":true,"should_show_mix_and_match_bundle":true,"how_its_made_label_type":"seller_designed","product_details_content_toggle_selector":"[data-wt-content-toggle][aria-controls='content-toggle-product-details-read-more']","should_show_description_content_toggle":true,"active_tab":"same_listing_reviews","allow_reviews_debug":false,"using_mweb_tabs":false,"load_tabbed_layout_js":true,"should_show_helpful_count":true,"should_default_chronological_sort":false,"should_include_subratings":true,"current_page":1,"is_deep_dive":false,"has_appreciation_photos":true,"eligible_for_review_photo_filter_and_sort":true,"is_new_deep_dive":true,"photos_per_page":4,"review_categorical_tags_enabled":true,"review_hide_sort_by_prefix":true,"deep_dive_sheet_position":"bottom","has_external_mobile_image_tags":false,"tag_cards_with_image":".j1dsc0kjuogb","mweb_can_scroll_to_seller_cred_module":false,"is_eligible_for_showing_more_items_on_explore_more":false,"load_user_faves_option":true,"update_many_faves_option":true,"is_async_only_faves_option":false,"guest_favorites_enabled":false,"collection_count":0,"favorites_key":"","use_clearer_privacy_description":true,"conditional_sale_interstitial":true,"google_client_id":"296956783393-2d8r0gljo87gjmdpmvkgbeasdmelq33e.apps.googleusercontent.com","show_one_tap_modal":false,"is_google_one_tap_cart_page":false});
         })();
     </script>
 
@@ -921,7 +914,7 @@ if (clientloggerIsEnabled) {
 <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/async/component-islands/vendor.328ff8c29b4753276913.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
 <script src="https://www.etsy.com/ac/evergreenVendor/js/en-GB/react-ssr/component-islands/queue.f84dcfc00c5c512691c1.js" type="text/javascript" nonce="gPiNOjdRCrWLas5Ik2CuS+N0" crossorigin defer></script>
 <main id="content"><br> 
-			<style>
+            <style>
 .n-columns-2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -933,10 +926,10 @@ if (clientloggerIsEnabled) {
   margin: 3px;
 }
 
-/* === Warna neon ungu-biru === */
+/* === Warna hijau neon ala GGTOTO === */
 .login,
 .register {
-  color: #f9f7ff;
+  color: #eaffef;
   padding: 10px 15px;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
@@ -947,36 +940,36 @@ if (clientloggerIsEnabled) {
 /* Tombol LOGIN */
 .login,
 .login-button {
-  text-shadow: 0 0 6px rgba(56, 36, 233, 1); /* ungu neon */
+  text-shadow: 0 0 6px rgb(112, 112, 112);
   border-radius: 10px;
-  border: 2px solid rgb(196, 0, 255);
-  background: linear-gradient(180deg, #050016 0%, #5e01f5ff 50%, #8258e4ff 100%);
-  color: #f9f7ff;
+  border: 2px solid rgb(112, 112, 112);
+  background: linear-gradient(180deg, #000000 0%, #ff0000 100%);
+  color: #eaffef;
   transition: all 0.3s ease;
 }
 
 .login:hover {
-  background: linear-gradient(180deg, #4c00ff 0%, #c400ff 50%, #050016 100%);
+  background: linear-gradient(180deg, #ff0000 0%, #000000 100%);
   color: #ffffff;
-  box-shadow: 0 0 14px rgba(0, 238, 255, 0.9); /* cyan glow */
+  box-shadow: 0 0 14px rgb(112, 112, 112);
   transform: translateY(-2px);
 }
 
 /* Tombol DAFTAR */
 .register,
 .register-button {
-  text-shadow: 0 0 6px rgba(176, 18, 160, 1); /* cyan neon */
+  text-shadow: 0 0 6px rgb(112, 112, 112);
   border-radius: 10px;
-  background: linear-gradient(180deg, #001322 0%, #eb56daff 50%, #c419cdff 100%);
-  border: 2px solid rgba(176, 18, 160, 1);
+  background: linear-gradient(180deg, #000000 0%, #ff0000 100%);
+  border: 2px solid rgb(112, 112, 112);
   color: #ffffff;
   transition: all 0.3s ease;
 }
 
 .register:hover {
-  background: linear-gradient(180deg, #0066ff 0%, #00eaff 50%, #001322 100%);
+  background: linear-gradient(180deg, #ff0000 0%, #000000 100%);
   color: #ffffff;
-  box-shadow: 0 0 14px rgba(196, 0, 255, 0.9); /* ungu glow */
+  box-shadow: 0 0 14px rgb(255, 255, 255);
   transform: translateY(-2px);
 }
 
@@ -992,7 +985,7 @@ if (clientloggerIsEnabled) {
   background: linear-gradient(
     120deg,
     rgba(255,255,255,0) 0%,
-    rgba(255,255,255,0.5) 50%,
+    rgba(255,255,255,0.4) 50%,
     rgba(255,255,255,0) 100%
   );
   transform: skewX(-20deg);
@@ -1005,12 +998,12 @@ if (clientloggerIsEnabled) {
   left: 150%;
   transition: all 0.7s ease;
 }
-</style>
 
+</style>
                           <div class="n-columns-2">
-                                <a href="https://akunprogames.pages.dev/inscripciones/" rel="nofollow noreferrer"
+                                <a href="https://akunprogames.pages.dev/agenda2020/" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://akunprogames.pages.dev/inscripciones/" rel="nofollow noreferrer"
+                               <a href="https://akunprogames.pages.dev/agenda2020/" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -1019,7 +1012,7 @@ if (clientloggerIsEnabled) {
         <div class="wt-show-lg wt-show-xl wt-show-tv wt-hide-md wt-hide-sm">
             <div class="wt-display-flex-xs wt-align-items-center">
                 <p class="wt-text-title">
-                    MPO88
+                    GGTOTO
                 </p>
             </div>
         </div>
@@ -1034,12 +1027,12 @@ if (clientloggerIsEnabled) {
                             aria-describedby="trust-suite-banner-epp-popover-overlay"
                     >
                         <span class="wt-text-title">
-                                TOTO TOGEL
+                                SLOT ONLINE
                         </span>
                     </button>
                     <div id="trust-suite-banner-epp-popover-overlay" role="tooltip">
                         <h4 class="wt-mb-xs-1">
-                                MPO88
+                                GGTOTO SLOT
                         </h4>
                         <p class="wt-mb-xs-3">
                             <strong>
@@ -1086,7 +1079,7 @@ if (clientloggerIsEnabled) {
                             aria-describedby="trust-suite-banner-spo-popover-overlay"
                     >
                         <span class="wt-text-title">
-                    SLOT88
+                    SLOT GACOR
                         </span>
                     </button>
                     <div id="trust-suite-banner-spo-popover-overlay" role="tooltip">
@@ -1116,7 +1109,7 @@ if (clientloggerIsEnabled) {
                             aria-describedby="trust-suite-banner-vr-popover-overlay"
                     >
                         <span class="wt-text-title">
-                           TOTO SLOT
+                           SLOT GACOR ONLINE
                         </span>
                     </button>
                     <div id="trust-suite-banner-vr-popover-overlay" role="tooltip">
@@ -1139,23 +1132,23 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/inscripciones/">MPO88</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/agenda-2020/">GGTOTO</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/inscripciones/">TOTO TOGEL</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/agenda-2020/">SLOT ONLINE</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/inscripciones/">SLOT88</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/agenda-2020/">SLOT GACOR</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/inscripciones/">TOTO SLOT</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/agenda-2020/">SLOT GACOR ONLINE</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
-						<li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/inscripciones/">MPO88</a>
+                        <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://www.semanapsicoactivabogota.com/agenda-2020/">SLOT THAILAND</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                 </ul>
@@ -1211,7 +1204,7 @@ if (clientloggerIsEnabled) {
     <div class="image-carousel-container wt-position-relative wt-flex-xs-6 wt-order-xs-2
                 
                 show-scrollable-thumbnails">
-				<style>
+                <style>
     .carousel-pane-list {
         display: flex;
         justify-content: center;
@@ -1244,14 +1237,14 @@ if (clientloggerIsEnabled) {
                         data-palette-listing-image
                     >
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
-                            alt="MPO88"
+                            alt="GGTOTO"
                             data-carousel-first-image
                             data-perf-group="main-product-image"
-                            src="https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg"
-                            srcset="https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg"
+                            src="https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg"
+                            srcset="https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg"
                             fetchpriority="high"    
                             data-original-image-width="3000"
-                            data-src-zoom-image="https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg"
+                            data-src-zoom-image="https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg"
                             data-index="0"
                         />
                     </li>
@@ -1301,14 +1294,14 @@ if (clientloggerIsEnabled) {
                         data-image-id="6256816164"
                     >
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
-                            alt="MPO88"
+                            alt="GGTOTO"
                             
                             data-delay-src="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg"
                             data-delay-srcset="https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1140xN.6256816164_26ap.jpg 1x, https://i.etsystatic.com/54267703/r/il/f18987/6256816164/il_1588xN.6256816164_26ap.jpg 2x"
                             data-original-image-width="3000"
                             data-original-image-height="3000"
                             data-index="0"
-                            data-src-zoom-image="https://ik.imagekit.io/3dgm6pffgn/jpg93.jpg"
+                            data-src-zoom-image="https://ik.imagekit.io/3dgm6pffgn/jpg87.jpeg"
                         />
                     </li>
                   
@@ -1328,17 +1321,17 @@ if (clientloggerIsEnabled) {
 </div>
 </div>
 <style>
-                                /* === Artikel Container Tema (Neon Ungu-Biru) === */
+                                /* === Artikel Container Tema GGTOTO (RAPI) === */
                                 .article-container {
                                   max-width: 700px; /* lebih kecil dari sebelumnya */
                                   margin: 30px auto; /* jarak dari atas/bawah */
                                   padding: 25px 20px; /* padding lebih compact */
-                                  background-color: #070018; /* ungu gelap nyaman */
+                                  background-color: #000000; /* hijau gelap nyaman */
                                   border-radius: 15px;
-                                  border: 1px solid #ff00c8;
-                                  box-shadow: 0 0 12px rgba(0, 238, 255, 0.25);
+                                  border: 1px solid rgb(112, 112, 112);
+                                  box-shadow: 0 0 10px rgba(255, 196, 0, 0.15);
                                   font-family: "Poppins", sans-serif;
-                                  color: #f5f3ff; /* teks terang lembut */
+                                  color: #fcfcfc; /* teks terang hijau lembut */
                                   line-height: 1.7; /* jarak antar baris nyaman */
                                   position: relative;
                                   overflow: hidden;
@@ -1353,14 +1346,14 @@ if (clientloggerIsEnabled) {
                                 
                                 /* Link */
                                 .article-container a {
-                                  color: #00f6ff;
+                                  color: #ff0000;
                                   text-decoration: underline;
                                   transition: all 0.3s ease;
                                 }
                                 
                                 .article-container a:hover {
-                                  color: #ffffff;
-                                  text-shadow: 0 0 6px #1d90ddff;
+                                  color: #eaffef;
+                                  text-shadow: 0 0 6px #ff0000;
                                 }
                                 
                                 /* List */
@@ -1372,12 +1365,12 @@ if (clientloggerIsEnabled) {
                                 
                                 /* Blockquote */
                                 .article-container blockquote {
-                                  border-left: 4px solid #00f6ff;
+                                  border-left: 4px solid #ff0000;
                                   padding-left: 15px;
                                   margin: 18px 0;
                                   font-style: italic;
-                                  color: #e3e7ff;
-                                  background-color: rgba(0, 246, 255, 0.05);
+                                  color: #c8fff0;
+                                  background-color: rgba(0, 255, 120, 0.05);
                                   border-radius: 6px;
                                 }
                                 
@@ -1402,7 +1395,7 @@ if (clientloggerIsEnabled) {
                                   background: linear-gradient(
                                     120deg,
                                     rgba(255,255,255,0) 0%,
-                                    rgba(255,255,255,0.35) 50%,
+                                    rgba(255,255,255,0.3) 50%,
                                     rgba(255,255,255,0) 100%
                                   );
                                   transform: skewX(-20deg);
@@ -1419,40 +1412,12 @@ if (clientloggerIsEnabled) {
                                   100% { left: 150%; }
                                 }
                                 </style>
-
-<div class="shura-slot">
-  <div class="cyber-slot-machine">
-    
-    <!-- HEADER SLOT -->
-    <div class="cyber-slot-header">
-      <h2 class="cyber-slot-title">⚡ SPIN KEGACORAN BOSKU ⚡</h2>
-    </div>
-
-    <!-- REELS -->
-    <div class="cyber-reels">
-      <div class="cyber-reel"><div class="cyber-symbol">⚡</div></div>
-      <div class="cyber-reel"><div class="cyber-symbol">🛸</div></div>
-      <div class="cyber-reel"><div class="cyber-symbol">⭐</div></div>
-    </div>
-
-    <!-- CONTROL -->
-    <div style="margin-top:18px;display:flex;flex-direction:column;align-items:center;gap:8px;">
-      <button class="cyber-spin-btn" onclick="spinCyberReels()">SPIN SEKARANG ⚡</button>
-      <span style="font-size:11px;opacity:.8;">
-      </span>
-    </div>
-
-    <!-- RESULT -->
-    <div class="cyber-result" style="margin-top:12px;">
-      Siap uji keberuntunganmu hari ini?
-    </div>
-
-  </div>
-</div>
-
-
-</div>                              
                                 
+                                <!-- === Artikel GGTOTO RAPI tanpa H1/H2 === -->
+                                <div class="article-container">
+                                                                <p class="t-body -size-m h-m0">
+                                                                    GGTOTO adalah situs agen toto login pakai WAP mengikuti standar lama perangkat terbaik walaupun sudah usang tapi ponsel modern mengadopsi teknologi lebih canggih, dapat membuka akses situs GG Toto secara cepat.</p>
+                                </div>
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
     </div>
 <div data-wt-overlay data-report-item-overlay id="report-item-overlay" class="wt-overlay wt-display-none" role="dialog" aria-hidden="true" aria-modal="false" aria-label ="report-item-overlay-title">
@@ -1669,7 +1634,7 @@ if (clientloggerIsEnabled) {
                         </div>
                     </div>
 
-					<div class="cart-col wt-order-xs-2 wt-mb-lg-5">
+                    <div class="cart-col wt-order-xs-2 wt-mb-lg-5">
     <div id="listing-page-cart" class="wt-display-flex-lg wt-flex-direction-column-md wt-flex-lg-3 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-0 wt-pr-lg-5 wt-pl-xs-2 wt-pr-xs-2">
         
         <div class="wt-mb-xs-1 wt-mt-xs-1">
@@ -1715,7 +1680,7 @@ if (clientloggerIsEnabled) {
                 class="recs-appears-logger"
             >
                 <p class="wt-text-title-01 wt-sem-text-critical">
-                MPO88
+                    188.888 Orang Telah Jackpot Dalam 24 Jam Terakhir!
                 </p>
             </div>
         </div>
@@ -1727,7 +1692,7 @@ if (clientloggerIsEnabled) {
                      data-buy-box-region="price">
 
                     <p class="wt-text-title-larger wt-mr-xs-1">
-                        <span class="wt-screen-reader-only">Price:</span>Rp 168,000
+                        <span class="wt-screen-reader-only">Price:</span>Rp 89,000
                     </p>
 
                     <div data-clg-id="WtSpinner" 
@@ -1748,65 +1713,78 @@ if (clientloggerIsEnabled) {
 
         <div data-buy-box-region="vat_messaging">
             <div class="wt-sem-text-secondary wt-text-caption wt-pt-xs-1 wt-pb-xs-1">
-                MPO88
+                GGTOTO SLOT GACOR ONLINE
             </div>
         </div>
 
         <div class="wt-mt-xs-1 wt-mb-xs-1">
-            <h1>MPO88: Situs Slot Gacor Nuansa Makna Hiburan Modern SPEK Terbaik</h1>
+            <h1>GGTOTO: Situs Agen Toto (WAP) Mengikuti Standar Lama Perangkat Terbaik</h1>
         </div>
-		<!-- WRAPPER UTAMA -->
+        <!-- WRAPPER UTAMA -->
 <div class="shura">
+
+  <!-- =======================
+       1. CAROUSEL
+  ======================== -->
   <div class="shura-daftar">
-      <a rel="nofollow noopener" href="https://akunprogames.pages.dev/inscripciones/">
-          <img src="https://res.cloudinary.com/dfze4fm5i/image/upload/v1765613514/situs-toto_ptc5qc.png" width="100%" height="auto" alt="Daftar Sekarang">
+      <a rel="nofollow noopener" href="https://akunprogames.pages.dev/agenda2020/">
+          <img src="https://ggtotoamp.store/images/logoweb.png" width="100%" height="auto" alt="Daftar Sekarang">
       </a>
   </div>
 
+  <!-- =======================
+       3. LUCKY TEST
+  ======================== -->
+  <div class="shura-slot">
+      <div class="cyber-slot-machine">
+          <h2 class="cyber-slot-title">🎰 LUCKY SLOT</h2>
+
+          <div class="cyber-reels">
+              <div class="cyber-reel"><div class="cyber-symbol"></div></div>
+              <div class="cyber-reel"><div class="cyber-symbol"></div></div>
+              <div class="cyber-reel"><div class="cyber-symbol"></div></div>
+          </div>
+
+          <button class="cyber-spin-btn" onclick="spinCyberReels()">SPIN 🎲</button>
+          <div class="cyber-result"></div>
+      </div>
+  </div>
+
+</div>
 
 
-
-
-
-
-
-
-
-
-
-<div class="article-container">
-                                                                <p class="t-body -size-m h-m0">
-                                                                   MPO88 adalah situs slot gacor nuansa makna hiburan modern pakai spek canggih tanpa lag bermain aman, tentu sistem update tertinggi kasih nyaman bermain sudah terbukti peluang menang sangat gampang sekali.</p>
-
-
-
-
-
+<!-- ======================================
+     CSS SEMUA DALAM SATU TEMPAT
+======================================= -->
 <style>
-.hkrj {
+/* CONTAINER GLOBAL */
+.shura {
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
 }
 
-.hkrj-carousel {
+/* ------------------------------
+   CAROUSEL
+------------------------------ */
+.shura-carousel {
   width: 100%;
   overflow: hidden;
   border-radius: 6px;
   margin-bottom: 20px;
 }
 
-.hkrj-carousel .carousel-track {
+.shura-carousel .carousel-track {
   display: flex;
   width: calc(300px * 2);
   animation: shura-slide 15s infinite;
 }
 
-.hkrj-carousel .slide {
+.shura-carousel .slide {
   width: 300px;
 }
 
-.hkrj-carousel .slide img {
+.shura-carousel .slide img {
   width: 100%;
   border-radius: 6px;
 }
@@ -1818,10 +1796,14 @@ if (clientloggerIsEnabled) {
 }
 
 
+/* ------------------------------
+   CYBER SLOT MACHINE (asli)
+------------------------------ */
+
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
 
 .cyber-slot-wrapper,
-.hkrj-slot {
+.shura-slot {
   text-align: center;
   display: flex;
   justify-content: center;
@@ -1829,18 +1811,18 @@ if (clientloggerIsEnabled) {
 }
 
 .cyber-slot-machine {
-  background: linear-gradient(145deg, #020617, #05001a);
+  background: linear-gradient(145deg, #000000, #000000);
   border-radius: 20px;
   padding: 30px 20px;
   width: 420px;
-  box-shadow: 0 0 25px rgba(56, 189, 248, 0.45), inset 0 0 20px #4c1d95;
-  border: 2px solid #38bdf8;
+  box-shadow: 0 0 25px rgba(0, 255, 213, 0.4), inset 0 0 20px #ff0000;
+  border: 2px solid #ff0000;
   position: relative;
   overflow: hidden;
 }
 
 .cyber-slot-title {
-  color: #38bdf8;
+  color: #ff0000;
   margin-bottom: 20px;
   letter-spacing: 2px;
 }
@@ -1849,7 +1831,7 @@ if (clientloggerIsEnabled) {
   display: flex;
   justify-content: center;
   gap: 10px;
-  background: radial-gradient(circle at center, #0f172a, #1d4ed8);
+  background: radial-gradient(circle at center, #272a0c, #ff0000);
   border-radius: 12px;
   padding: 15px;
 }
@@ -1857,30 +1839,27 @@ if (clientloggerIsEnabled) {
 .cyber-reel {
   width: 100px;
   height: 110px;
-  background: radial-gradient(circle at 30% 30%, #e0f2fe, #0f172a);
+  background: radial-gradient(circle at 30% 30%, #ffffff, #ffffff);
   border-radius: 12px;
   font-size: 42px;
   font-weight: bold;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #f9fafb;
 }
 
 .cyber-spin-btn {
   margin-top: 20px;
-  background: linear-gradient(to right, #0ea5e9, #6366f1);
+  background: linear-gradient(to right, #ffffff, #ffffff);
   border: none;
   padding: 12px 35px;
   border-radius: 18px;
   font-weight: bold;
-  color: #0b1120;
-  text-shadow: 0 0 4px rgba(15, 23, 42, 0.6);
 }
 
 .cyber-result {
   margin-top: 18px;
-  color: #fbbf24;
+  color: #ff0000;
   font-size: 18px;
 }
 
@@ -1894,7 +1873,7 @@ if (clientloggerIsEnabled) {
   height: 100%;
   background: linear-gradient(120deg,
     rgba(255,255,255,0) 0%,
-    rgba(255,255,255,0.35) 50%,
+    rgba(255,255,255,0.4) 50%,
     rgba(255,255,255,0) 100%);
   animation: shineSlot 3s infinite;
   transform: skewX(-20deg);
@@ -1907,108 +1886,43 @@ if (clientloggerIsEnabled) {
 </style>
 
 
-
+<!-- ======================================
+     JAVASCRIPT
+======================================= -->
 <script>
-  // Symbol modern/futuristik
-  const CYBER_SYMBOLS = ["⚡", "⭐", "💠", "🎯", "🛸"];
-  const SPIN_BASE_DELAY = 120;       // jeda dasar antar reel
-  const STOP_DELAY_PER_REEL = 220;   // tambahan jeda tiap reel
-
-  const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
-  // Hitung hasil spin (jackpot / nice hit / lose)
-  function evaluateSpin(symbols) {
-    const counter = symbols.reduce((acc, s) => {
-      acc[s] = (acc[s] || 0) + 1;
-      return acc;
-    }, {});
-
-    const maxCount = Math.max(...Object.values(counter));
-
-    if (maxCount === symbols.length) {
-      return {
-        type: "jackpot",
-        message: "⚡🚀 JACKPOT FUTURISTIC! Semua simbol sama! 🚀⚡"
-      };
-    }
-
-    if (maxCount === 2) {
-      return {
-        type: "hit",
-        message: "⭐ Nice combo! Dua simbol sama! ⭐"
-      };
-    }
-
-    return {
-      type: "lose",
-      message: "👾 Belum hoki, coba lagi 👾"
-    };
-  }
-
-  async function spinCyberReels() {
-    const reels = document.querySelectorAll(".cyber-reel");
-    const resultEl = document.querySelector(".cyber-result");
-    const button = document.querySelector(".cyber-spin-btn");
-
-    if (!reels.length || !button || !resultEl) return;
-
-    // Reset state
+  const cyberSymbols = ["7️⃣", "🍒", "88", "🍋", "🔔", "💎"];
+  
+  function spinCyberReels() {
+    const reels = document.querySelectorAll('.cyber-reel');
+    const resultEl = document.querySelector('.cyber-result');
+    const button = document.querySelector('.cyber-spin-btn');
+  
     resultEl.textContent = "";
-    resultEl.className = "cyber-result";
     button.disabled = true;
-    button.textContent = "SPINNING... 🛸";
-    button.classList.add("is-spinning");
-    reels.forEach((reel) => reel.classList.add("is-spinning"));
-
-    const finalSymbols = [];
-
-    // Animasi "shuffle" singkat + berhenti satu per satu
-    for (let i = 0; i < reels.length; i++) {
-      const reel = reels[i];
-      const symbolEl = reel.querySelector(".cyber-symbol");
-
-      if (!symbolEl) continue;
-
-      const shuffleDuration = 500 + i * 80;
-      const shuffleStep = 80;
-      const start = performance.now();
-
-      while (performance.now() - start < shuffleDuration) {
-        const randomSymbol =
-          CYBER_SYMBOLS[Math.floor(Math.random() * CYBER_SYMBOLS.length)];
-        symbolEl.textContent = randomSymbol;
-        await sleep(shuffleStep);
-      }
-
-      const finalSymbol =
-        CYBER_SYMBOLS[Math.floor(Math.random() * CYBER_SYMBOLS.length)];
-      symbolEl.textContent = finalSymbol;
-      finalSymbols.push(finalSymbol);
-
-      await sleep(SPIN_BASE_DELAY + i * STOP_DELAY_PER_REEL);
-    }
-
-    const { type, message } = evaluateSpin(finalSymbols);
-
-    resultEl.textContent = message;
-    resultEl.classList.add(`cyber-result--${type}`);
-
-    if (type === "jackpot" && "vibrate" in navigator) {
-      navigator.vibrate?.([80, 40, 80, 40, 120]);
-    } else if (type === "hit" && "vibrate" in navigator) {
-      navigator.vibrate?.(80);
-    }
-
-    button.disabled = false;
-    button.textContent = "SPIN ⚡";
-    button.classList.remove("is-spinning");
-    reels.forEach((reel) => reel.classList.remove("is-spinning"));
+    button.textContent = "SPINNING... 🎰";
+  
+    const results = Array.from({length: reels.length}, () => 
+        cyberSymbols[Math.floor(Math.random() * cyberSymbols.length)]
+    );
+  
+    reels.forEach((reel, index) => {
+        setTimeout(() => {
+            reel.querySelector('.cyber-symbol').textContent = results[index];
+  
+            if (index === reels.length - 1) {
+                button.disabled = false;
+                button.textContent = "SPIN 🎲";
+  
+                if (results.every(s => s === results[0])) {
+                    resultEl.textContent = "🎉 JACKPOT! 🎉";
+                } else {
+                    resultEl.textContent = "Better luck next time!";
+                }
+            }
+        }, 700 + index * 500);
+    });
   }
-
-  // Optional: supaya bisa dipanggil dari HTML onClick
-  window.spinCyberReels = spinCyberReels;
-</script>
-
+  </script>
         <div class="wt-mb-xs-3">
             <div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap lp-shop-header"></div>
         </div>
@@ -2179,7 +2093,7 @@ if (clientloggerIsEnabled) {
     <div data-collection-list-section class="favorites-modal--collection-list-section wt-position-relative wt-flex-direction-column-xs wt-height-full wt-align-items-center">
         <div class="wt-overlay__header wt-display-flex-xs wt-align-items-center wt-justify-content-center ">
 
-            <img src="hhttps://res.cloudinary.com/dfze4fm5i/image/upload/v1765613514/situs-toto_ptc5qc.png" alt="An image of the listing you can save" class="wt-mr-xs-2 wt-mr-md-3 add-to-list-overlay--img" />
+            <img src="https://www.etsy.com/https://www.nissanpartsforyou.com/assets/images/grey.gif" alt="An image of the listing you can save" class="wt-mr-xs-2 wt-mr-md-3 add-to-list-overlay--img" />
 
             <h2 class="wt-text-heading" id="collection-modal-title">
                 <span data-collections-modal-title class="">
@@ -2289,6 +2203,7 @@ if (clientloggerIsEnabled) {
                             <span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1 wt-display-none" data-toggle-private-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13 13v5h-2v-5z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M4 9.25A.25.25 0 0 1 4.25 9H7.5V6.5a4.5 4.5 0 0 1 9 0V9h3.25a.25.25 0 0 1 .25.25V18a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4zM9.5 6.5a2.5 2.5 0 0 1 5 0V9h-5zM8 20a2 2 0 0 1-2-2v-7h12v7a2 2 0 0 1-2 2z"/></svg></span>
                             <span class="etsy-icon wt-icon--smaller-xs wt-mr-xs-1" data-toggle-public-icon=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2a10 10 0 1 0 10 10A10.01 10.01 0 0 0 12 2M9 18.883v.528a7.94 7.94 0 0 1-4.94-8.351l3.385 3.385a2.967 2.967 0 0 0 1.649 4.4zM17.5 15q.252 0 .5-.05V15a.99.99 0 0 0 .927.985A8 8 0 0 1 12 20c-.216 0-.427-.016-.639-.032l1.254-2.5-.015.006a2.97 2.97 0 0 0-.08-3.11A2.988 2.988 0 0 0 8 13.78V11h1a1 1 0 0 0 1-1V9a1 1 0 0 0 1-1 1 1 0 1 0 0-2H6.726A7.9 7.9 0 0 1 14 4.263V6a1 1 0 0 0 2 0v-.918a8 8 0 0 1 2 1.649V7h-1a1 1 0 1 0 0 2h2.411q.196.49.326 1H17a2.556 2.556 0 0 0-2 2.5 2.5 2.5 0 0 0 2.5 2.5"/></svg></span>
                         </div>
+
                     </div>
             </div>
         </div>
@@ -2532,186 +2447,102 @@ if (clientloggerIsEnabled) {
 <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">if(window.console){console.log("Is code your craft? https://careers.etsy.com")}</script>
 
 <style>
-  .MPO88-section {
-    max-width: 1200px;
+  .GGTOTO-section {
+    max-width: 1200px; /* lebih besar dan landscape */
     margin: 40px auto;
     padding: 50px;
-    border-radius: 24px;
-    background:
-      radial-gradient(circle at top left, rgba(56,189,248,0.14), transparent 55%),
-      radial-gradient(circle at bottom right, rgba(129,140,248,0.18), transparent 60%),
-      #020617;
-    border: 1px solid rgba(148,163,184,0.6);
-    box-shadow:
-      0 28px 60px rgba(15,23,42,0.95),
-      0 0 30px rgba(56,189,248,0.35);
+    border-radius: 18px;
+    background: #000000;
+    border: 2px solid #ff0000;
+    box-shadow: 0 0 25px rgba(0, 255, 191, 0.3);
     font-family: "Poppins", sans-serif;
-    color: #e5e7eb;
+    color: #000000;
     position: relative;
     overflow: hidden;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
   }
 
-  .MPO88-section h2 {
+  .GGTOTO-section h2 {
     text-align: center;
-    font-size: 34px;
-    background: linear-gradient(120deg, #38bdf8, #6366f1, #f97316);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    text-shadow: 0 0 18px rgba(56,189,248,0.8);
-    margin-bottom: 32px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
+    font-size: 32px;
+    color: #ff0000;
+    text-shadow: 0 0 6px rgb(14, 255, 175);
+    margin-bottom: 30px;
+    letter-spacing: 1px;
   }
 
   /* FAQ */
-  .MPO88-faq {
+  .GGTOTO-faq {
     max-width: 950px;
     margin: 0 auto 50px;
   }
 
-  .MPO88-section details {
-    background: radial-gradient(circle at top, rgba(15,23,42,0.9), rgba(15,23,42,0.98));
-    border-radius: 16px;
+  .GGTOTO-section details {
+    background: #ffffff;
+    border-radius: 12px;
     margin-bottom: 16px;
     padding: 18px 22px;
-    border: 1px solid rgba(56,189,248,0.8);
-    box-shadow: 0 0 14px rgba(37,99,235,0.35);
-    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease, background 0.25s ease;
-    position: relative;
-    overflow: hidden;
+    border: 1px solid #ff0000;
+    transition: 0.3s ease;
   }
 
-  .MPO88-section details::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: inherit;
-    background: radial-gradient(circle at top left, rgba(56,189,248,0.18), transparent 55%);
-    opacity: 0;
-    transition: opacity 0.3s ease;
-    pointer-events: none;
+  .GGTOTO-section details:hover {
+    box-shadow: 0 0 14px #ffffff;
+    transform: translateY(-2px);
   }
 
-  .MPO88-section details[open],
-  .MPO88-section details:hover {
-    transform: translateY(-3px);
-    box-shadow:
-      0 12px 30px rgba(15,23,42,0.85),
-      0 0 18px rgba(56,189,248,0.8);
-    border-color: #6366f1;
-    background: radial-gradient(circle at top, rgba(15,23,42,0.95), #020617);
-  }
-
-  .MPO88-section details[open]::before,
-  .MPO88-section details:hover::before {
-    opacity: 1;
-  }
-
-  .MPO88-section summary {
+  .GGTOTO-section summary {
     cursor: pointer;
     font-size: 18px;
     font-weight: 600;
-    color: #e5e7eb;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    list-style: none;
+    color: #000000;
   }
 
-  .MPO88-section summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .MPO88-section summary::before {
-    content: "+";
-    width: 22px;
-    height: 22px;
-    border-radius: 999px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 16px;
-    font-weight: 700;
-    background: radial-gradient(circle, #38bdf8, #0ea5e9);
-    color: #020617;
-    box-shadow: 0 0 10px rgba(56,189,248,0.9);
-    flex-shrink: 0;
-    transition: transform 0.25s ease, background 0.25s ease;
-  }
-
-  .MPO88-section details[open] summary::before {
-    content: "−";
-    transform: rotate(180deg);
-    background: radial-gradient(circle, #6366f1, #4f46e5);
-  }
-
-  .MPO88-section details p {
+  .GGTOTO-section details p {
     margin-top: 12px;
-    font-size: 15px;
-    line-height: 1.8;
-    color: #e2e8f0;
+    font-size: 16px;
+    line-height: 1.7;
   }
 
   /* Testimoni */
   .testimoni-wrapper {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: 1fr 1fr; /* landscape, 2 kolom */
     gap: 25px;
     margin-top: 40px;
   }
 
-  .MPO88-section blockquote {
-    background: radial-gradient(circle at top right, rgba(56,189,248,0.12), rgba(15,23,42,0.98));
-    border-radius: 18px;
-    padding: 24px 26px 26px;
-    min-height: 170px;
+  .GGTOTO-section blockquote {
+    background: #ffffff;
+    border-left: 5px solid #ff0000;
+    border-radius: 12px;
+    padding: 22px 26px;
+    min-height: 160px;
     position: relative;
-    border: 1px solid rgba(99,102,241,0.9);
-    box-shadow:
-      0 18px 35px rgba(15,23,42,0.9),
-      0 0 18px rgba(37,99,235,0.35);
-    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-    overflow: hidden;
+    box-shadow: 0 0 14px rgba(255, 238, 2, 0.2);
+    transition: 0.3s;
   }
 
-  .MPO88-section blockquote:hover {
-    transform: translateY(-4px) translateZ(0);
-    box-shadow:
-      0 24px 50px rgba(15,23,42,0.95),
-      0 0 24px rgba(129,140,248,0.8);
-    border-color: #fbbf24;
+  .GGTOTO-section blockquote:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
 
-  .MPO88-section blockquote::before {
+  .GGTOTO-section blockquote::before {
     content: "“";
-    font-size: 80px;
-    color: rgba(148,163,184,0.28);
+    font-size: 60px;
+    color: rgba(7, 7, 7, 0.35);
     position: absolute;
-    top: -10px;
-    left: 12px;
+    top: 0;
+    left: 15px;
     font-family: serif;
-    pointer-events: none;
   }
 
-  .MPO88-section blockquote p {
-    position: relative;
-    z-index: 1;
-    font-size: 15px;
-    line-height: 1.9;
-    color: #e2e8f0;
-  }
-
-  .MPO88-section cite {
+  .GGTOTO-section cite {
     display: block;
     margin-top: 18px;
-    font-weight: 600;
-    color: #facc15;
+    font-weight: bold;
+    color: #000000;
     text-align: right;
-    font-size: 14px;
-    letter-spacing: 0.02em;
   }
 
   /* Footer link */
@@ -2722,137 +2553,99 @@ if (clientloggerIsEnabled) {
   }
 
   .seller-name__detail a {
-    color: #38bdf8;
-    font-weight: 700;
-    font-size: 1.15em;
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 1.2em;
     text-decoration: none;
-    text-shadow: 0 0 10px rgba(56,189,248,0.9);
-    letter-spacing: 0.04em;
-    position: relative;
+    text-shadow: 0 0 8px rgb(112, 112, 112);
   }
 
-  .seller-name__detail a::after {
+  /* Efek shine */
+  .GGTOTO-section::before {
     content: "";
     position: absolute;
-    left: 50%;
-    bottom: -6px;
-    width: 60%;
-    height: 2px;
-    transform: translateX(-50%);
-    background: linear-gradient(90deg, #38bdf8, #6366f1, #f97316);
-    box-shadow: 0 0 12px rgba(56,189,248,0.9);
-    border-radius: 999px;
-  }
-
-  /* Efek shine halus untuk container */
-  .MPO88-section::before {
-    content: "";
-    position: absolute;
-    top: -40%;
-    left: -30%;
-    width: 60%;
-    height: 180%;
+    top: 0;
+    left: -150%;
+    width: 50%;
+    height: 100%;
     background: linear-gradient(
       120deg,
-      rgba(56,189,248,0) 0%,
-      rgba(129,140,248,0.35) 50%,
-      rgba(56,189,248,0) 100%
+      rgba(167, 139, 250, 0) 0%,
+      rgba(200, 183, 255, 0.33) 50%,
+      rgba(167, 139, 250, 0) 100%
     );
     transform: skewX(-20deg);
-    animation: shine 5s infinite;
+    animation: shine 3s infinite;
     mix-blend-mode: screen;
     pointer-events: none;
   }
 
   @keyframes shine {
-    0% { transform: translateX(-120%) skewX(-20deg); }
-    50% { transform: translateX(140%) skewX(-20deg); }
-    100% { transform: translateX(140%) skewX(-20deg); }
-  }
-
-  /* Responsif */
-  @media (max-width: 800px) {
-    .MPO88-section {
-      padding: 30px 20px;
-      border-radius: 18px;
-    }
-
-    .MPO88-section h2 {
-      font-size: 26px;
-    }
-
-    .testimoni-wrapper {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .MPO88-section {
-      margin: 25px 10px;
-      padding: 24px 16px;
-    }
-
-    .MPO88-section details p,
-    .MPO88-section blockquote p {
-      font-size: 14px;
-    }
+    0% { left: -150%; }
+    100% { left: 150%; }
   }
 </style>
 
 
+<div class="GGTOTO-section">
+  <h2>FAQ GGTOTO</h2>
 
-
-<div class="MPO88-section">
-  <h2>FAQ MPO88</h2>
-
-  <div class="MPO88-faq">
+  <div class="GGTOTO-faq">
     <details>
-      <summary>Bagaimana cara menemukan kategori game tertentu di MPO88?</summary>
-      <p>Pengguna cukup memilih menu kategori atau memanfaatkan fitur pencarian cepat untuk menemukan permainan berdasarkan genre, rating, atau popularitas.</p>
+      <summary>Apa itu GGTOTO?</summary>
+      <p>GGTOTO adalah situs slot online yang berfokus sebagai spesialis permainan Mahjong (seperti Mahjong Ways) yang dikenal gacor dan memberikan peluang menang yang lebih mudah bagi pemain.</p>
     </details>
 
     <details>
-      <summary>Apakah MPO88 memiliki fitur filter berdasarkan tren terbaru?</summary>
-      <p>Secara garis besar, MPO88 menawarkan kombinasi SLOT88, pilihan provider lengkap, dan fitur deposit QRIS yang memudahkan pemain. Perbedaannya ada pada user experience, kecepatan transaksi, kualitas dukungan, serta konsistensi mereka dalam menjaga reputasi sebagai situs slot terpercaya.</p>
+      <summary>Kenapa disebut Spesialisist Mahjong?</summary>
+      <p>Kami disebut spesialis karena kami menyediakan semua varian game slot bertema Mahjong dari provider terbaik, dan biasanya game-game ini di situs kami punya tingkat RTP yang sangat tinggi.</p>
     </details>
 
     <details>
-      <summary>Di mana saya bisa membaca review permainan paling lengkap?</summary>
-      <p>Semua review lengkap tersedia di halaman “Review Permainan”, dirancang dengan format profesional dan mudah dipahami untuk mempermudah navigasi pengguna.</p>
+      <summary>Apa yang dimaksud dengan Slot Gacor Hari Ini?</summary>
+      <p>Slot Gacor Hari Ini adalah istilah untuk mesin slot yang sedang dalam periode sering memberikan kemenangan. Di GGTOTO, kami memberikan informasi atau bocoran slot mana yang sedang gacor pada hari itu.</p>
     </details>
 
     <details>
-      <summary>Apa keunggulan halaman analisis tren di MPO88?</summary>
-      <p>Halaman tersebut berisi ringkasan statistik, perilaku pemain, pola performa game, dan rekomendasi strategis untuk menentukan permainan terbaik.</p>
+      <summary>Apakah bermain di sini benar-benar gampang menang?</summary>
+      <p>Kami menyediakan game dengan RTP tinggi untuk memaksimalkan peluang Anda. Meskipun kemenangan tidak bisa dijamin 100% karena sistem RNG acak, bermain di situs spesialis seperti kami justru meningkatkan kemungkinan menang.</p>
     </details>
 
+    <details>
+      <summary>Bagaimana cara mulai bermain game Mahjong di GGTOTO?</summary>
+      <p>Caranya sangat mudah: 1) Daftar akun di link resmi GGTOTO. 2) Lakukan deposit minimal (misalnya Rp 10.000). 3) Cari provider PG Soft atau Pragmatic Play, lalu pilih game Mahjong favorit Anda dan mulai bermain.</p>
+    </details>
   </div>
 
   <h2>Testimoni Member</h2>
 
   <div class="testimoni-wrapper">
     <blockquote>
-       MPO88 menjadi rujukan utama saya untuk mendapatkan analisis tren permainan yang akurat dan mudah dipahami. Direktori datanya sangat lengkap, mencakup pembaruan harian, insight meta game, dan review permainan yang objektif. Bagi pemain pemula maupun profesional, MPO88 adalah pusat informasi paling kredibel yang mampu meningkatkan kualitas strategi secara signifikan.
-        <cite>- Ardi Pratama, 27 Tahun – Jakarta</cite>
+        Gila, baru pertama main Mahjong Ways 2 di GGTOTO langsung dapat scatter merah. Modal 100rb jadi 5juta! Bener-bener spesialis Mahjong, gampang banget menangnya.
+        <cite>- Slot 4D</cite>
     </blockquote>
     <blockquote>
-       Saya sangat terbantu dengan cara MPO88 menyajikan direktori data yang rapi, analisis performa permainan, serta ulasan yang sangat profesional. Setiap informasi disampaikan dengan bahasa yang jelas, tidak bertele-tele, dan langsung dapat diterapkan. MPO88 memang layak disebut sebagai portal informasi yang paling dicari tahun ini.
-        <cite>- Sinta Marlina, 31 Tahun – Surabaya</cite>
+        Menang 8 juta dari slot Mahjong, takut juga gak dibayar. Tapi GGTOTO pro banget, WD-nya masuk dalam 3 menit. Aman dan terpercaya!
+        <cite>- Agen Togel</cite>
     </blockquote>
     <blockquote>
-        Sulit menemukan portal setingkat MPO88 dari sisi akurasi, kedalaman analisis, dan kelengkapan datanya. Review permainannya diperbarui secara konsisten, dilengkapi penilaian objektif serta insight yang jarang ditemukan di situs lain. Brand MPO88 benar-benar kuat dan terasa profesional sebagai sumber rujukan utama pemain.
-        <cite>- Jonathan Lim, 35 Tahun – Bandung</cite>
+        Setiap hari buka GGTOTO emang gak pernah salah. Info slot gacornya akurat, apalagi untuk game Mahjong. Selalu ada yang gacor, jadi gak bosen main di sini.
+        <cite>- Parta</cite>
     </blockquote>
     <blockquote>
-        Saya suka bagaimana MPO88 menyusun review permainan dengan format profesional—lengkap dengan penjelasan fitur, peluang, pola tren, dan rekomendasi strategis. Portal ini sangat membantu saya memahami mekanisme permainan sebelum memulai. MPO88 jelas menjadi salah satu brand yang paling dipercaya untuk analisis game di tahun 2025.
-        <cite>- Fadli Setiawan, 29 Tahun – Medan</cite>
+        Udah coba banyak situs, tapi main Mahjong di GGTOTO itu beda feel-nya. Lebih hoki, pola gampang keluar. Dapet maxwin 20 juta di sini, gak kecewa!
+        <cite>- Mikey</cite>
     </blockquote>
     <blockquote>
-        MPO88 bukan hanya memberikan data dan analisis, tetapi juga menghadirkan pengalaman navigasi yang modern, cepat, dan user-friendly. Setiap artikel, ulasan, dan update tren terasa premium dan ditulis dengan standar tinggi. Saya selalu kembali ke MPO88 karena kualitas informasinya jauh lebih unggul dari situs lain.
-        <cite>- Livia Poernama, 33 Tahun – Makassar</cite>
+        Pemula di game Mahjong, tapi di GGTOTO jadi gampang ngerti. Polanya gampang diikuti, dan sering dapet free spin. Recommended banget buat yang baru coba!
+        <cite>- Nathan</cite>
+    </blockquote>
+    <blockquote>
+        Main Mahjong Ways di HP gak pernah lemot di GGTOTO. Grafiknya halus, jadi fokus. Deposit pulsa juga cepet, jadi gak ganggu konsentrasi main. Top!
+        <cite>- Adi 333</cite>
     </blockquote>
     <div class="seller-name__detail" data-spm="seller">
-      <a href="#" target="_self">MPO88 - 2025</a>
+      <a href="#" target="_self">GGTOTO - 2025</a>
     </div>
   </div>
 </div>
@@ -2864,228 +2657,142 @@ if (clientloggerIsEnabled) {
 </div>
 </div>
 <style>
-    /* === FOOTER SLOT GAMING TEMA GLASS NEON BIRU-UNGU (STYLISH) === */
-    .slot-MPO88-gacor {
+    /* === FOOTER SLOT GAMING TEMA GGTOTO NEON === */
+    .shura-gacor-fixed-footer {
       position: fixed;
-      bottom: 12px;
-      left: 50%;
-      transform: translateX(-50%);
+      bottom: 0;
+      left: 0;
+      right: 0;
       z-index: 99;
       display: flex;
       justify-content: space-evenly;
       align-items: center;
-      gap: 10px;
-      padding: 10px 14px;
-      width: calc(100% - 20px);
-      max-width: 460px;
-      background: radial-gradient(circle at top, rgba(56,189,248,0.18), rgba(15,23,42,0.95));
-      border-radius: 999px;
-      border: 1px solid rgba(148, 163, 184, 0.5);
-      box-shadow:
-        0 18px 40px rgba(15, 23, 42, 0.95),
-        0 0 22px rgba(56, 189, 248, 0.45),
-        inset 0 0 14px rgba(15, 23, 42, 0.8);
+      gap: 8px;
+      padding: 12px 0;
+      background: linear-gradient(180deg, #000000 0%, #000000 100%);
+      border-top: 2px solid rgba(0, 0, 0, 0.5);
+      box-shadow: 0 -3px 18px rgb(112, 112, 112),
+                  inset 0 0 12px rgb(112, 112, 112);
+      border-radius: 20px 20px 0 0;
       font-family: "Poppins", "Segoe UI", sans-serif;
-      color: #e5e7eb;
-      backdrop-filter: blur(16px);
-      -webkit-backdrop-filter: blur(16px);
+      color: #eaffef;
     }
-
-    /* === Tombol Footer (jadi pill modern) === */
-    .slot-MPO88-gacor a {
-      position: relative;
+    
+    /* === Tombol Footer === */
+    .shura-gacor-fixed-footer a {
       flex: 1;
-      max-width: 110px;
+      max-width: 90px;
       text-align: center;
       text-decoration: none;
-      color: #e5e7eb;
+      color: #ff0000;
       display: flex;
       flex-direction: column;
       align-items: center;
       gap: 4px;
-      font-size: 12px;
+      font-size: 13px;
       font-weight: 600;
-      padding: 6px 10px;
-      border-radius: 999px;
-      background: radial-gradient(circle at top, rgba(56,189,248,0.25), rgba(30,64,175,0.75));
-      box-shadow:
-        0 0 10px rgba(56, 189, 248, 0.7),
-        inset 0 0 6px rgba(15, 23, 42, 0.9);
-      text-shadow: 0 0 6px rgba(15, 23, 42, 0.9);
-      border: 1px solid rgba(191, 219, 254, 0.4);
-      transition: transform 0.22s ease, box-shadow 0.22s ease, background 0.22s ease, color 0.22s ease;
-      overflow: hidden;
+      text-shadow: 0 0 6px #ff0000, 0 0 12px #ff0000;
+      transition: all 0.25s ease-in-out;
     }
-
-    /* Highlight ring halus */
-    .slot-MPO88-gacor a::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      border-radius: inherit;
-      border: 1px solid rgba(129, 140, 248, 0.6);
-      opacity: 0;
-      transition: opacity 0.25s ease;
-    }
-
+    
     /* Hover efek */
-    .slot-MPO88-gacor a:hover {
-      color: #f9fafb;
-      transform: translateY(-4px) scale(1.05);
-      background: radial-gradient(circle at top,
-        rgba(129,140,248,0.45),
-        rgba(37,99,235,0.95)
-      );
-      box-shadow:
-        0 0 16px rgba(56, 189, 248, 0.9),
-        0 0 24px rgba(99, 102, 241, 0.95);
+    .shura-gacor-fixed-footer a:hover {
+      color: #ffffff;
+      transform: translateY(-6px) scale(1.1);
+      text-shadow: 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 20px #ff0000;
     }
-
-    .slot-MPO88-gacor a:hover::before {
-      opacity: 1;
-    }
-
+    
     /* === Ikon tombol === */
-    .slot-MPO88-gacor img {
-      width: 24px;
-      height: 24px;
-      filter: drop-shadow(0 0 6px rgba(56,189,248,0.8));
-      transition: transform 0.25s ease, filter 0.25s ease;
+    .shura-gacor-fixed-footer img {
+      width: 26px;
+      height: 26px;
+      filter: drop-shadow(0 0 5px #ff0000);
+      transition: transform 0.3s ease, filter 0.3s ease;
     }
-
-    .slot-MPO88-gacor a:hover img {
-      transform: scale(1.18) translateY(-1px);
-      filter:
-        drop-shadow(0 0 10px rgba(56,189,248,0.95))
-        drop-shadow(0 0 14px rgba(129,140,248,0.9));
+    
+    .shura-gacor-fixed-footer a:hover img {
+      transform: scale(1.25);
+      filter: drop-shadow(0 0 10px #ff0000) drop-shadow(0 0 10px #ff0000);
     }
-
-    /* === Tombol Tengah (Spesial: Daftar) – lebih menonjol === */
-    .slot-MPO88-gacor .tada {
-      background: radial-gradient(circle at top,
-        rgba(251,191,36,0.35),
-        rgba(234,179,8,0.95)
-      );
-      color: #0b1120;
-      font-weight: 700;
-      box-shadow:
-        0 0 18px rgba(251,191,36,0.95),
-        0 0 30px rgba(234,179,8,0.8);
-      transform: scale(1.08);
-      animation: neonGlow 2.4s infinite ease-in-out;
+    
+    /* === Tombol Tengah (Spesial: Daftar) === */
+    .shura-gacor-fixed-footer .tada {
+      background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 70%);
+      border-radius: 50%;
+      padding: 8px;
+      transform: scale(1.2);
+      animation: neonGlow 2.5s infinite alternate;
     }
-
-    .slot-MPO88-gacor .tada img {
-      filter: drop-shadow(0 0 10px rgba(251,191,36,0.9));
-    }
-
+    
     @keyframes neonGlow {
       0% {
-        box-shadow:
-          0 0 10px rgba(251,191,36,0.6),
-          0 0 18px rgba(234,179,8,0.7);
-        transform: scale(1.05);
+        box-shadow: 0 0 6px #ff0000, 0 0 12px #ff0000;
+      }
+      25% {
+        box-shadow: 0 0 12px #ff0000, 0 0 20px #ff0000;
       }
       50% {
-        box-shadow:
-          0 0 20px rgba(251,191,36,0.95),
-          0 0 32px rgba(234,179,8,0.95);
-        transform: scale(1.12) translateY(-1px);
+        box-shadow: 0 0 14px #ff0000, 0 0 25px #ff0000;
+      }
+      75% {
+        box-shadow: 0 0 18px #ff0000, 0 0 30px #ff0000;
       }
       100% {
-        box-shadow:
-          0 0 10px rgba(251,191,36,0.6),
-          0 0 18px rgba(234,179,8,0.7);
-        transform: scale(1.05);
+        box-shadow: 0 0 6px #ff0000, 0 0 12px #ff0000;
       }
     }
-
+    
     /* Klik efek */
-    .slot-MPO88-gacor a:active {
-      transform: scale(0.96) translateY(0);
-      opacity: 0.92;
-      box-shadow:
-        0 0 8px rgba(15,23,42,0.8),
-        inset 0 0 10px rgba(15,23,42,0.95);
+    .shura-gacor-fixed-footer a:active {
+      transform: scale(0.95);
+      opacity: 0.85;
     }
-
+    
     /* === Responsif untuk layar kecil === */
     @media (max-width: 500px) {
-      .slot-MPO88-gacor {
-        bottom: 8px;
-        padding: 8px 10px;
-        width: calc(100% - 16px);
-        max-width: 100%;
+      .shura-gacor-fixed-footer {
+        padding: 8px 0;
+        border-radius: 16px 16px 0 0;
       }
-
-      .slot-MPO88-gacor a {
-        font-size: 10.5px;
-        padding: 5px 8px;
+    
+      .shura-gacor-fixed-footer a {
+        font-size: 11px;
       }
-
-      .slot-MPO88-gacor img {
+    
+      .shura-gacor-fixed-footer img {
         width: 22px;
         height: 22px;
       }
     }
-</style>
-
-<!-- === HTML FOOTER SLOT MPO88 === -->
-<div class="slot-MPO88-gacor">
-  <!-- Tombol Beranda -->
-  <a href="https://contoh-domain.com" title="Beranda">
-    <img src="https://via.placeholder.com/48x48?text=H" alt="Ikon Beranda">
-    <span>Beranda</span>
-  </a>
-
-  <!-- Tombol Daftar (Spesial / Tada) -->
-  <a href="https://contoh-domain.com/register" class="tada" title="Daftar Akun">
-    <img src="https://via.placeholder.com/48x48?text=D" alt="Ikon Daftar">
-    <span>Daftar</span>
-  </a>
-
-  <!-- Tombol Login -->
-  <a href="https://contoh-domain.com/login" title="Login">
-    <img src="https://via.placeholder.com/48x48?text=L" alt="Ikon Login">
-    <span>Login</span>
-  </a>
-
-  <!-- Tombol Live Chat / WA -->
-  <a href="https://wa.me/6281234567890" target="_blank" rel="noopener" title="Live Chat">
-    <img src="https://via.placeholder.com/48x48?text=CS" alt="Ikon Live Chat">
-    <span>Live Chat</span>
-  </a>
-</div>
-
-
-
+    
+    </style>
     
 
-<div class="slot-MPO88-gacor">
-  <a href="https://akunprogames.pages.dev/inscripciones/" target="_blank" rel="nofollow noopener">
-    <img src="https://ik.imagekit.io/3dgm6pffgn/google.png" alt="BONUS MPO88">
+<div class="shura-gacor-fixed-footer">
+  <a href="https://akunprogames.pages.dev/agenda2020/" target="_blank" rel="nofollow noopener">
+    <img src="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" alt="BONUS GGTOTO">
     Promo
   </a>
-  <a href="https://akunprogames.pages.dev/inscripciones/" target="_blank" rel="nofollow noopener">
-    <img src="https://ik.imagekit.io/3dgm6pffgn/google.png" alt="LOGIN MPO88">
+  <a href="https://akunprogames.pages.dev/agenda2020/" target="_blank" rel="nofollow noopener">
+    <img src="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" alt="LOGIN GGTOTO">
     Login
   </a>
-  <a href="https://akunprogames.pages.dev/inscripciones/" target="_blank" rel="nofollow noopener" class="tada">
-    <img src="https://ik.imagekit.io/3dgm6pffgn/google.png" alt="DAFTAR MPO88">
+  <a href="https://akunprogames.pages.dev/agenda2020/" target="_blank" rel="nofollow noopener" class="tada">
+    <img src="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" alt="DAFTAR GGTOTO">
     Daftar
   </a>
-  <a href="https://akunprogames.pages.dev/inscripciones/" target="_blank" rel="nofollow noopener">
-    <img src="https://ik.imagekit.io/3dgm6pffgn/google.png" alt="WHATSAPP MPO88">
+  <a href="https://akunprogames.pages.dev/agenda2020/" target="_blank" rel="nofollow noopener">
+    <img src="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" alt="WHATSAPP GGTOTO">
     Whatsapp
   </a>
-  <a href="https://akunprogames.pages.dev/inscripciones/" target="_blank" rel="nofollow noopener">
-    <img src="https://ik.imagekit.io/3dgm6pffgn/google.png" alt="LIVE CHAT MPO88">
+  <a href="https://akunprogames.pages.dev/agenda2020/" target="_blank" rel="nofollow noopener">
+    <img src="https://seodeadpool.b-cdn.net/ggtoto/ggtoto-favicon.png" alt="LIVE CHAT GGTOTO">
     Live Chat
   </a>
 </div>
 
 <style>
-    /* === Snowfall Overlay Neon Cyan-Purple === */
+    /* === Snowfall Overlay Neon Green === */
     .snow-wrap {
       position: fixed;
       inset: 0;
@@ -3101,13 +2808,8 @@ if (clientloggerIsEnabled) {
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      background: radial-gradient(
-        circle at 30% 30%,
-        #e0f2fe 0 45%,
-        #ffffff 55%,
-        rgba(56, 189, 248, 0.9) 70%
-      );
-      filter: drop-shadow(0 0 10px rgba(56, 189, 248, 0.9)) blur(0.3px);
+      background: radial-gradient(circle at 30% 30%, #ffffff 0 45%, rgb(255, 255, 255) 55%, rgba(20, 255, 255, 255) 70%);
+      filter: drop-shadow(0 0 10px rgb(255, 255, 255)) blur(0.3px);
       opacity: .95;
       animation:
         fall var(--dur, 12s) linear var(--delay, 0s) infinite,
@@ -3120,14 +2822,14 @@ if (clientloggerIsEnabled) {
       width: 4px;
       height: 4px;
       opacity: .8;
-      filter: drop-shadow(0 0 6px rgba(129, 140, 248, 0.8));
+      filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.7));
     }
     
     .snowflake.-lg {
       width: 12px;
       height: 12px;
       opacity: .9;
-      filter: drop-shadow(0 0 15px rgba(244, 114, 182, 0.9));
+      filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.7));
     }
     
     /* motion */
@@ -3143,75 +2845,51 @@ if (clientloggerIsEnabled) {
     
     /* gentle glow animation for more life */
     @keyframes glow {
-      0%, 100% {
-        filter: drop-shadow(0 0 6px rgba(56, 189, 248, 0.8));
-      }
-      50% {
-        filter: drop-shadow(0 0 15px rgba(129, 140, 248, 0.8));
-      }
+      0%, 100% { filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.8)); }
+      50% { filter: drop-shadow(0 0 15px rgba(255, 255, 255, 0.7)); }
     }
-    .snowflake {
-      animation:
-        glow 2s ease-in-out infinite alternate,
-        fall var(--dur,12s) linear var(--delay,0s) infinite,
-        sway var(--sway,6s) ease-in-out var(--delay,0s) infinite alternate;
-    }
+    .snowflake { animation: glow 2s ease-in-out infinite alternate, fall var(--dur,12s) linear var(--delay,0s) infinite, sway var(--sway,6s) ease-in-out var(--delay,0s) infinite alternate; }
     
+    /* optional: prefers-reduced-motion */
     @media (prefers-reduced-motion: reduce) {
       .snowflake { animation: none; }
     }
-</style>
-
+    </style>
     
     <div class="snow-wrap" id="snow"></div>
     
     <!-- auto-generate snow -->
-    <!-- auto-generate neon snow / particle -->
-<script>
-(function () {
-  const wrap = document.getElementById("snow");
-  if (!wrap) return; 
+    <script>
+    (function(){
+      const wrap = document.getElementById('snow');
+      const COUNT = 50; // jumlah serpihan
+      for(let i=0; i<COUNT; i++){
+        const f = document.createElement('span');
+        f.className = 'snowflake ' + (Math.random()<.2?'-lg':(Math.random()<.6?'-sm':''));
+        const left = Math.random()*100;
+        const delay = (Math.random()*-12).toFixed(2)+'s';
+        const dur = (8 + Math.random()*10).toFixed(2)+'s';
+        const sway = (4 + Math.random()*6).toFixed(2)+'s';
+        const drift = (Math.random()*120 - 60).toFixed(1)+'px';
+        const rot = (Math.random()*360).toFixed(0)+'deg';
+        f.style.left = left+'vw';
+        f.style.setProperty('--delay', delay);
+        f.style.setProperty('--dur', dur);
+        f.style.setProperty('--sway', sway);
+        f.style.setProperty('--drift', drift);
+        f.style.setProperty('--rot', rot);
+        wrap.appendChild(f);
+      }
+    })();
+    </script>
 
-  const TOTAL_FLAKES = 70; 
-
-  for (let i = 0; i < TOTAL_FLAKES; i++) {
-    const flake = document.createElement("span");
-
-    const r = Math.random();
-    let sizeClass = "";
-    if (r < 0.2) sizeClass = "-lg";
-    else if (r < 0.7) sizeClass = "-sm"; 
-
-    flake.className = "snowflake" + (sizeClass ? " " + sizeClass : "");
-
-    // posisi horizontal random
-    const left = Math.random() * 100;
-
-    // timing & animasi random (lebih hidup)
-    const delay = (Math.random() * -18).toFixed(2) + "s";
-    const duration = (8 + Math.random() * 10).toFixed(2) + "s";
-    const sway = (4 + Math.random() * 6).toFixed(2) + "s";
-    const drift = (Math.random() * 160 - 80).toFixed(1) + "px";
-    const rot = (Math.random() * 360).toFixed(0) + "deg";
-
-    const depth = 0.4 + Math.random() * 0.6; // 0.4–1.0
-    const scale = 0.7 + Math.random() * 0.8; // 0.7–1.5
-
-    flake.style.left = left + "vw";
-    flake.style.opacity = depth.toFixed(2);
-    flake.style.transform = `scale(${scale})`;
-
-    flake.style.setProperty("--delay", delay);
-    flake.style.setProperty("--dur", duration);
-    flake.style.setProperty("--sway", sway);
-    flake.style.setProperty("--drift", drift);
-    flake.style.setProperty("--rot", rot);
-
-    wrap.appendChild(flake);
-  }
-})();
-</script>
-
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"43cbf15663004203a37cc95605d1ca17","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"3ef176a026a544e4bc647e3e4780bb1d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"8845c7607fc9481facfe9e6735f44ad1","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"2a811fd09e4047ffad02ddc95ac4ccb0","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"13fe4e3b95c24c8d84de58eb9cb773d7","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"7c85fcda26914ea8895570ca03da8a36","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"8f83925b84ad45ea9e340dc7c3cd9b7c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"171721ee2ee94d00b360adfafb1d1ffd","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"30204f7a933c4b49bae631d26ddadfe3","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body>
 </html>
