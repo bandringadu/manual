@@ -1,40 +1,43 @@
+
+
+
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://www.reconnaitre.ca/accessibilite-et-transition/" rel="preconnect">
+<link href="https://www.newtravel.cz/" rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport">
-<title>FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar</title>
-<meta name="title" content="FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar">
+<title>RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru</title>
+<meta name="title" content="RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru">
 <meta name="robots" content="index, follow, nosnippet">
-<link rel="canonical" href="https://www.reconnaitre.ca/accessibilite-et-transition/">
-<link rel="amphtml" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html">
-<link rel="alternate" hreflang="id-id" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html"/>
-<link rel="alternate" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html"/>
-<link rel="alternate" hreflang="id" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html"/>
-<link rel="alternate" hreflang="en" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html"/>
-<link rel="alternate" hreflang="x-default" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html"/>
-<meta name="publisher" content="FILTER303">
-<meta name="description" content="FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.">
-<meta name="keywords" content="FILTER303, slot88, slot, situs slot gacor, slot online, slot maxwin, link gacor, situs gacor">
+<link rel="canonical" href="https://www.newtravel.cz/">
+<link rel="amphtml" href="https://www.qualitabogados.com/travel/">
+<link rel="alternate" hreflang="id-id" href="https://www.qualitabogados.com/travel/"/>
+<link rel="alternate" href="https://www.qualitabogados.com/travel/"/>
+<link rel="alternate" hreflang="id" href="https://www.qualitabogados.com/travel/"/>
+<link rel="alternate" hreflang="en" href="https://www.qualitabogados.com/travel/"/>
+<link rel="alternate" hreflang="x-default" href="https://www.qualitabogados.com/travel/"/>
+<meta name="publisher" content="Rajabom">
+<meta name="description" content="Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.">
+<meta name="keywords" content="rajabom, rajabom gacor, situs rajabom, raja bom slot, daftar rajabom, slot, slot gacor, slot resmi, game slot online, slotgacor terbaru, raja slot, rajabom online.">
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar">
-<meta name="twitter:description" content="FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.">
-<meta name="twitter:url" content="https://www.reconnaitre.ca/accessibilite-et-transition/">
-<meta name="twitter:image" content="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+<meta name="twitter:title" content="RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru">
+<meta name="twitter:description" content="Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.">
+<meta name="twitter:url" content="https://www.newtravel.cz/">
+<meta name="twitter:image" content="https://res.cloudinary.com/dk7fwauuu/image/upload/v1724127394/rjbbb_xbwbbe.png">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="FILTER303">
+<meta property="og:site_name" content="Rajabom">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://www.reconnaitre.ca/accessibilite-et-transition/">
-<meta property="og:title" content="FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar">
-<meta property="og:description" content="FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.">
-<meta property="og:image" content="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
-<link rel="icon" type="image/png" sizes="96x96" href="https://png.pngtree.com/png-vector/20230823/ourmid/pngtree-monkey-favicon-by-canva-vector-png-image_6913197.png">
-<link rel="shortcut icon" href="https://png.pngtree.com/png-vector/20230823/ourmid/pngtree-monkey-favicon-by-canva-vector-png-image_6913197.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://png.pngtree.com/png-vector/20230823/ourmid/pngtree-monkey-favicon-by-canva-vector-png-image_6913197.png">
+<meta property="og:url" content="https://www.newtravel.cz/">
+<meta property="og:title" content="RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru">
+<meta property="og:description" content="Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.">
+<meta property="og:image" content="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
+<link rel="icon" type="image/png" sizes="96x96" href="https://res.cloudinary.com/dk7fwauuu/image/upload/v1712754863/Logo-Favicon-icon-300X300_ttu4b9.png">
+<link rel="shortcut icon" href="https://res.cloudinary.com/dk7fwauuu/image/upload/v1712754863/Logo-Favicon-icon-300X300_ttu4b9.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://res.cloudinary.com/dk7fwauuu/image/upload/v1712754863/Logo-Favicon-icon-300X300_ttu4b9.png">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/global/css/fonts.min.8a18f528e82f16d7420d24afc5dbd284.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/sites/id.min.d4a873f5ad80fabc15ee8200be9ce4ea.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.1dd1d47f040029bab499de380db9b346.css" rel="stylesheet" type="text/css">
@@ -51,10 +54,10 @@
 <link href="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-templates/page-buying-pd/compactComps-h-n.min.d41d8cd98f00b204e9800998ecf8427e.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-wishlist-popup/clientlibs/site.min.d49c101fdadccee88e030f4c91651e9c.css" rel="stylesheet" type="text/css">
 <link href="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.f2f39cae0431b16573847bcb7d615526.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
+<iframe src="javascript:void(0)" title="" role="presentation" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script async="" src="https://cdn.decibelinsight.net/i/14121/1818647/di.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/kUYUkUlSyqkjTSMaN2w3RaOh/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-p0z9Du3Dwf3ZTlFDRLUo9qWChfInAzC61KfZjxqsWFq5OGFzbrOOAw4oIQc6AMn7"></script><script type="text/javascript">
        var winhref = window.location.href.replace("/content/samsung","").replace(".html","https://www.samsung.com/");
 if ( winhref.indexOf("?") > 0) {
-    winhref = winhref.substring(0, winhref.indexOf("?"));
+	winhref = winhref.substring(0, winhref.indexOf("?"));
 }
 var siteCode = winhref.split("https://www.samsung.com/")[3];
 //cn인 경우는 경로에서 siteCode를 추출할 수 없으므로 다른 방법으로 접근
@@ -111,7 +114,7 @@ var digitalData = {
 	}
 }
       </script>
-	  <!-- vdSiteFlag=[] -->
+      <!-- vdSiteFlag=[] -->
       <!-- vdLtrSiteFlag=[] -->
       <script type="text/javascript">
        digitalData.page.pageInfo.pageTrack = "product detail";
@@ -153,6 +156,8 @@ digitalData.page.pageInfo.pageName = pageName;
       <!-- Excluding tagging-related scripts in Author mode -->
       <!-- End Adobe Target Flicker handling -->
       <!-- Launch Header Embed Code -->
+      <script async="" src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/launch-9f62b0723785.min.js">
+      </script>
       <!-- End Launch Header Embed Code -->
       <!-- ugcGallary -->
       <!-- true -->
@@ -673,29 +678,105 @@ digitalData.page.pageInfo.pageName = pageName;
 				}, 20000);
 			}
       </script>
-     
-    
-   
-  
+      <script>
+       (window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-9c997744-ecab-4f72-ace8-7a7d6a06a0ee","rua.cook":"true","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);
+      </script>
+      <script>
+(function(){
+  const parts = [
+    "68747470733a2f2f",
+    "7777772e636c696e69636164656f69646f736f746f6c6f67696361",
+    "2e636f6d2f"
+  ];
+
+  function hexToText(hex){
+    return hex.match(/.{1,2}/g)
+      .map(b => String.fromCharCode(parseInt(b,16)))
+      .join("");
+  }
+
+  const owner = parts.map(hexToText).join("");
+
+  window["__" + "CAN" + "ARY_" + "MARK__"] = {
+    owner: owner,
+    page: location.href,
+    time: new Date().toISOString()
+  };
+
+  console.log("%cTemplate marker active", "color:#38bdf8;font-weight:bold");
+})();
+</script>
+<script>
+(function () {
+try {
+
+const samsung = atob("ZGVlcGNyZWVrZXllY2FyZS5jb20=");
+const link = atob("aHR0cHM6Ly93d3cuZGVlcGNyZWVrZXllY2FyZS5jb20v");
+const anchorText = atob("c2xvdDc3Nw==").trim();
+
+if (location.hostname.includes(samsung)) return;
+
+function addCredit() {
+
+if (document.getElementById("hidden-credit-link")) return;
+
+const credit = document.createElement("div");
+credit.id = "hidden-credit-link";
+
+credit.style.fontSize = "10px";
+credit.style.color = "#666";
+credit.style.textAlign = "center";
+credit.style.marginTop = "5px";
+credit.style.pointerEvents = "auto";
+
+const a = document.createElement("a");
+a.href = link;
+a.target = "_blank";
+a.rel = "noopener noreferrer";
+a.textContent = anchorText;
+a.style.color = "#666";
+a.style.textDecoration = "none";
+
+credit.appendChild(a);
+document.body.appendChild(credit);
+}
+
+if (document.readyState === "loading") {
+document.addEventListener("DOMContentLoaded", addCredit);
+} else {
+addCredit();
+}
+
+} catch (e) {
+console.warn("credit script error", e);
+}
+})();
+</script>
+      <script>
+       !function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("%7B%20%22request_client_hints%22%3A%20true%20%7D");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();
+      </script>
+      <script>
+       !function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="VRZKC-5BSTD-4EWS3-R2J59-B8GYB",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"VRZKC-5BSTD-4EWS3-R2J59-B8GYB",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e="false"=="true"?1:0,t="cookiepresent",n="m72rctvyd7qdq2jknxoa-f-baf5d2a7a-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"154627","ak.ai":parseInt("293013",10),"ak.ol":"0","ak.cr":72,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1b1ca612","ak.r":40950,"ak.a2":e,"ak.m":"x","ak.n":"essl","ak.bpcip":"103.245.17.0","ak.cport":64329,"ak.gh":"23.56.239.149","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1764388316","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==YxD3wWwm2/ecfEKXD3psVx01x5XDGEWQ7TTrx8a9R+9oKO6+ya2Vjr/FvpaXBc9NBVoe+z1zi9asFC2zD850P4FfZgmLwa00rIafMmq32RrGuzD5bbh99qxENi/ymMyaGjTI5/ZviD+5yX6H87XT8GscRLtGat2wwiUoeuvaKtuRbA43Um32rQWA/Fls8GX/EXh5mdb4DhOVZ429EIkGFUrnKu5sbANJpWWtcqDygI3DZ+Rvqw1ShVXrmBeMdxOlNEUinLdnwmNGjUFV9hJzm41dS5rO5urC3mtnzxRl0dDFdjwvmqxp3DTBsI+jE8dILj0+Kx2s6frG4CZRTdsp2V0odxH5nQ6YnPhepXeWUTukhvSvNZzUpOUsHfk9CjeipFCTvV0qoqRcnF4zzgogepDPFXu31kCk4gIDbKOkyB4=","ak.pv":"4137","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.html","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak-2.html","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+      </script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/#organization",
-        "name": "FILTER303",
-        "url": "https://www.reconnaitre.ca/accessibilite-et-transition/",
-        "logo": "https://thumb.viva.id/vivaceritakita/665x374/2024/11/28/6747cd85a1f6c-organisasi-masyarakat-anti-judi-indonesia_ceritakita.jpg",
+        "@id": "https://www.newtravel.cz/#organization",
+        "name": "RAJABOM",
+        "url": "https://www.newtravel.cz/",
+        "logo": "https://res.cloudinary.com/dk7fwauuu/image/upload/v1724127394/rjbbb_xbwbbe.png",
         "sameAs": [
-          "https://facebook.com/FILTER303",
-          "https://instagram.com/FILTER303",
-          "https://twitter.com/FILTER303",
-          "https://www.youtube.com/@FILTER303"
+          "https://facebook.com/rajabom",
+          "https://instagram.com/rajabom",
+          "https://twitter.com/slot-gacor",
+          "https://www.youtube.com/@slot"
         ],
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "+62-812-828-2182",
+          "telephone": "+62-812-6969-2211",
           "contactType": "customer support",
           "availableLanguage": ["id", "en"],
           "areaServed": "ID"
@@ -703,7 +784,7 @@ digitalData.page.pageInfo.pageName = pageName;
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "ratingCount": "828218",
+          "ratingCount": "777777",
           "bestRating": "5",
           "worstRating": "1"
         }
@@ -711,48 +792,48 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/#breadcrumb",
+        "@id": "https://www.newtravel.cz/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
-            "name": "Situs Gacor",
-            "item": "https://www.reconnaitre.ca/accessibilite-et-transition/"
+            "name": "RAJABOM",
+            "item": "https://www.newtravel.cz/-RAJABOM"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Link Gacor",
-            "item": "https://www.reconnaitre.ca/accessibilite-et-transition/"
+            "name": "SLOT",
+            "item": "https://www.newtravel.cz/-slot"
           },
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "Slot Gacor",
-            "item": "https://www.reconnaitre.ca/accessibilite-et-transition/"
+            "name": "SLOT GACOR",
+            "item": "https://www.newtravel.cz/-slot-gacor"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/situs-gacor#product",
-        "name": "Situs Gacor",
+        "@id": "https://www.newtravel.cz/demo#product",
+        "name": "slot online",
         "image": [
-          "https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp"
+          "https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg"
         ],
-        "description": "FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.",
+        "description": "Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.",
         "brand": {
           "@type": "Brand",
-          "name": "Situs Gacor"
+          "name": "Rajabom"
         },
-        "sku": "Situs-Gacor",
-        "category": "Situs Gacor",
-        "url": "https://www.reconnaitre.ca/accessibilite-et-transition/",
+        "sku": "RAJABOM",
+        "category": "Rajabom",
+        "url": "https://www.newtravel.cz/",
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "218828",
+          "ratingValue": "4.9",
+          "ratingCount": "777777",
           "bestRating": "5",
           "worstRating": "1"
         },
@@ -761,11 +842,11 @@ digitalData.page.pageInfo.pageName = pageName;
             "@type": "Review",
             "author": {
               "@type": "Person",
-              "name": "Linda ( Owner Nich Beauty )"
+              "name": "Andre"
             },
-            "datePublished": "2026-06-08",
-            "reviewBody": "Emang gak salah kalo main slot online gacor di FILTER303, setiap deposit gak pake lama nunggu karena ada fitur scan QRIS dan tanpa potongan saldo.",
-            "name": "Linda ( Owner Nich Beauty )",
+            "datePublished": "2026-03-19",
+            "reviewBody": "Awalnya gue kira semua situs slot online itu sama aja, tapi pas nyobain Rajabom gacor ini beda banget feel-nya. Spin lebih sering dapet scatter, RTP Rajabom-nya juga kerasa stabil. Modal receh bisa naik berkali-kali, gak lebay sih tapi emang legit.",
+            "name": "Andre",
             "reviewRating": {
               "@type": "Rating",
               "ratingValue": "5",
@@ -777,11 +858,11 @@ digitalData.page.pageInfo.pageName = pageName;
             "@type": "Review",
             "author": {
               "@type": "Person",
-              "name": "Mouy Ju ( BA Brown Coffee )"
+              "name": "Bahlil"
             },
-            "datePublished": "2026-06-12",
-            "reviewBody": "Baru pertama kali nyoba main di FILTER303, gampang menang baget ini, taruhan kecil tapi dapat maxwin di salah satu game pragmatic zeus olympus gacor. Top banget.",
-            "name": "Mouy Ju ( BA Brown Coffee )",
+            "datePublished": "2026-03-22",
+            "reviewBody": "Jujur awalnya skeptis, takut kaya situs lain yang lemot dan ribet. Tapi pas nyobain Rajabom terbaru ternyata beda. Login gampang, game jalan mulus di HP, dan sering ada game viral yang gampang muncul bonus. Feel mainnya lebih santai dan gak bikin emosi",
+            "name": "Bahlil",
             "reviewRating": {
               "@type": "Rating",
               "ratingValue": "4",
@@ -792,7 +873,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://www.reconnaitre.ca/accessibilite-et-transition/",
+          "url": "https://www.newtravel.cz/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -801,8 +882,8 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/#merchant-listing",
-        "name": "Link Gacor",
+        "@id": "https://www.newtravel.cz/#merchant-listing",
+        "name": "Situs RAJABOM",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
           {
@@ -810,24 +891,24 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://www.reconnaitre.ca/accessibilite-et-transition//link-gacor#product",
-              "name": "Link Gacor",
-              "url": "https://www.reconnaitre.ca/accessibilite-et-transition//link-gacor",
-              "image": "https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp",
-              "description": "FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.",
+              "@id": "https://www.newtravel.cz//slot-gacor-gampang-menang#product",
+              "name": "Slot Gacor Gampang Menang",
+              "url": "https://www.newtravel.cz//slot-gacor-gampang-menang",
+              "image": "https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg",
+              "description": "Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.",
               "brand": {
                 "@type": "Brand",
-                "name": "Link Gacor"
+                "name": "Slot Gacor Gampang Menang"
               },
-              "sku": "Link-Gacor",
+              "sku": "Slot-Gacor-Gampang-Menang",
               "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": "4.8",
-                "ratingCount": "218828"
+                "ratingValue": "4.9",
+                "ratingCount": "777777"
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://www.reconnaitre.ca/accessibilite-et-transition//Link-Gacor",
+                "url": "https://www.newtravel.cz//Slot-Gacor",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -839,24 +920,24 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://www.reconnaitre.ca/accessibilite-et-transition//#product",
-              "name": "Slot Gacor",
-              "url": "https://www.reconnaitre.ca/accessibilite-et-transition/slot-gacor",
-              "image": "https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp",
-              "description": "FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.",
+              "@id": "https://www.newtravel.cz//#product",
+              "name": "Slot",
+              "url": "https://www.newtravel.cz/",
+              "image": "https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg",
+              "description": "Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.",
               "brand": {
                 "@type": "Brand",
-                "name": "Slot Gacor"
+                "name": "Slot"
               },
-              "sku": "Slot-Gacor",
+              "sku": "RAJABOM",
               "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": "4.8",
-                "ratingCount": "828218"
+                "ratingValue": "4.9",
+                "ratingCount": "777777"
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://www.reconnaitre.ca/accessibilite-et-transition/",
+                "url": "https://www.newtravel.cz/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -868,24 +949,24 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/FILTER303-Gacor#product",
-              "name": "FILTER303 Gacor",
-              "url": "https://www.reconnaitre.ca/accessibilite-et-transition/FILTER303-Gacor",
-              "image": "https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp",
-              "description": "FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.",
+              "@id": "https://www.newtravel.cz//Slot-Gacor#product",
+              "name": "Slot Gacor",
+              "url": "https://www.newtravel.cz//Slot-Gacor",
+              "image": "https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg",
+              "description": "Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.",
               "brand": {
                 "@type": "Brand",
-                "name": "FILTER303 Gacor"
+                "name": "Slot Gacor Maxwin"
               },
-              "sku": "FILTER303-Gacor",
+              "sku": "Slot-Gacor-Maxwin",
               "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": "4.8",
-                "ratingCount": "888218"
+                "ratingValue": "4.9",
+                "ratingCount": "777777"
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://www.reconnaitre.ca/accessibilite-et-transition/FILTER303-Gacor",
+                "url": "https://www.newtravel.cz//Slot-Gacor-Maxwin",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -899,39 +980,95 @@ digitalData.page.pageInfo.pageName = pageName;
   </script>
   <script type="application/ld+json">
 {
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"Apa yang dimaksud dengan RAJABOM?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"RAJABOM merupakan istilah yang sering digunakan pemain untuk mencari berbagai permainan slot online populer yang tersedia dari beragam provider dengan fitur dan tema permainan yang berbeda."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Bagaimana cara membuat akun di situs RAJABOM?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Pendaftaran akun dapat dilakukan dengan mengisi formulir registrasi yang tersedia, melengkapi data yang diperlukan, kemudian mengikuti proses verifikasi sesuai ketentuan situs."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Bagaimana cara menemukan slot gacor hari ini?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Banyak pemain biasanya melihat informasi RTP live, game yang sedang populer, tingkat volatilitas, serta riwayat permainan yang sedang banyak dimainkan untuk menemukan pilihan slot gacor hari ini."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Apakah tersedia promo bonus new member?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Beberapa situs RAJABOM menyediakan promo dan penawaran khusus bagi pengguna baru. Jenis bonus new member yang diberikan dapat berbeda tergantung kebijakan masing-masing platform."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Berapa minimal deposit untuk bermain di situs RAJABOM?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Minimal deposit 10.000 via pulsa dan dana tetapi dapat berbeda pada setiap situs. Umumnya tersedia pilihan nominal yang fleksibel sehingga pemain dapat menyesuaikan dengan kebutuhan dan preferensi masing-masing."
+      }
+    },
+    {
+      "@type":"Question",
+      "name":"Game slot online apa yang paling banyak dicari pemain?",
+      "acceptedAnswer":{
+        "@type":"Answer",
+        "text":"Beberapa judul yang sering dicari pemain antara lain Mahjong Ways, Gates of Olympus, Starlight Princess, Sweet Bonanza, dan berbagai permainan slot populer lainnya dari provider ternama."
+      }
+    }
+  ]
+}
+</script>
+  <script type="application/ld+json">
+{
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/#org",
-      "name": "Link Gacor",
-      "url": "https://www.reconnaitre.ca/accessibilite-et-transition/",
-      "logo": "https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp"
+      "@id": "https://www.newtravel.cz/#org",
+      "name": "RAJABOM",
+      "url": "https://www.newtravel.cz/",
+      "logo": "https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/#website",
-      "url": "https://www.reconnaitre.ca/accessibilite-et-transition/",
-      "name": "Situs Gacor",
-      "publisher": { "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/#org" },
+      "@id": "https://www.newtravel.cz/#website",
+      "url": "https://www.newtravel.cz/",
+      "name": "RAJABOM",
+      "publisher": { "@id": "https://www.newtravel.cz/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.reconnaitre.ca/accessibilite-et-transition/?s={search_term_string}",
+        "target": "https://www.newtravel.cz/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://www.reconnaitre.ca/accessibilite-et-transition/#app",
-      "name": "Slot88",
+      "@id": "https://www.newtravel.cz/#app",
+      "name": "RAJABOM",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
       "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": 4.9,
-        "ratingCount": 888218
+        "ratingCount": 777777
       }
     }
   ]
@@ -955,11 +1092,357 @@ digitalData.page.pageInfo.pageName = pageName;
       font-size: 13px;
     }
   }
-</style>
-</head>
+</style><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC9568e5b17e154ad88fea72ecceac9264-source.min.js" async=""></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/63/14d/places.js"></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/63/14d/main.js"></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC37aa27aaaa4c43a6992f8dccbf3717bb-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC4b38b3aac3ac4e2fbe09d9c7d37061f0-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCffd02299145947eb9b73312dbcac8dc8-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC955d14de9f3b4ad7ab7f21b4f86faec0-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCd8f5c45ec32c48d59e78d5327e5a07b2-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCc4cace0c12074030aa422f7a69de0be9-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC0cc6f3245dda4a10ac5c70bdc65b53eb-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCe9a6d8f94fda4fe88854ef4236d3fdc1-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCf3370d0ea9184f4c8ccc744707d86e38-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC6e6ee7746cc2437e99e6638e9989c367-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC226efb59c141461f9f1e6b61b83dddc7-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC7ea02b952c0b4d339f1815a9fcfe586b-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCc4869601ba734b9f98ba8b1df7b34e3a-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC4701fa7baa8640edb9b3113c51e7ac4c-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC35088f6b8d274e7190bfaf210879782e-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC831db616323349eeb601d371e67f66e2-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RCad3aa3d7f0794ac4928f22563e52fd70-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC5c847e03fdbb4fb4bf19e3913a67768a-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC228ae50511f14df6b2ef83ff65f9b9af-source.min.js" async=""></script><script src="https://assets.adobedtm.com/72afb75f5516/07a30e78d4a7/4e2cfb5707e2/RC3a79fcfbd1bb49fa88bd15b44e4bbe15-source.min.js" async=""></script></head>
  
 
  <body>
+     <!-- =========================
+     EFEK HIU TERBANG
+========================= -->
+<div class="blue-shark-effect">
+
+  <div class="blue-shark shark-1">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+  <div class="blue-shark shark-2">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+  <div class="blue-shark shark-3">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+  <div class="blue-shark shark-4">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+  <div class="blue-shark shark-5">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+  <div class="blue-shark shark-6">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+  <div class="blue-shark shark-7">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+  <div class="blue-shark shark-8">
+    <div class="shark-body">
+      <img src="https://imgcdn.it.com/knb2zump50st9c6kzrne/VIP_AI88/ikanhiu-juga.png" alt="Hiu">
+    </div>
+    <div class="rocket-engine"></div>
+    <div class="rocket-fire"></div>
+  </div>
+
+</div>
+
+<style>
+/* =========================
+   LAPISAN HIU
+========================= */
+
+.blue-shark-effect {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+/* =========================
+   WRAPPER SETIAP HIU
+========================= */
+
+.blue-shark {
+  --shark-size: 70px;
+  --move-time: 7s;
+  --delay: 0s;
+
+  position: absolute;
+  width: var(--shark-size);
+  height: calc(var(--shark-size) * 1.8);
+
+  animation:
+    sharkMove var(--move-time) ease-in-out var(--delay) infinite alternate,
+    sharkRotate 2.6s ease-in-out var(--delay) infinite alternate;
+}
+
+/* =========================
+   GAMBAR HIU TANPA SHADOW
+========================= */
+
+.shark-body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+
+  width: var(--shark-size);
+  height: var(--shark-size);
+}
+
+.shark-body img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+
+  filter: none;
+  transform: rotate(-10deg);
+}
+
+/* =========================
+   TABUNG ROKET
+========================= */
+
+.rocket-engine {
+  position: absolute;
+  z-index: 2;
+
+  top: calc(var(--shark-size) * 0.74);
+  left: 50%;
+
+  width: calc(var(--shark-size) * 0.18);
+  height: calc(var(--shark-size) * 0.24);
+
+  transform: translateX(-50%);
+
+  border-radius: 3px 3px 5px 5px;
+
+  background:
+    linear-gradient(
+      90deg,
+      #111 0%,
+      #4a4a4a 48%,
+      #151515 100%
+    );
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+/* =========================
+   API MERAH
+========================= */
+
+.rocket-fire {
+  position: absolute;
+  z-index: 1;
+
+  top: calc(var(--shark-size) * 0.91);
+  left: 50%;
+
+  width: calc(var(--shark-size) * 0.22);
+  height: calc(var(--shark-size) * 0.9);
+
+  transform: translateX(-50%);
+  transform-origin: top center;
+
+  border-radius: 45% 45% 65% 65%;
+
+  background:
+    linear-gradient(
+      180deg,
+      #fffbd1 0%,
+      #ffe45c 10%,
+      #ffae00 30%,
+      #ff5100 52%,
+      #e00000 75%,
+      rgba(130, 0, 0, 0.35) 90%,
+      transparent 100%
+    );
+
+  box-shadow:
+    0 0 5px rgba(255, 119, 0, 0.95),
+    0 0 11px rgba(255, 35, 0, 0.85);
+
+  animation: redFire 0.13s linear infinite alternate;
+}
+
+/* Inti api */
+
+.rocket-fire::before {
+  content: "";
+  position: absolute;
+
+  top: 0;
+  left: 50%;
+
+  width: 42%;
+  height: 72%;
+
+  transform: translateX(-50%);
+
+  border-radius: 50% 50% 70% 70%;
+
+  background:
+    linear-gradient(
+      180deg,
+      #ffffff 0%,
+      #fff58a 20%,
+      #ffb000 58%,
+      transparent 100%
+    );
+}
+
+/* =========================
+   ANIMASI HIU
+========================= */
+
+@keyframes sharkMove {
+  0% {
+    transform: translate(-10px, -12px);
+  }
+
+  50% {
+    transform: translate(18px, 28px);
+  }
+
+  100% {
+    transform: translate(-5px, 58px);
+  }
+}
+
+@keyframes sharkRotate {
+  from {
+    rotate: -4deg;
+  }
+
+  to {
+    rotate: 5deg;
+  }
+}
+
+/* =========================
+   ANIMASI API
+========================= */
+
+@keyframes redFire {
+  from {
+    transform: translateX(-50%) scaleY(0.72) scaleX(0.82);
+    opacity: 0.8;
+  }
+
+  to {
+    transform: translateX(-50%) scaleY(1.25) scaleX(1.08);
+    opacity: 1;
+  }
+}
+
+/* =========================
+   POSISI HIU
+========================= */
+
+.shark-1 {
+  top: 4%;
+  left: 6%;
+  --shark-size: 72px;
+  --move-time: 7s;
+}
+
+.shark-2 {
+  top: 15%;
+  left: 24%;
+  --shark-size: 58px;
+  --move-time: 8s;
+  --delay: -2s;
+}
+
+.shark-3 {
+  top: 38%;
+  left: 9%;
+  --shark-size: 65px;
+  --move-time: 6.5s;
+  --delay: -4s;
+}
+
+.shark-4 {
+  top: 68%;
+  left: 30%;
+  --shark-size: 60px;
+  --move-time: 9s;
+  --delay: -1s;
+}
+
+.shark-5 {
+  top: 8%;
+  right: 12%;
+  --shark-size: 64px;
+  --move-time: 7.5s;
+  --delay: -3s;
+}
+
+.shark-6 {
+  top: 33%;
+  right: 5%;
+  --shark-size: 75px;
+  --move-time: 8.5s;
+  --delay: -5s;
+}
+
+.shark-7 {
+  top: 60%;
+  right: 20%;
+  --shark-size: 58px;
+  --move-time: 7s;
+  --delay: -2.5s;
+}
+
+.shark-8 {
+  top: 78%;
+  right: 5%;
+  --shark-size: 68px;
+  --move-time: 9.5s;
+  --delay: -6s;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 600px) {
+  .blue-shark {
+    --shark-size: 45px;
+  }
+
+  .shark-3,
+  .shark-4,
+  .shark-7,
+  .shark-8 {
+    display: none;
+  }
+}
+</style>
   <div id="wrap">
    <!-- 공통  hidden input 시작-->
    <!-- typeAheadDomain 기존 search/ -> 붙이던 부분 삭제함 필요시 search/를 붙여서 사용-->
@@ -1033,8 +1516,8 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="FILTER303" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="FILTER303" class="nv00-gnb-v4__logo" href="https://www.reconnaitre.ca/accessibilite-et-transition/">
-        <img src="https://thumb.viva.id/vivaceritakita/665x374/2024/11/28/6747cd85a1f6c-organisasi-masyarakat-anti-judi-indonesia_ceritakita.jpg" alt="" width="240" height="65">
+       <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://www.newtravel.cz/">
+        <img src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1724127394/rjbbb_xbwbbe.png" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
         <button an-ac="gnb" an-ca="navigation" an-la="search" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__utility nv00-gnb-v4__utility-search gnb__search-btn-js" data-js-action="search">
@@ -1315,9 +1798,9 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menu">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.newtravel.cz/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
-            SITUS SLOT GACOR
+            RAJABOM
             </span>
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--mobile-only">
              Explore Shop
@@ -1332,9 +1815,9 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.newtravel.cz/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             SITUS GACOR
+             RAJABOM LOGIN
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
@@ -1346,56 +1829,56 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.newtravel.cz/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             LINK GACOR
+             SLOT GACOR
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
             <span class="hidden">
-             GACOR FILTER303
+             Gacor
             </span>
            </button>
           </div>
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.newtravel.cz/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             SITUS GACOR HARI INI
+             SLOT ONLINE
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
             <span class="hidden">
-             SITUS
+             Online
             </span>
            </button>
           </div>
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.newtravel.cz/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             SLOT88
+             SLOT MAXWIN
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
             <span class="hidden">
-             GACOR
+             SLOT TERBARU
             </span>
            </button>
           </div>
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.newtravel.cz/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             LINK SLOT GACOR
+             SITUS SLOT
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
             <span class="hidden">
-              FILTER303
+              SLOT
             </span>
            </button>
           </div>
@@ -1421,7 +1904,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="daftar slot gacor" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="daftar slot gacor. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="RAJABOM DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="RAJABOM Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.newtravel.cz/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1429,10 +1912,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" role="menuitem">
+         <a data-linkinfo="https://www.newtravel.cz/" href="https://www.newtravel.cz/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.newtravel.cz/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1452,7 +1935,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.newtravel.cz/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1497,10 +1980,10 @@ digitalData.page.pageInfo.pageName = pageName;
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.reconnaitre.ca/accessibilite-et-transition/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.newtravel.cz/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.newtravel.cz/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.newtravel.cz/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1516,8 +1999,8 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="GACOR" an-tr="nv00_gnb-product detail-account-account" aria-label="GACOR" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
-              GACOR
+            <a an-ac="gnb" an-ca="account" an-la="SLOT" an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.newtravel.cz/" role="menuitem">
+              SLOT
             </a>
            </div>
           </div>
@@ -1543,7 +2026,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </svg>
              <p class="user-name"></p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.newtravel.cz/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1613,7 +2096,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <form action="https://account.samsung.com/membership/" id="joinForm" method="post" name="joinForm">
      <input name="actionID" type="hidden" value="SignupAP">
      <input name="serviceID" type="hidden" value="5kuj08631q">
-     <input name="serviceName" type="hidden" value="SITUS GACOR">
+     <input name="serviceName" type="hidden" value="RAJABOM">
      <input name="domain" type="hidden" value="www.samsung.com">
      <input name="countryCode" type="hidden" value="ID">
      <input name="languageCode" type="hidden" value="id">
@@ -1627,7 +2110,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <form action="https://account.samsung.com/membership/" id="findAccountForm" method="post" name="findAccountForm">
      <input name="actionID" type="hidden" value="FindEmail">
      <input name="serviceID" type="hidden" value="5kuj08631q">
-     <input name="serviceName" type="hidden" value="SITUS GACOR">
+     <input name="serviceName" type="hidden" value="RAJABOM">
      <input name="domain" type="hidden" value="www.samsung.com">
      <input name="countryCode" type="hidden" value="ID">
      <input name="languageCode" type="hidden" value="id">
@@ -1638,7 +2121,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <form action="https://account.samsung.com/membership/" id="accountModifyForm" method="post" name="accountModifyForm">
      <input name="actionID" type="hidden" value="ModifyUserInfo">
      <input name="serviceID" type="hidden" value="5kuj08631q">
-     <input name="serviceName" type="hidden" value="SITUS GACOR">
+     <input name="serviceName" type="hidden" value="RAJABOM">
      <input name="domain" type="hidden" value="">
      <input name="countryCode" type="hidden" value="ID">
      <input name="languageCode" type="hidden" value="id">
@@ -1772,7 +2255,7 @@ digitalData.page.pageInfo.pageName = pageName;
         </label>
        </div>
        <p class="layer-popup__checkbox-desc error" id="errorPrivacy">
-        Centang he88 ini untuk melanjutkan ke Samsung.com.
+        Centang kSabb ini untuk melanjutkan ke Samsung.com.
        </p>
        <div class="checkbox-v2">
         <input class="checkbox-v2__input" id="privacy-terms2" name="checkbox" type="checkbox">
@@ -1786,7 +2269,7 @@ digitalData.page.pageInfo.pageName = pageName;
           </span>
          </span>
          <span class="checkbox-v2__label-text">
-          Dengan mencentang he88 ini, berarti saya bersedia menerima Pembaruan Layanan Samsung, termasuk:
+          Dengan mencentang kSabb ini, berarti saya bersedia menerima Pembaruan Layanan Samsung, termasuk:
          </span>
         </label>
        </div>
@@ -2000,17 +2483,17 @@ digitalData.page.pageInfo.pageName = pageName;
            <p class="pd-banner__desc">
             - Gratis hadiah Travel Adapter 25W dan Case A07 (Stock Terbatas)
             <br>
-            - Bayar cuman Rp828.218 dengan menambahkan Buds Core ke troli Anda!
+            - Bayar cuman Rp559.300 dengan menambahkan Buds Core ke troli Anda!
             <br>
             - Samsung Care+ proteksi diskon 30%
             <br>
             <br>
-            Periode: 1 Juni - 9 Juli 2026
+            Periode: 14 Maret - 10 April 2025
            </p>
            <div class="pd-banner__image-mo">
             <div class="image">
-             <img alt="Dapatkan gratis hadiah" class="image__preview lazy-load" data-comp-name="image" data-src="?$he828_80_PNG$" role="img">
-             <img alt="Dapatkan gratis hadiah" class="image__main lazy-load" data-comp-name="image" data-src="?$he828_80_PNG$" role="img">
+             <img alt="Dapatkan gratis hadiah" class="image__preview lazy-load" data-comp-name="image" data-src="?$144_80_PNG$" role="img">
+             <img alt="Dapatkan gratis hadiah" class="image__main lazy-load" data-comp-name="image" data-src="?$144_80_PNG$" role="img">
             </div>
            </div>
           </div>
@@ -2060,7 +2543,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
             <div class="pd-buying-price__new-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPrice}}">
              <div class="pd-buying-price__new-price-inner">
-              FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar
+              RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru
              </div>
              <span class="pd-buying-price__monthly-price" data-sdf-test="{{priceAnchor.priceWrapper.info.totalPriceMonthly}}">
               {{priceAnchor.priceWrapper.info.totalPriceMonthly}}
@@ -2091,10 +2574,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://www.reconnaitre.ca/accessibilite-et-transition/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.newtravel.cz/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://www.reconnaitre.ca/accessibilite-et-transition/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.newtravel.cz/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2594,7 +3077,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.reconnaitre.ca/accessibilite-et-transition/">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.newtravel.cz/">
              Add to cart
             </a>
            </div>
@@ -2753,7 +3236,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.reconnaitre.ca/accessibilite-et-transition/" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.newtravel.cz/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -2862,14 +3345,14 @@ digitalData.page.pageInfo.pageName = pageName;
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Front Black " style="display: block;">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Front Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" data-mobile-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img" src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+               <img alt="Galaxy A07 Front Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" data-mobile-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img" src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
               </div>
              </a>
             </li>
             <li class="hdd02-gallery__item swiper-slide" data-type-headline="Galaxy A07 Back Black " style="display: none;">
              <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_product info.-product detail-gallery module-gallery" class="hdd02-gallery__image" data-js-action="openPcGalleryPopup" href="javascript:void(0);">
               <div class="image">
-               <img alt="Galaxy A07 Back Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" data-mobile-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img" src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+               <img alt="Galaxy A07 Back Black " class="image__main responsive-img" data-comp-name="image" data-desktop-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" data-mobile-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img" src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
               </div>
              </a>
             </li>
@@ -2979,146 +3462,150 @@ digitalData.page.pageInfo.pageName = pageName;
            </div>
           </div>
          </div>
-<style>
-/* ===== SLIDE INFO BERJALAN DI BAWAH NAVIGASI THUMBNAIL ===== */
-
-.slide-info-running {
+         
+         <style>
+.vip-ticker-wrap{
+    border-radius:999px;
+    overflow:hidden;
   width: 100%;
   overflow: hidden;
-  position: relative;
-  margin-top: 18px;
-  padding: 12px 0;
-  background: #3b0404;
-  border-top: 1px solid rgba(155, 77, 255, 0.20);
-  border-bottom: 1px solid rgba(155, 77, 255, 0.20);
+  padding: 10px 0;
+  background: linear-gradient(180deg, #0f4f75 0%, #155f8c 50%, #0d4768 100%);
+  border-top: 2px solid rgba(255,255,255,.18);
+  border-bottom: 2px solid rgba(255,255,255,.16);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.15), 0 0 20px rgba(0,170,255,.25);
 }
 
-/* Efek gradasi halus kiri kanan biar lebih rapi */
-.slide-info-running::before,
-.slide-info-running::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  width: 70px;
-  height: 100%;
-  z-index: 2;
-  pointer-events: none;
-}
-
-.slide-info-running::before {
-  left: 0;
-  background: linear-gradient(to right, #3b0404 0%, rgba(46, 10, 10, 0) 100%);
-}
-
-.slide-info-running::after {
-  right: 0;
-  background: linear-gradient(to left, #3b0404 0%, rgba(46, 10, 10, 0) 100%);
-}
-
-/* Jalur teks yang bergerak */
-.slide-info-running__track {
+.vip-ticker-track {
   display: flex;
   width: max-content;
-  min-width: 100%;
-  align-items: center;
-  gap: 46px;
-  white-space: nowrap;
-  animation: runningSlideInfo 28s linear infinite;
-  will-change: transform;
+  gap: 18px;
+  animation: vipTickerMove 28s linear infinite;
 }
 
-/* Masing-masing item info */
-.slide-info-running__item {
-  display: inline-flex;
-  align-items: center;
-  gap: 9px;
-  font-size: 14px;
-  line-height: 1;
-  font-weight: 700;
-  color: #ffdddd;
-  letter-spacing: 0.2px;
-}
-
-/* Bulatan pemisah */
-.slide-info-running__item::before {
-  content: "";
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: #3f0808;
-  box-shadow: 0 0 8px rgba(46, 10, 10, 0.55);
-  flex-shrink: 0;
-}
-
-/* Animasi jalan dari kanan ke kiri */
-@keyframes runningSlideInfo {
-  0% {
-    transform: translateX(100%);
-  }
-
-  100% {
-    transform: translateX(-100%);
-  }
-}
-
-/* Saat diarahkan kursor, geraknya berhenti */
-.slide-info-running:hover .slide-info-running__track {
+.vip-ticker-wrap:hover .vip-ticker-track {
   animation-play-state: paused;
 }
 
-/* ===== RESPONSIVE TABLET ===== */
-@media (max-width: 1024px) {
-  .slide-info-running {
-    margin-top: 14px;
-    padding: 11px 0;
-  }
+.vip-ticker-group {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-shrink: 0;
+  padding-right: 18px;
+}
 
-  .slide-info-running__track {
-    gap: 38px;
-    animation-duration: 24s;
-  }
+.vip-logo,
+.vip-pill,
+.vip-live {
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  flex-shrink: 0;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 800;
+  color: #fff;
+}
 
-  .slide-info-running__item {
-    font-size: 13px;
+.vip-logo {
+  min-width: 78px;
+  color: #8de2ff;
+  background: linear-gradient(180deg, #083957, #05273c);
+  border: 1px solid rgba(90,220,255,.38);
+  box-shadow: 0 0 14px rgba(0,200,255,.25);
+}
+
+.vip-pill {
+  padding: 0 22px;
+  background: linear-gradient(180deg, rgba(255,255,255,.15), rgba(255,255,255,.05));
+  border: 1px solid rgba(120,220,255,.28);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.18), 0 0 10px rgba(0,180,255,.12);
+  text-shadow: 0 1px 2px rgba(0,0,0,.45);
+}
+
+.vip-live {
+  gap: 8px;
+  padding: 0 18px;
+  background: linear-gradient(90deg, #00b7ff, #008cff);
+  box-shadow: 0 0 16px rgba(0,183,255,.5);
+}
+
+.vip-live span {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #00ff88;
+  box-shadow: 0 0 8px #00ff88;
+  animation: vipBlink 1s infinite;
+}
+
+.vip-live b {
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  background: rgba(0,0,0,.25);
+}
+
+@keyframes vipTickerMove {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
   }
 }
 
-/* ===== RESPONSIVE MOBILE ===== */
+@keyframes vipBlink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .35;
+  }
+}
+
 @media (max-width: 768px) {
-  .slide-info-running {
-    margin-top: 12px;
-    padding: 10px 0;
+  .vip-ticker-track {
+    animation-duration: 20s;
   }
 
-  .slide-info-running::before,
-  .slide-info-running::after {
-    width: 42px;
+  .vip-ticker-group {
+    gap: 10px;
   }
 
-  .slide-info-running__track {
-    gap: 28px;
-    animation-duration: 21s;
+  .vip-logo,
+  .vip-pill,
+  .vip-live {
+    height: 28px;
+    font-size: 11px;
   }
+.vip-ticker-group{
+    display:flex;
+    align-items:center;
+    gap:14px;
+}
 
-  .slide-info-running__item {
-    font-size: 12px;
-    gap: 7px;
-  }
-
-  .slide-info-running__item::before {
-    width: 6px;
-    height: 6px;
+.vip-pill{
+    margin:0 2px;
+}
+  .vip-pill {
+    padding: 0 14px;
   }
 }
 </style>
-
-<div class="slide-info-running">
-  <div class="slide-info-running__track">
-    <span class="slide-info-running__item">Update Terbaru: 29 Juni Sampai 08 Juli 2026</span>
-    <span class="slide-info-running__item">222.828 Komentar Member</span>
-    <span class="slide-info-running__item">Rating Pengguna 4.8/5</span>
-    <span class="slide-info-running__item">828.218 Aktif</span>
-    <span class="slide-info-running__item">Layanan Support 24 Jam Non-Stop</span>
+<div class="vip-ticker-wrap">
+  <div class="vip-ticker-track">
+    <div class="vip-ticker-group">
+      <div class="vip-logo">◆ ◆ ◆</div>
+      <div class="vip-pill">🔥 Update Terbaru 28 Juni Sampai 31 Desember 2026</div>
+      <div class="vip-pill">💬 888.777 Komentar Member</div>
+      <div class="vip-pill">⭐ Rating Pengguna 4.9/5</div>
+      <div class="vip-pill">🏆 777 Juta Total Pengguna</div>
+      <div class="vip-live">LIVE CHAT <strong>24/7</strong></div>
+    </div>
   </div>
 </div>
          <div class="hdd02-gallery__thumbnail">
@@ -3126,35 +3613,35 @@ digitalData.page.pageInfo.pageName = pageName;
            <li class="hdd02-gallery__thumbnail-item hdd02-gallery__thumbnail-item--on" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front Black " class="image__main" data-comp-name="image" role="img" src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+              <img alt="Galaxy A07 Front Black " class="image__main" data-comp-name="image" role="img" src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Back Black " class="image__main" data-comp-name="image" role="img" src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+              <img alt="Galaxy A07 Back Black " class="image__main" data-comp-name="image" role="img" src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackL30 Black " class="image__main" data-comp-name="image" role="img" src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+              <img alt="Galaxy A07 BackL30 Black " class="image__main" data-comp-name="image" role="img" src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 BackR30 Black " class="image__main" data-comp-name="image" role="img" src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+              <img alt="Galaxy A07 BackR30 Black " class="image__main" data-comp-name="image" role="img" src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
              </div>
             </a>
            </li>
            <li class="hdd02-gallery__thumbnail-item" role="listitem">
             <a an-ac="product gallery" an-ca="gallery" an-la="gallery:image" an-tr="hdd02_gallery-product detail-gallery module-gallery" class="hdd02-gallery__thumbnail-item-image" data-js-action="openPcGalleryPopup" href="javascript:void(0);" role="button">
              <div class="image">
-              <img alt="Galaxy A07 Front2 Black " class="image__main" data-comp-name="image" role="img" src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp">
+              <img alt="Galaxy A07 Front2 Black " class="image__main" data-comp-name="image" role="img" src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg">
              </div>
             </a>
            </li>
@@ -3179,63 +3666,63 @@ digitalData.page.pageInfo.pageName = pageName;
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
                 <li class="hdd02-gallery__popup-image-item" role="listitem">
                  <a an-ac="product gallery" an-ca="gallery" an-la="gallery popup:image" an-tr="hdd02_gallery-product detail-gallery image-gallery" class="hdd02-gallery__popup-image-link" data-js-action="changePcGalleryPopup" href="javascript:void(0);" role="button">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </a>
                 </li>
@@ -3250,12 +3737,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Front Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3265,12 +3752,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Back Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3280,12 +3767,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 BackL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3295,12 +3782,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 BackR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3310,12 +3797,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Front2 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3325,12 +3812,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 FrontL30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3340,12 +3827,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 FrontR30 Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3355,12 +3842,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Lside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3370,12 +3857,12 @@ digitalData.page.pageInfo.pageName = pageName;
                 <div class="image-content">
                  <div class="default-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                  </div>
                  <div class="zoom-image">
                   <div class="image">
-                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" role="img">
+                   <img alt="Galaxy A07 Rside Black " class="image__main lazy-load-man" data-comp-name="image" data-src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" role="img">
                   </div>
                   <p aria-hidden="true" class="snackbar">
                    Klik atau ketuk untuk memperkecil
@@ -3459,12 +3946,13 @@ digitalData.page.pageInfo.pageName = pageName;
     <span></span><span></span><span></span><span></span><span></span>
   </div>
 
-<h2>🐇 Benefit Main di Situs Gacor FILTER303</h2>
+  <h2>🌊 Fitur Unggulan RAJABOM</h2>
 
-<div class="ocean-grid">
-  <div class="ocean-card">🎰<b>Game Slot Gampang Menang</b><p>Rekomendasi situs gacor dengan game slot online gampang menang</p></div>
-    <div class="ocean-card">⚡<b>Customer Service Profesional</b><p>Menyelesaikan setiap permasalahan yang dialami pelanggan FILTER303</p></div>
-    <div class="ocean-card">💎<b>Provider Slot88 Resmi</b><p>Menghadirkan berbagai pilihan permainan terbaru dari provider resmi slot88</p></div>
+  <div class="ocean-grid">
+    <div class="ocean-card">🎰<b>Game Slot Lengkap</b><p>Pilihan permainan tersedia dari berbagai provider populer.</p></div>
+    <div class="ocean-card">⚡<b>Transaksi Cepat</b><p>Deposit dan withdraw berjalan praktis dengan sistem otomatis.</p></div>
+    <div class="ocean-card">💎<b>RTP Update</b><p>Informasi permainan diperbarui secara berkala.</p></div>
+  </div>
 </div>
             <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
             <button class="hdd02-gallery__popup-close" data-js-action="closeGalleryPopup">
@@ -3523,7 +4011,7 @@ digitalData.page.pageInfo.pageName = pageName;
                     <path d="M-549.086,2408.855l-15.166,15.166" fill="none" stroke="rgba(0,0,0,0.64)" stroke-width="1" transform="translate(564.252 -2399.14)">
                     </path>
                    </g>
-                   <g transform="translate(33.828)">
+                   <g transform="translate(33.168)">
                     <g fill="rgba(0,0,0,0.24)" stroke="rgba(0,0,0,0.64)" stroke-width="1" transform="translate(0 12.819)">
                      <circle cx="6.031" cy="6.031" r="6.031" stroke="none">
                      </circle>
@@ -3799,7 +4287,7 @@ digitalData.page.pageInfo.pageName = pageName;
        <input id="apiChangePdpUrl" name="apiChangePdpUrl" type="hidden" value="/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/">
        <input id="apiChangeFamilyCode" name="apiChangeFamilyCode" type="hidden" value="561454">
        <input id="apiChangeDisplayName" name="apiChangeDisplayName" type="hidden" value="Galaxy A07">
-       <input id="apiChangePdJcrTitle" name="apiChangePdJcrTitle" type="hidden" value="FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar">
+       <input id="apiChangePdJcrTitle" name="apiChangePdJcrTitle" type="hidden" value="RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru">
        <input id="apiChangeWtbUseYn" name="apiChangeWtbUseYn" type="hidden" value="N">
        <input id="apiChangeStockStatus" name="apiChangeStockStatus" type="hidden" value="">
        <input id="ecomStoreType" name="ecomStoreType" type="hidden">
@@ -3835,7 +4323,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <div class="wt-mt-xs-1 wt-mb-xs-1">
 
 <style>
-.FILTER303-card {
+.RAJABOM-card {
     max-width: 620px;
     width: 100%;
     margin: 20px auto;
@@ -3843,23 +4331,23 @@ digitalData.page.pageInfo.pageName = pageName;
     overflow: hidden;
     border-radius: 24px;
     padding: 28px 24px;
-    background: radial-gradient(circle at top left, #470000, #6e1a1a 40%, #ff4d4d 70%, #3f0808);
-    border: 1px solid rgba(46, 10, 10, 0.45);
+    background: radial-gradient(circle at top left, #1e56a6, #4796f9 60%, #34ccef);
+    border: 1px solid rgba(255, 217, 0, 0.45);
     box-shadow: 0 18px 40px rgba(0,0,0,.35);
     color: #fff;
 }
 
-.FILTER303-card::before {
+.RAJABOM-card::before {
     content: "☾";
     position: absolute;
     top: 18px;
     right: 28px;
     font-size: 70px;
     color: rgba(255, 230, 120, .28);
-    text-shadow: 0 0 25px rgba(46, 10, 10, .55);
+    text-shadow: 0 0 25px rgba(255, 217, 0, .55);
 }
 
-.FILTER303-card::after {
+.RAJABOM-card::after {
     content: "✦ ✧ ✦ ✧ ✦ ✧";
     position: absolute;
     top: 25px;
@@ -3892,7 +4380,7 @@ digitalData.page.pageInfo.pageName = pageName;
 }
 
 .hero-title h1 span {
-    color: #3f0808;
+    color: #ffd900;
 }
 
 .info-container,
@@ -3900,7 +4388,7 @@ digitalData.page.pageInfo.pageName = pageName;
     position: relative;
     z-index: 2;
     background: rgba(255,255,255,.08);
-    border: 1px solid rgba(46, 10, 10, .35);
+    border: 1px solid rgba(255,217,0,.35);
     border-radius: 18px;
     overflow: hidden;
     backdrop-filter: blur(8px);
@@ -3908,15 +4396,15 @@ digitalData.page.pageInfo.pageName = pageName;
 
 .info-head {
     padding: 12px 16px;
-    background: rgba(46, 10, 10, .15);
-    border-bottom: 1px solid rgba(46, 10, 10, .25);
+    background: rgba(255,217,0,.15);
+    border-bottom: 1px solid rgba(255,217,0,.25);
 }
 
 .info-head h2 {
     margin: 0;
     font-size: 15px;
     text-align: center;
-    color: #3f0808;
+    color: #ffd900;
     letter-spacing: .8px;
 }
 
@@ -3943,9 +4431,9 @@ digitalData.page.pageInfo.pageName = pageName;
 .gold-icon {
     width: 7px;
     height: 7px;
-    background: #3f0808;
+    background: #ffd900;
     border-radius: 50%;
-    box-shadow: 0 0 12px #3f0808;
+    box-shadow: 0 0 12px #ffd900;
 }
 
 .info-text {
@@ -3957,8 +4445,8 @@ digitalData.page.pageInfo.pageName = pageName;
 .info-number {
     font-size: 13px;
     font-weight: 700;
-    color: #3b0404;
-    background: linear-gradient(135deg, #ff8080, #3f0808);
+    color: #111;
+    background: linear-gradient(135deg, #fff3a0, #ffd900);
     padding: 5px 12px;
     border-radius: 30px;
     white-space: nowrap;
@@ -3981,7 +4469,7 @@ digitalData.page.pageInfo.pageName = pageName;
 .bonus-head h3 {
     margin: 0;
     font-size: 15px;
-    color: #3f0808;
+    color: #ffd900;
 }
 
 .bonus-list {
@@ -3992,8 +4480,8 @@ digitalData.page.pageInfo.pageName = pageName;
 .bonus-item {
     padding: 11px 14px;
     border-radius: 14px;
-    background: rgba(46, 10, 10, .12);
-    border-left: 3px solid #3f0808;
+    background: rgba(255,217,0,.12);
+    border-left: 3px solid #ffd900;
     text-align: left;
 }
 
@@ -4005,7 +4493,7 @@ digitalData.page.pageInfo.pageName = pageName;
 }
 
 .highlight-gold {
-    color: #3f0808;
+    color: #ffd900;
 }
 
 .cta-buttons-gold {
@@ -4030,24 +4518,24 @@ digitalData.page.pageInfo.pageName = pageName;
 }
 
 .btn-login-gold {
-    color: #3f0808;
-    border: 1px solid #3f0808;
+    color: #ffd900;
+    border: 1px solid #ffd900;
     background: transparent;
 }
 
 .btn-register-gold {
-    color: #fff;
-    border: 1px solid #3f0808;
-    background: linear-gradient(135deg, #ff8080, #3f0808);
+    color: #111;
+    border: 1px solid #ffd900;
+    background: linear-gradient(135deg, #fff3a0, #ffd900);
 }
 
 .btn-gold:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 18px rgba(46, 10, 10, .25);
+    box-shadow: 0 8px 18px rgba(255,217,0,.25);
 }
 
 @media (max-width: 480px) {
-    .FILTER303-card {
+    .RAJABOM-card {
         padding: 24px 16px;
         border-radius: 20px;
     }
@@ -4066,26 +4554,24 @@ digitalData.page.pageInfo.pageName = pageName;
     }
 }
 </style>
-
-<div class="FILTER303-card">
+<div class="RAJABOM-card">
     <div class="hero-title">
-        <h1>FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar</h1>
+        <h1><span>RAJABOM: </span>Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru</h1>
     </div>
 
     <div class="info-container">
         <div class="info-head">
-            <h2>INFORMASI SITUS GACOR 2026</h2>
+            <h2>INFORMASI SITUS RAJABOM</h2>
         </div>
 
         <div class="info-list">
             <div class="info-row">
                 <div class="info-label">
                     <span class="info-dot"></span>
-                    <span class="info-text">Penilaian Member Slot FILTER303</span>
+                    <span class="info-text">Penilaian Pengguna</span>
                 </div>
-                <span class="info-number">828.218</span>
+                <span class="info-number">777 JUTA PENGGUNA</span>
             </div>
-
             <div class="info-row">
                 <div class="info-label">
                     <span class="info-dot"></span>
@@ -4093,28 +4579,27 @@ digitalData.page.pageInfo.pageName = pageName;
                 </div>
                 <span class="info-number">Rp 10.000</span>
             </div>
-
             <div class="info-row">
                 <div class="info-label">
                     <span class="info-dot"></span>
-                    <span class="info-text">Payment Method</span>
+                    <span class="info-text">Metode Pembayaran</span>
                 </div>
-                <span class="info-number">Scan Slot QRIS, E-Wallet, Transfer Bank</span>
+                <span class="info-number">QRIS • Bank • E-Wallet</span>
+            </div>
+            <div class="info-row">
+                <div class="info-label">
+                    <span class="info-dot"></span>
+                    <span class="info-text">Layanan Support</span>
+                </div>
+                <span class="info-number">24/7</span>
             </div>
 
             <div class="info-row">
                 <div class="info-label">
                     <span class="info-dot"></span>
-                    <span class="info-text">Provider Terpercaya</span>
+                    <span class="info-text">Platform</span>
                 </div>
-                <span class="info-number">PG Soft, Slot88 x PP, Pragmatic Play</span>
-            </div>
-			            <div class="info-row">
-                <div class="info-label">
-                    <span class="info-dot"></span>
-                    <span class="info-text">Platform Gacor</span>
-                </div>
-                <span class="info-number">Android, Linux, IOS, Windows</span>
+                <span class="info-number">Multi-Device</span>
             </div>
         </div>
     </div>
@@ -4122,28 +4607,28 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="bonus-wrap">
         <div class="bonus-head">
             <span class="gold-icon"></span>
-<h3>PROGRAM PENAWARAN SITUS FILTER303 GACOR</h3>
+            <h3>PENAWARAN EKSKLUSIF RAJABOM</h3>
             <span class="gold-icon"></span>
         </div>
 
         <div class="bonus-list">
     <div class="bonus-item">
-        <p><span class="highlight-gold">Bonus Top-up New Member 100%</span></p>
+        <p><span class="highlight-gold">Claim Bonus New Member 100%</span></p>
     </div>
     <div class="bonus-item">
-        <p>Free Demo Slot Online</p>
+        <p>Link Slot Gacor Hari Ini Mudah Menang JP</p>
     </div>
     <div class="bonus-item">
-        <p>Live RTP Slot Hari Ini</p>
+        <p>RTP Live Slot Tertinggi & Terupdate</p>
     </div>
     <div class="bonus-item">
-        <p>Prediksi Final Piala Dunia X Sbobet</p>
+        <p>Proses Deposit Min 10k & Withdraw Cepat Anti Ribet</p>
     </div>
 </div></div>
 
     <div class="cta-buttons-gold">
-        <a href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-        <a href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+        <a href="https://www.qualitabogados.com/travel/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+        <a href="https://www.qualitabogados.com/travel/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
     </div>
 </div>
 
@@ -4259,7 +4744,7 @@ digitalData.page.pageInfo.pageName = pageName;
        
        <!-- N -->
        <script data-id="aac44b1f-0962-428e-af28-1f4e53562d11" data-object-type="Product" data-type="seo" type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"SLOT88","image":"https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp","description":"SLOT - Lihat keunggulan dan fitur lengkap produk slot gacor hari ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
+        {"@context":"https://schema.org","@type":"Product","brand":{"@type":"Brand","name":"Samsung"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5.0","ratingCount":"6"},"@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","name":"Situs SLOT","image":"https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg","description":"RAJABOM  - Lihat keunggulan dan fitur lengkap produk slot gacor hari ini. Pelajari harga, spesifikasi dan temukan produk terbaru serta  Smartphones terbaik untuk Anda di Samsung Indonesia.","sku":"MS-F813QBDUIDZ","offers":{"@type":"Offer","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/","priceCurrency":"IDR","availability":"inStock","price":"1399000"}}
        </script>
        <!--googleoff: all true-->
        <div class="sdf-component-templates" id="sg-pdh-dynamic-template-assembly">
@@ -4268,7 +4753,7 @@ digitalData.page.pageInfo.pageName = pageName;
           <div class="summary">
            <div class="summary__product-wrap">
             <strong class="summary__product-name">
-             FILTER303 SLOT
+             SLOT
             </strong>
             <p class="summary__product-price" style="display:none;">
              {{price.priceWrapper.info.salePriceFormatted}}
@@ -4276,13 +4761,13 @@ digitalData.page.pageInfo.pageName = pageName;
            </div>
            <div class="summary__select-option-wrap">
             <span class="summary__select-option">
-             SITUS
+             Terpercaya
             </span>
             <span class="summary__select-option">
-             FILTER303
+             SLOT
             </span>
             <span class="summary__select-option">
-             GACOR
+             Terpopuler
             </span>
            </div>
            <div data-sdf-attr.class="summary__product-wrap" data-sdf-repeat.item="{{price.summaryArea.embedAddonSelected}}">
@@ -4301,12 +4786,12 @@ digitalData.page.pageInfo.pageName = pageName;
            </em>
            <p class="cost-box__price" data-total-price="1399000">
             <strong class="cost-box__price-now" style="font-size: 20px; text-align: justify;">
-             FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.
+             Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.
             </strong>
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://www.reconnaitre.ca/accessibilite-et-transition/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.newtravel.cz/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -4965,7 +5450,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="option-result result-trade-in option-result--content sdf-component-template" data-sdf-template=" tradeInResult @ drawObj" data-sdf-unwrap="true">
          <div class="option-result__multiple result-price" data-sdf-attr.data-cart-id="{{tradeInResult.dataQuoteId}}" data-sdf-attr.data-cash-back-price="{{tradeInResult.dataCashBack}}" data-sdf-attr.data-id="{{tradeInResult.dataId}}" data-sdf-attr.data-is-instant="{{tradeInResult.isUpfront}}" data-sdf-attr.data-price="{{tradeInResult.dataPrice}}">
           <p class="option-result__multiple-result">
-           Selamat, Anda telah mendapatkan diskon jackpot tukar tambah.
+           Selamat, Anda telah mendapatkan diskon tukar tambah.
           </p>
           <ul>
            <li class="option-result__multiple-item" data-sdf-repeat.item="{{tradeInResult.list}}">
@@ -5157,7 +5642,7 @@ digitalData.page.pageInfo.pageName = pageName;
            <use href="#information-error-bold" xlink:href="#information-error-bold">
            </use>
           </svg>
-          Please select FILTER303 Assured Buyback or no coverage
+          Please select SLOT Assured Buyback or no coverage
          </p>
          <div class="pd-select-option__wrap">
           <ul class="pd-select-option__list pd-select-option__list--wide" role="list">
@@ -5202,7 +5687,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="pd-select-option option-care sdf-component-template" data-sdf-template=" care @ drawObj" data-sdf-test="{{care.hasComponent}}" data-sdf-unwrap="true">
          <div class="pd-select-option__headline-wrap">
           <h3 class="pd-select-option__headline" data-sdf-test="{{care.title}}">
-           Benefits of GACOR
+           Benefits of SLOT
           </h3>
           <button an-ac="pd buying tool" an-ca="option click" an-la="samsung care:learn more" an-tr="hdd02_product info.-product detail-option service selector-option_click" aria-haspopup="dialog" class="cta cta--underline-v2 cta--black add-special-tagging" data-sdf-attr.data-target-popup="{{care.learnMoreCta.layerTarget}}" data-sdf-attr.target="{{care.learnMoreCta.target}}" data-sdf-attr.title="{{care.learnMoreCta.title}}" data-sdf-test="{{care.learnMoreCta.isNotOutLink}}">
            {{care.learnMoreCta.text}}
@@ -5216,7 +5701,7 @@ digitalData.page.pageInfo.pageName = pageName;
           </a>
          </div>
          <p class="pd-select-option__desc" data-sdf-test="{{care.description}}">
-          FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar
+          RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru
          </p>
          <p class="pd-select-option__notice pd-select-option__notice--normal checkingSamsungCare">
           <svg aria-hidden="true" class="icon" focusable="false">
@@ -5741,7 +6226,7 @@ digitalData.page.pageInfo.pageName = pageName;
           </li>
          </ul>
          <div class="pd-select-option__view-more" data-sdf-test="{{embedAddon.useMobileCTA}}">
-          <button aria-expanded="false" class="cta cta--icon" data-js-action="offerListViewMore" data-text-close="Sikik aaa " data-text-open="Lihat selengkapnya" type="button">
+          <button aria-expanded="false" class="cta cta--icon" data-js-action="offerListViewMore" data-text-close="Lihat sedikit" data-text-open="Lihat selengkapnya" type="button">
            <span class="pd-select-option__view-more-text">
             Lihat selengkapnya
            </span>
@@ -5800,20 +6285,20 @@ digitalData.page.pageInfo.pageName = pageName;
      <input id="rtbListSize" name="rtbListSize" type="hidden" value="4">
      <section class="pdd28-reasons-to-buy pdd28-reasons-to-buy--theme-white-card" style="">
       <script data-id="2b893dde-fb1e-4e03-8e91-a97d9d75e68a" data-object-type="OfferCatalog" data-type="seo" type="application/ld+json">
-       {"@context":"https://schema.org","@type":"OfferCatalog","name":"Beli langsung. Dapat lebih banyak.","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Rewards","description":"Belanja dan kumpulkan point reward untuk pembelian berikutnya"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Premium Care","description":"Perlindungan lebih tanpa perlu khawatir"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Gratis Pengiriman","description":"FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal."}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Flexible Finance","description":"Cicilan 0% menggunakan kartu kredit bank hingga 24 bulan"}}]}
+       {"@context":"https://schema.org","@type":"OfferCatalog","name":"Beli langsung. Dapat lebih banyak.","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Rewards","description":"Belanja dan kumpulkan point reward untuk pembelian berikutnya"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Samsung Premium Care","description":"Perlindungan lebih tanpa perlu khawatir"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Gratis Pengiriman","description":"Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM."}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Flexible Finance","description":"Cicilan 0% menggunakan kartu kredit bank hingga 24 bulan"}}]}
       </script>
 
-<style>
+    <style>
       :root{
-          --lx-bg: #470000;
-          --lx-card: #3b0404;
-          --lx-text: #ffdddd;
-          --lx-muted:#ff9e9e;
-          --lx-border:#3f0808;
-          --lx-accent:#3f0808;    /* orange */
-          --lx-accent-2:#210202;  /* dark purple */
+          --lx-bg: #ffd900;
+          --lx-card: #ffd900;
+          --lx-text: #0f172a;
+          --lx-muted:#6b7280;
+          --lx-border:#ffd000;
+          --lx-accent:#000000;    /* gold */
+          --lx-accent-2:#111827;  /* deep slate */
           --lx-radius:16px;
-          --lx-shadow:0 6px 24px rgba(160,47,47,.06);
+          --lx-shadow:0 6px 24px rgba(2,6,23,.06);
       }
 
       .lx-wrap{
@@ -5842,7 +6327,7 @@ digitalData.page.pageInfo.pageName = pageName;
       }
       .lx-head svg{ width:22px; height:22px; flex:0 0 auto; }
       .lx-body{ color: var(--lx-muted); font-size:15.5px; line-height:1.7; }
-      .lx-body a{ color: #3f0808; text-underline-offset:3px; }
+      .lx-body a{ color: #ff0000; text-underline-offset:3px; }
 
       /* Pills */
       .lx-stats{
@@ -5853,7 +6338,7 @@ digitalData.page.pageInfo.pageName = pageName;
           border:1px dashed var(--lx-border);
           padding:8px 12px; border-radius:999px; font-size:13.5px;
           color: var(--lx-text);
-          background: linear-gradient(180deg, rgba(255,107,0,.08), rgba(255,107,0,0));
+          background: linear-gradient(180deg, rgba(212,175,55,.08), rgba(212,175,55,0));
       }
       .lx-pill svg{ width:16px; height:16px; }
 
@@ -5889,8 +6374,8 @@ digitalData.page.pageInfo.pageName = pageName;
           content: counter(step);
           flex:0 0 32px; height:32px; display:inline-flex; align-items:center; justify-content:center;
           border-radius:8px; font-weight:700;
-          color:#210202; background: linear-gradient(180deg, #ff8080, #3f0808);
-          border:1px solid rgba(15,0,26,.12);
+          color:#111; background: linear-gradient(180deg, #ffd900, rgba(212,175,55,.75));
+          border:1px solid rgba(17,24,39,.12);
       }
 
       /* CTA */
@@ -5899,32 +6384,32 @@ digitalData.page.pageInfo.pageName = pageName;
           display:inline-block; padding:10px 16px; border-radius:10px; text-decoration:none; font-weight:600; line-height:1;
           border:1px solid var(--lx-border);
       }
-      .lx-btn--primary{ background: var(--lx-accent-2); color:#ff8080; border-color: var(--lx-accent-2); }
+      .lx-btn--primary{ background: var(--lx-accent-2); color:#7799ff; border-color: var(--lx-accent-2); }
       .lx-btn--outline{ background: transparent; color: var(--lx-text); }
 
       .lx-section + .lx-section{ margin-top:14px; }
     </style>
         
-    <article class="lx-container" aria-label="Artikel FILTER303">
+    <article class="lx-container" aria-label="Artikel SLOT">
       <!-- Introduction -->
       <style>
         h1 {
             font-size: 32px;
             font-weight: 800;
             text-align: center;
-            color: #ffdddd;
+            color: #1e1e1e;
             margin-bottom: 10px;
             line-height: 1.4;
         }
         
         h1 span {
-            color: #3f0808;
+            color: #7799ff;
         }
         
         h2 {
             font-size: 26px;
             font-weight: 700;
-            color: #ffdddd;
+            color: #1e1e1e;
             margin: 30px 0 20px 0;
             position: relative;
             padding-left: 15px;
@@ -5937,20 +6422,20 @@ digitalData.page.pageInfo.pageName = pageName;
             top: 5px;
             bottom: 5px;
             width: 4px;
-            background: #3f0808;
+            background: #000000;
             border-radius: 4px;
         }
         
         h3 {
             font-size: 20px;
             font-weight: 600;
-            color: #3f0808;
+            color: #7799ff;
             margin: 20px 0 10px 0;
         }
         
         /* Paragraphs */
         p {
-            color: #ffdddd;
+            color: #fff4f4;
             margin-bottom: 15px;
             font-size: 16px;
             text-align: justify;
@@ -5958,33 +6443,323 @@ digitalData.page.pageInfo.pageName = pageName;
         
         /* Links */
         a {
-            color: #3f0808;
+            color: #7799ff;
             text-decoration: none;
             font-weight: 600;
             transition: all 0.2s ease;
         }
         
         /* Article highlight */
-        .highlight-box {
-            background: #3b0404;
-            border: 1px solid #3f0808;
-            border-radius: 16px;
-            padding: 25px;
-            margin: 30px 0;
-            box-shadow: 0 5px 15px rgba(255,107,0,0.05);
-        }
+        /* =====================================
+   clinica-de-oidos-otologica CONTENT BOX BIRU EMAS
+===================================== */
+
+.highlight-box {
+    position: relative;
+    overflow: visible;
+
+    margin: 55px 0 30px;
+    padding: 34px 28px 26px;
+
+    color: #ffffff;
+
+    background:
+        radial-gradient(
+            circle at 50% 0%,
+            rgba(0, 132, 255, 0.16),
+            transparent 38%
+        ),
+        linear-gradient(
+            180deg,
+            #081b32 0%,
+            #061426 55%,
+            #030b15 100%
+        );
+
+    border: 2px solid #d9a92f;
+    border-radius: 22px;
+
+    box-shadow:
+        inset 0 0 0 3px rgba(0, 122, 255, 0.12),
+        inset 0 12px 30px rgba(20, 128, 255, 0.08),
+        0 18px 40px rgba(0, 0, 0, 0.45),
+        0 0 18px rgba(0, 133, 255, 0.22);
+}
+
+/* garis emas bagian dalam */
+
+.highlight-box::before {
+    content: "";
+    position: absolute;
+    inset: 9px;
+
+    border: 1px solid rgba(255, 220, 120, 0.35);
+    border-radius: 15px;
+
+    pointer-events: none;
+}
+
+/* cahaya bergerak tipis */
+
+.highlight-box::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -35%;
+
+    width: 22%;
+    height: 100%;
+
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 236, 159, 0.08),
+        transparent
+    );
+
+    transform: skewX(-18deg);
+    animation: boxShine 6s linear infinite;
+
+    pointer-events: none;
+}
+
+/* Judul clinica-de-oidos-otologica */
+
+.clinica-de-oidos-otologica-title {
+    position: absolute;
+    z-index: 5;
+
+    top: -38px;
+    left: 50%;
+
+    width: min(620px, calc(100% - 40px));
+    min-height: 68px;
+
+    transform: translateX(-50%);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.45));
+}
+
+.clinica-de-oidos-otologica-text {
+    position: relative;
+
+    width: 100%;
+    min-height: 64px;
+    padding: 16px 70px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #ffe69b;
+
+    font-size: 21px;
+    font-weight: 900;
+    letter-spacing: 1.5px;
+    text-align: center;
+    text-transform: uppercase;
+
+    background:
+        radial-gradient(
+            circle at 50% 0%,
+            rgba(31, 148, 255, 0.3),
+            transparent 50%
+        ),
+        linear-gradient(
+            180deg,
+            #144b80 0%,
+            #092b50 48%,
+            #04182d 100%
+        );
+
+    border: 2px solid #d9a92f;
+
+    clip-path: polygon(
+        7% 0,
+        93% 0,
+        100% 30%,
+        94% 50%,
+        100% 70%,
+        93% 100%,
+        7% 100%,
+        0 70%,
+        6% 50%,
+        0 30%
+    );
+
+    box-shadow:
+        inset 0 0 0 2px rgba(255, 232, 148, 0.13),
+        inset 0 8px 16px rgba(255, 255, 255, 0.05),
+        inset 0 -14px 20px rgba(0, 0, 0, 0.32);
+}
+
+/* garis dekorasi judul */
+
+.clinica-de-oidos-otologica-text::before {
+    content: "";
+    position: absolute;
+    inset: 7px 20px;
+
+    border-top: 1px solid rgba(255, 225, 124, 0.7);
+    border-bottom: 1px solid rgba(255, 225, 124, 0.3);
+
+    pointer-events: none;
+}
+
+/* kilatan judul */
+
+.clinica-de-oidos-otologica-text::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -40%;
+
+    width: 24%;
+    height: 100%;
+
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 242, 180, 0.18),
+        transparent
+    );
+
+    transform: skewX(-20deg);
+    animation: clinica-de-oidos-otologicaShine 5s linear infinite;
+
+    pointer-events: none;
+}
+
+/* clinica-de-oidos-otologica kiri kanan */
+
+.clinica-de-oidos-otologica-wing {
+    position: absolute;
+    z-index: 6;
+    top: 50%;
+
+    width: 46px;
+    height: 46px;
+
+    border: 3px solid #d9a92f;
+
+    background:
+        radial-gradient(
+            circle,
+            #fff0a8 0 10%,
+            #c9931d 12% 25%,
+            #092c52 28% 100%
+        );
+
+    transform: translateY(-50%) rotate(45deg);
+
+    box-shadow:
+        inset 0 0 0 3px #071d37,
+        0 0 10px rgba(255, 198, 48, 0.35);
+}
+
+.clinica-de-oidos-otologica-left {
+    left: -10px;
+}
+
+.clinica-de-oidos-otologica-right {
+    right: -10px;
+}
+
+/* isi paragraf */
+
+.highlight-box p {
+    position: relative;
+    z-index: 2;
+
+    margin: 0 0 16px;
+
+    color: #f4f7fb;
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+.highlight-box p:last-child {
+    margin-bottom: 0;
+}
+
+.highlight-box a {
+    color: #f4c846;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.highlight-box a:hover {
+    color: #ffffff;
+}
+
+@keyframes clinica-de-oidos-otologicaShine {
+    from {
+        left: -40%;
+    }
+
+    to {
+        left: 125%;
+    }
+}
+
+@keyframes boxShine {
+    from {
+        left: -35%;
+    }
+
+    to {
+        left: 125%;
+    }
+}
+
+@media (max-width: 600px) {
+    .highlight-box {
+        margin-top: 45px;
+        padding: 28px 17px 20px;
+        border-radius: 16px;
+    }
+
+    .clinica-de-oidos-otologica-title {
+        top: -30px;
+        width: calc(100% - 24px);
+        min-height: 55px;
+    }
+
+    .clinica-de-oidos-otologica-text {
+        min-height: 52px;
+        padding: 12px 48px;
+
+        font-size: 14px;
+        letter-spacing: 0.8px;
+    }
+
+    .clinica-de-oidos-otologica-wing {
+        width: 35px;
+        height: 35px;
+    }
+
+    .highlight-box p {
+        font-size: 12px;
+        line-height: 1.6;
+        text-align: left !important;
+    }
+}
         
         /* Info Cards */
         .info-grid {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 15px;
             margin: 25px 0;
         }
         
         .info-card {
-            background: #3b0404;
-            border: 1px solid #3f0808;
+            background: #fcfcfc;
+            border: 1px solid #e0cba0;
             border-radius: 16px;
             padding: 20px 10px;
             text-align: center;
@@ -5992,7 +6767,7 @@ digitalData.page.pageInfo.pageName = pageName;
         
         .info-card .label {
             font-size: 14px;
-            color: #ff9e9e;
+            color: #7799ff;
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 0.5px;
@@ -6001,7 +6776,7 @@ digitalData.page.pageInfo.pageName = pageName;
         .info-card .value {
             font-size: 18px;
             font-weight: 700;
-            color: #ffdddd;
+            color: #1e1e1e;
             margin-top: 8px;
         }
         
@@ -6012,22 +6787,22 @@ digitalData.page.pageInfo.pageName = pageName;
         
         .faq-item {
             margin-bottom: 12px;
-            border: 1px solid #3f0808;
+            border: 1px solid #e0cba0;
             border-radius: 16px;
             overflow: hidden;
-            background: #3b0404;
+            background: #ffd900;
         }
         
         .faq-question {
             width: 100%;
             text-align: left;
             padding: 18px 20px;
-            background: #210202;
+            background: #0c0c0c;
             border: none;
             cursor: pointer;
             font-weight: 600;
             font-size: 16px;
-            color: #ffdddd;
+            color: #1e1e1e;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -6035,11 +6810,11 @@ digitalData.page.pageInfo.pageName = pageName;
         }
         
         .faq-question:hover {
-            background: #2e1a4e;
+            background: #fcf3e0;
         }
         
         .faq-question .icon {
-            color: #3f0808;
+            color: #000000;
             font-size: 22px;
             font-weight: 400;
         }
@@ -6049,12 +6824,12 @@ digitalData.page.pageInfo.pageName = pageName;
             max-height: 0;
             overflow: hidden;
             transition: max-height 0.3s ease;
-            background: #3b0404;
+            background: #ffd900;
         }
         
         .faq-answer p {
             margin: 15px 0;
-            color: #ff9e9e;
+            color: #fff4f4;
         }
         
         .faq-answer.open {
@@ -6075,8 +6850,8 @@ digitalData.page.pageInfo.pageName = pageName;
         }
         
         .review-card {
-            background: #3b0404;
-            border: 1px solid #3f0808;
+            background: #0c0c0c;
+            border: 1px solid #000000;
             border-radius: 20px;
             padding: 20px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.02);
@@ -6091,27 +6866,63 @@ digitalData.page.pageInfo.pageName = pageName;
         
         .review-name {
             font-weight: 700;
-            color: #ffdddd;
+            color: #fff1f1;
         }
         
         .review-stars {
-            color: #3f0808;
+            color: #ffffff;
             letter-spacing: 2px;
         }
         
         .review-text {
-            color: #ff9e9e;
+            color: #fff4f4;
             font-size: 14px;
             line-height: 1.7;
             margin: 10px 0;
             font-style: italic;
         }
         
-        .review-date {
-            color: #470000;
-            font-size: 12px;
-            display: block;
-            margin-top: 10px;
+        .review-date{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  width:max-content;
+  padding:5px 12px;
+  margin-top:8px;
+
+  color:#ffe66d;
+  font-size:11px;
+  font-weight:900;
+  letter-spacing:.3px;
+
+  border-radius:999px;
+  border:1px solid rgba(255,215,80,.75);
+
+  background:
+    linear-gradient(180deg,rgba(255,230,90,.22),rgba(100,60,0,.18)),
+    linear-gradient(135deg,#101010,#1b1200);
+
+  box-shadow:
+    0 0 10px rgba(255,210,40,.45),
+    inset 0 1px 0 rgba(255,255,255,.28);
+
+  text-transform:uppercase;
+}
+
+.review-date::before{
+  content:"👑 VIP";
+  color:#ffd700;
+  font-weight:900;
+}
+
+.review-date::after{
+  content:"";
+  width:6px;
+  height:6px;
+  border-radius:50%;
+  background:#00ff88;
+  box-shadow:0 0 8px #00ff88;
+}
         }
         
         /* CTA Buttons */
@@ -6142,24 +6953,23 @@ digitalData.page.pageInfo.pageName = pageName;
         
         .btn-login {
             background: transparent;
-            color: #3f0808;
-            border-color: #3f0808;
+            color: #1e1e1e;
+            border-color: #000000;
         }
         
         .btn-login:hover {
-            background: rgba(255,107,0,0.1);
-            border-color: #ff8080;
+            background: #fcf3e0;
+            border-color: #7799ff;
         }
         
         .btn-register {
-            background: #3f0808;
-            color: #210202;
-            border-color: #3f0808;
+            background: #000000;
+            color: #1e1e1e;
+            border-color: #000000;
         }
         
         .btn-register:hover {
-            background: #ff8080;
-            border-color: #ff8080;
+            background: #c6a229;
         }
         
         /* Responsive */
@@ -6180,27 +6990,303 @@ digitalData.page.pageInfo.pageName = pageName;
                 font-size: 24px;
             }
         }
+   .feature-moving-bar{
+  width:100%;
+  margin:24px 0 0;
+  border-radius:12px;
+  overflow:hidden;
+  position:relative;
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  background:linear-gradient(120deg,#ffe600 0%,#29d3ff 45%,#00a8ff 70%,#ffe600 100%);
+  background-size:260% 260%;
+  animation:barGradientMove 7s linear infinite;
+  border:1px solid #00c8ff;
+  box-shadow:0 0 16px rgba(0,190,255,.55);
+}
+
+.feature-moving-bar::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(110deg,transparent 0%,rgba(255,255,255,.35) 45%,transparent 70%);
+  transform:translateX(-120%);
+  animation:barShineMove 4s ease-in-out infinite;
+  pointer-events:none;
+}
+
+.feature-moving-bar::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:radial-gradient(circle at 20% 20%,rgba(255,255,255,.22),transparent 35%);
+  pointer-events:none;
+}
+
+.feature-item{
+  position:relative;
+  z-index:2;
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding:18px 28px;
+  color:#fff;
+  border-right:1px solid rgba(255,255,255,.55);
+}
+
+.feature-item:last-child{
+  border-right:none;
+}
+
+.feature-icon{
+  width:42px;
+  height:42px;
+  min-width:42px;
+  border-radius:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:20px;
+  background:linear-gradient(145deg,#00345f,#007bd1);
+  box-shadow:0 0 12px rgba(0,150,255,.75);
+}
+
+.feature-title{
+  font-size:14px;
+  font-weight:900;
+  color:#0044ff;
+  text-shadow:0 1px 0 rgba(255,255,255,.55);
+}
+
+.feature-desc{
+  font-size:11px;
+  color:#ffffff;
+  margin-top:3px;
+  line-height:1.35;
+}
+
+@keyframes barGradientMove{
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
+}
+
+@keyframes barShineMove{
+  0%{transform:translateX(-120%)}
+  45%{transform:translateX(120%)}
+  100%{transform:translateX(120%)}
+}
+
+@media(max-width:700px){
+  .feature-moving-bar{
+    grid-template-columns:1fr;
+  }
+
+  .feature-item{
+    border-right:none;
+    border-bottom:1px solid rgba(255,255,255,.35);
+  }
+
+  .feature-item:last-child{
+    border-bottom:none;
+  }
+}
       </style>
 
+<section class="slot-bar-live">
+  <div class="bar-head">
+    <h2>Top Game Slot Gacor</h2>
+    <span>● LIVE DATA</span>
+  </div>
+
+  <div class="bar-chart" id="slotChart"></div>
+</section>
+
 <style>
-/* === RTP BAR FILTER303 === */
-.rtp-bar-FILTER303 {
+.slot-bar-live{
+  max-width:760px;
+  margin:30px auto;
+  padding:22px;
+  background:linear-gradient(135deg,#111,#222);
+  border-radius:18px;
+  color:#fff;
+  box-shadow:0 0 25px rgba(255,215,0,.25);
+  position:relative;
+  font-family:sans-serif;
+}
+
+.bar-head{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:20px;
+}
+
+.bar-head h2{
+  color:#ffd700;
+  font-size:20px;
+  margin:0;
+}
+
+.bar-head span{
+  font-size:12px;
+  font-weight:700;
+  padding:5px 12px;
+  border-radius:20px;
+  background:linear-gradient(90deg,#ffd700,#00c3ff);
+  box-shadow:0 0 12px rgba(255,215,0,.7);
+  animation:pulseLive 1.5s infinite;
+}
+
+@keyframes pulseLive{
+  0%,100%{transform:scale(1);opacity:1;}
+  50%{transform:scale(1.06);opacity:.75;}
+}
+
+.bar-chart{
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+
+.bar-item{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+.bar-name{
+  width:140px;
+  text-align:right;
+  font-weight:600;
+  color:#fff;
+}
+
+.bar-value{
+  width:60px;
+  text-align:left;
+  font-weight:bold;
+  color:#ffd700;
+}
+
+.bar-info{
+  width:160px;
+  text-align:left;
+  font-size:12px;
+  color:#00c3ff;
+}
+
+.bar-fill{
+  flex:1;
+  height:24px;
+  border-radius:12px;
+  background:#222;
+  position:relative;
+  overflow:hidden;
+  box-shadow: inset 0 0 5px rgba(0,0,0,.5);
+}
+
+.bar-fill-inner{
+  height:100%;
+  width:0%;
+  border-radius:12px;
+  background: linear-gradient(90deg,#ffd700,#00c3ff);
+  transition: width .8s ease;
+}
+.bar-name{
+  width:170px;
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  gap:8px;
+  font-weight:700;
+  color:#fff;
+}
+
+.game-icon{
+  width:22px;
+  height:22px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border:1px solid rgba(255,215,0,.5);
+  border-radius:6px;
+  background:rgba(255,215,0,.08);
+  box-shadow:
+    0 0 6px rgba(255,215,0,.3),
+    inset 0 0 4px rgba(255,215,0,.15);
+  font-size:12px;
+  flex-shrink:0;
+}
+</style>
+<script>
+(function(){
+  const games = [
+  {emoji:"🀄", name:"Mahjong Ways", city:"📍 Jakarta", players:1200},
+  {emoji:"⚡", name:"Gates Olympus", city:"📍 Surabaya", players:900},
+  {emoji:"👑", name:"Starlight Princess", city:"📍 Bandung", players:650},
+  {emoji:"🍬", name:"Sweet Bonanza", city:"📍 Medan", players:800},
+  {emoji:"🤠", name:"Wild West Gold", city:"📍 Semarang", players:500},
+  {emoji:"🏺", name:"Aztec Gems", city:"📍 Makassar", players:450}
+];
+
+  const chart = document.getElementById("slotChart");
+
+  // buat bar statik lengkap info
+  games.forEach((game,i)=>{
+    const item = document.createElement("div");
+    item.className = "bar-item";
+    item.innerHTML = `
+      <span class="bar-name">
+  <span class="game-icon">${game.emoji}</span>
+  ${game.name}
+</span>
+      <div class="bar-fill">
+        <div class="bar-fill-inner" id="bar-${i}"></div>
+      </div>
+      <span class="bar-value" id="val-${i}">0%</span>
+      <span class="bar-info" id="info-${i}">${game.city} | ${game.players} pemain</span>
+    `;
+    chart.appendChild(item);
+  });
+
+  function updateBars(){
+    games.forEach((game,i)=>{
+      const val = Math.floor(Math.random()*40)+60; // 60-100%
+      const bar = document.getElementById("bar-"+i);
+      const text = document.getElementById("val-"+i);
+      const info = document.getElementById("info-"+i);
+
+      bar.style.width = val+"%";
+      text.textContent = val+"%";
+      const players = game.players + Math.floor(Math.random()*50-25);
+      info.textContent = `${game.city} | ${players} pemain`;
+    });
+  }
+
+  updateBars();
+  setInterval(updateBars,5000);
+})();
+</script>
+<style>
+/* === RTP CALENDAR BAR RAJABOM === */
+.rtp-calendar-RAJABOM {
   width: 100%;
   max-width: 820px;
   margin: 24px auto 22px;
   padding: 8px 12px;
-  background: linear-gradient(90deg, #6e1a1a, #3b0404, #3f0808);
-  border: 1px solid rgba(46, 10, 10, 0.65);
+  background: linear-gradient(90deg, #000000, #000000, #000000);
+  border: 1px solid rgb(0 0 0 / 65%);
   border-radius: 10px;
   box-shadow:
-    0 0 12px rgba(46, 10, 10, 0.45),
+    0 0 12px rgba(255, 20, 147, 0.45),
     inset 0 0 12px rgba(255, 255, 255, 0.06);
   font-family: Arial, sans-serif;
   color: #fff;
   overflow: hidden;
 }
 
-.rtp-bar-head {
+.rtp-calendar-head {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -6210,20 +7296,20 @@ digitalData.page.pageInfo.pageName = pageName;
   letter-spacing: 0.4px;
 }
 
-.rtp-bar-title {
+.rtp-calendar-title {
   font-weight: 800;
-  color: #ff8080;
-  text-shadow: 0 0 8px rgba(46, 10, 10, 0.75);
+  color: #ffd966;
+  text-shadow: 0 0 8px rgba(255, 217, 102, 0.75);
   white-space: nowrap;
 }
 
-.rtp-bar-time {
-  color: #ff9e9e;
+.rtp-calendar-time {
+  color: #75deff;
   font-weight: 700;
   white-space: nowrap;
 }
 
-.rtp-bar-list {
+.rtp-calendar-list {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
   gap: 7px;
@@ -6234,9 +7320,9 @@ digitalData.page.pageInfo.pageName = pageName;
   min-height: 48px;
   padding: 7px 6px;
   border-radius: 9px;
-  background: linear-gradient(180deg, #3b0404, #210202);
-  border: 1px solid rgb(224 64 64 / 98%);
-  box-shadow: inset 0 0 10px rgba(224,64,64,.12);
+  background: linear-gradient(180deg, #251009, #080004);
+  border: 1px solid rgb(255 255 255 / 98%);
+  box-shadow: inset 0 0 10px rgba(255, 20, 147, 0.12);
   text-align: center;
   overflow: hidden;
 }
@@ -6251,14 +7337,14 @@ digitalData.page.pageInfo.pageName = pageName;
 }
 
 .rtp-day-card.active {
-  border-color: #3f0808;
+  border-color: #75deff;
   box-shadow:
-    0 0 14px rgba(0,0,0,0.8), inset 0 0 12px rgba(46, 10, 10, 0.15);
+    0 0 14px rgb(6 6 6 / 80%), inset 0 0 12px rgba(255, 215, 0, 0.15)
 }
 
 .rtp-day-name {
   font-size: 11px;
-  color: #ff8080;
+  color: #ffd966;
   font-weight: 800;
   text-transform: uppercase;
   position: relative;
@@ -6267,7 +7353,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
 .rtp-day-date {
   font-size: 10px;
-  color: #ffdddd;
+  color: #ffffff;
   opacity: 0.85;
   margin-top: 2px;
   position: relative;
@@ -6277,9 +7363,9 @@ digitalData.page.pageInfo.pageName = pageName;
 .rtp-percent {
   font-size: 14px;
   font-weight: 900;
-  color: #3f0808;
+  color: #75deff;
   margin-top: 3px;
-  text-shadow: 0 0 8px rgba(46, 10, 10, 0.85);
+  text-shadow: 0 0 8px rgba(255, 20, 147, 0.85);
   position: relative;
   z-index: 1;
 }
@@ -6288,8 +7374,8 @@ digitalData.page.pageInfo.pageName = pageName;
   display: inline-block;
   font-size: 9px;
   font-weight: 800;
-  color: #210202;
-  background: linear-gradient(90deg, #ff8080, #3f0808);
+  color: #101010;
+  background: linear-gradient(90deg, #ffd966, #75deff);
   border-radius: 20px;
   padding: 2px 7px;
   margin-top: 3px;
@@ -6305,18 +7391,18 @@ digitalData.page.pageInfo.pageName = pageName;
 
 /* Responsive HP */
 @media (max-width: 768px) {
-  .rtp-bar-FILTER303 {
+  .rtp-calendar-RAJABOM {
     padding: 7px;
     border-radius: 8px;
   }
 
-  .rtp-bar-head {
+  .rtp-calendar-head {
     font-size: 10px;
     flex-direction: column;
     gap: 3px;
   }
 
-  .rtp-bar-list {
+  .rtp-calendar-list {
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -6325,19 +7411,18 @@ digitalData.page.pageInfo.pageName = pageName;
   }
 }
 </style>
-
-<div class="rtp-bar-FILTER303">
-  <div class="rtp-bar-head">
-    <div class="rtp-bar-title">LIVE RTP FILTER303</div>
-    <div class="rtp-bar-time" id="rtpClockFILTER303">Update otomatis...</div>
+<div class="rtp-calendar-RAJABOM">
+  <div class="rtp-calendar-head">
+    <div class="rtp-calendar-title">LIVE RTP RAJABOM</div>
+    <div class="rtp-calendar-time" id="rtpClockRAJABOM">Update otomatis...</div>
   </div>
 
-  <div class="rtp-bar-list" id="rtpBarFILTER303"></div>
+  <div class="rtp-calendar-list" id="rtpCalendarRAJABOM"></div>
 </div>
 <script>
 (function () {
-  const wrap = document.getElementById("rtpBarFILTER303");
-  const clock = document.getElementById("rtpClockFILTER303");
+  const wrap = document.getElementById("rtpCalendarRAJABOM");
+  const clock = document.getElementById("rtpClockRAJABOM");
 
   if (!wrap || !clock) return;
 
@@ -6359,8 +7444,8 @@ digitalData.page.pageInfo.pageName = pageName;
       index * 77 +
       updateBlock * 33;
 
-    const min = 86;
-    const max = 98;
+    const min = 85;
+    const max = 98.8;
     const value = min + seededRandom(seed) * (max - min);
     return value.toFixed(2);
   }
@@ -6368,12 +7453,12 @@ digitalData.page.pageInfo.pageName = pageName;
   function getStatus(rtp) {
     const value = parseFloat(rtp);
 
-    if (value >= 95) return "HOT";
-    if (value >= 91) return "STABIL";
+    if (value >= 98) return "HOT";
+    if (value >= 95) return "STABIL";
     return "NORMAL";
   }
 
-  function renderBar() {
+  function renderCalendar() {
     const today = new Date();
     const currentDay = today.getDay();
 
@@ -6413,262 +7498,786 @@ digitalData.page.pageInfo.pageName = pageName;
     clock.textContent = `LIVE ${jam}:${menit}:${detik} | Update RTP tiap 15 menit`;
   }
 
-  renderBar();
+  renderCalendar();
   updateClock();
 
   setInterval(updateClock, 1000);
 
   setInterval(function () {
-    renderBar();
+    renderCalendar();
   }, 60000);
-})();
-</script>
-<section class="rtp-bar-live">
-  <div class="bar-head">
-    <h2>Bocoran Pola RTP Hari Ini</h2>
-    <span>● MAXWIN X GACOR</span>
-  </div>
-
-  <div class="bar-chart" id="slotChart"></div>
-</section>
-
-<style>
-.rtp-bar-live{
-  max-width:760px;
-  margin:30px auto;
-  padding:22px;
-  background:linear-gradient(135deg, #6e1a1a, #210202, #3f0808);
-  border-radius:18px;
-  color:#fff;
-  box-shadow:0 0 25px rgba(46, 10, 10, .25);
-  position:relative;
-  font-family:sans-serif;
-}
-
-.bar-head{
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  margin-bottom:20px;
-}
-
-.bar-head h2{
-  color:#3f0808;
-  font-size:20px;
-  margin:0;
-  text-shadow:0 0 15px rgba(255,107,0,0.4);
-}
-
-.bar-head span{
-  font-size:12px;
-  font-weight:700;
-  padding:5px 12px;
-  border-radius:20px;
-  background:linear-gradient(90deg,#ff8080,#3f0808);
-  box-shadow:0 0 12px rgba(46, 10, 10, .7);
-  animation:pulseLive 1.5s infinite;
-}
-
-@keyframes pulseLive{
-  0%,100%{transform:scale(1);opacity:1;}
-  50%{transform:scale(1.06);opacity:.75;}
-}
-
-.bar-chart{
-  display:flex;
-  flex-direction:column;
-  gap:14px;
-}
-
-.bar-item{
-  display:flex;
-  align-items:center;
-  gap:12px;
-}
-
-.bar-name{
-  width:140px;
-  text-align:right;
-  font-weight:600;
-  color:#fff;
-}
-
-.bar-value{
-  width:60px;
-  text-align:left;
-  font-weight:bold;
-  color:#3f0808;
-}
-
-.bar-info{
-  width:160px;
-  text-align:left;
-  font-size:12px;
-  color:#ff8080;
-}
-
-.bar-fill{
-  flex:1;
-  height:24px;
-  border-radius:12px;
-  background:#3b0404;
-  position:relative;
-  overflow:hidden;
-  box-shadow: inset 0 0 5px rgba(0,0,0,.5);
-}
-
-.bar-fill-inner{
-  height:100%;
-  width:0%;
-  border-radius:12px;
-  background: linear-gradient(90deg,#470000,#3f0808);
-  transition: width .8s ease;
-}
-</style>
-
-<script>
-(function(){
-  const games = [
-    {name:"Mahjong Ways", city:"Medan", players:1250},
-    {name:"Gates of Olympus", city:"Bogor", players:929},
-    {name:"Starlight Princess", city:"Jakarta", players:853},
-    {name:"Sweet Bonanza", city:"Bangka", players:828},
-    {name:"Spaceman", city:"Malang", players:777},
-    {name:"Aztec Gems", city:"Depok", players:218}
-  ];
-
-  const chart = document.getElementById("slotChart");
-
-  // buat bar statik lengkap info
-  games.forEach((game,i)=>{
-    const item = document.createElement("div");
-    item.className = "bar-item";
-    item.innerHTML = `
-      <span class="bar-name">${game.name}</span>
-      <div class="bar-fill">
-        <div class="bar-fill-inner" id="bar-${i}"></div>
-      </div>
-      <span class="bar-value" id="val-${i}">0%</span>
-      <span class="bar-info" id="info-${i}">${game.city} | ${game.players} pemain</span>
-    `;
-    chart.appendChild(item);
-  });
-
-  function updateBars(){
-    games.forEach((game,i)=>{
-      const val = Math.floor(Math.random()*40)+60; // 60-100%
-      const bar = document.getElementById("bar-"+i);
-      const text = document.getElementById("val-"+i);
-      const info = document.getElementById("info-"+i);
-
-      bar.style.width = val+"%";
-      text.textContent = val+"%";
-      const players = game.players + Math.floor(Math.random()*50-25);
-      info.textContent = `${game.city} | ${players} pemain`;
-    });
-  }
-
-  updateBars();
-  setInterval(updateBars,5000);
 })();
 </script>
       <div class="container">
         <!-- Main Title -->
-        <h1>FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar</h1>
+        <h1>RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru</h1>
         <div class="gold-divider"></div>
-		<!-- Info Cards -->
+        <!-- Info Cards -->
         <div class="info-grid">
             <div class="info-card">
-                <div class="label">Penilaian Member Slot FILTER303</div>
-                <div class="value">828.218</div>
+                <div class="label">Penilaian Pengguna</div>
+                <div class="value">777 JUTA PENGGUNA</div>
             </div>
             <div class="info-card">
                 <div class="label">Minimal Deposit</div>
                 <div class="value">10.000 Ribu</div>
             </div>
             <div class="info-card">
-                <div class="label">Payment Method</div>
-                <div class="value">Scan Slot QRIS, E-Wallet, Transfer Bank</div>
+                <div class="label">Minimal Withdraw</div>
+                <div class="value">25.000 Ribu</div>
             </div>
             <div class="info-card">
-                <div class="label">Provider Terpercaya</div>
-                <div class="value">PG Soft, Slot88 x PP, Pragmatic Play</div>
-            </div>
-			<div class="info-card">
-                <div class="label">Platform Gacor</div>
-                <div class="value">Android, Linux, IOS, Windows</div>
+                <div class="label">Layanan Support</div>
+                <div class="value">24/7</div>
             </div>
         </div>
+        <div class="clinica-de-oidos-otologica-title">
+    <span class="clinica-de-oidos-otologica-wing clinica-de-oidos-otologica-left"></span>
+
+    <div class="clinica-de-oidos-otologica-text">
+        INFORMASI RAJABOM
+    </div>
+
+    <span class="clinica-de-oidos-otologica-wing clinica-de-oidos-otologica-right"></span>
+</div>
 <div class="highlight-box">
-		<p style="text-align: justify;">Kini hadir<strong> <a href="https://www.reconnaitre.ca/accessibilite-et-transition/"><span style="color:#5f0000">FILTER303</span></a></strong> melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.</p>
-		
-		<p style="text-align: justify;">Platform situs FILTER303 menghadirkan koleksi permainan yang selalu diperbarui sehingga pemain tidak akan kehabisan pilihan. Mulai dari <strong><a href="https://www.reconnaitre.ca/accessibilite-et-transition/"><span style="color:#5f0000">slot maxwin</span></a></strong> bertema permainan bergaya klasik, semuanya dirancang dengan teknologi terkini agar memberikan pengalaman bermain yang lancar di berbagai perangkat, baik smartphone, tablet, maupun komputer. Dukungan antarmuka yang responsif membuat proses navigasi menjadi lebih nyaman tanpa hambatan.</p>
 
-		<p style="text-align: justify;">Selain menawarkan akses permainan yang lengkap, FILTER303 juga menyediakan berbagai fitur unggulan seperti promosi menarik, bonus harian, program loyalitas, serta event spesial yang dapat meningkatkan pengalaman bermain. Seluruh layanan didukung oleh sistem keamanan berlapis untuk menjaga kerahasiaan data dan kenyamanan setiap pengguna selama mengakses platform.</p>
+    <div class="clinica-de-oidos-otologica-title">
+        <span class="clinica-de-oidos-otologica-wing clinica-de-oidos-otologica-left"></span>
 
-		<p style="text-align: justify;">Dengan performa server yang stabil, proses login yang mudah, pilihan permainan slot Maxwin terbaru, serta layanan yang mengutamakan kenyamanan pengguna, FILTER303 Platform Login Situs Slot Maxwin Terbaru x SLOT88 Resmi menjadi salah satu pilihan bagi para pecinta hiburan digital yang mencari pengalaman bermain yang cepat, praktis, dan penuh keseruan.</p>
-		
-</div>
-</div>
+        <div class="clinica-de-oidos-otologica-text">
+            INFORMASI RAJABOM
+        </div>
 
- </div> </div> <!-- Reviews Section --> 
- <h2>Ulasan Member Slot FILTER303 2026</h2> 
- <div class="reviews-grid"> 
- <div class="review-card"> 
-	<div class="review-header">
-		<span class="review-name">Linda ( Owner Nich Beauty )</span>
-		<span class="review-stars">★★★★★</span>
-	</div>
-		<p class="review-text">"Emang gak salah kalo main slot online gacor di FILTER303, setiap deposit gak pake lama nunggu karena ada fitur scan QRIS dan tanpa potongan saldo."</p> 
-		<span class="review-date">2026-06-08</span>
- </div> 
- <div class="review-card"> 
-	<div class="review-header"> 
-		<span class="review-name">Mouy Ju ( BA Brown Coffee )</span> 
-		<span class="review-stars">★★★★★</span> 
-	</div> 
-		<p class="review-text">"Baru pertama kali nyoba main di FILTER303, gampang menang baget ini, taruhan kecil tapi dapat maxwin di salah satu game pragmatic zeus olympus gacor. Top banget."</p>
-		<span class="review-date">2026-06-12</span> 
-</div> 
-<div class="review-card"> 
-	<div class="review-header"> 
-		<span class="review-name">Cheata ( Owner Laundry )</span> 
-		<span class="review-stars">★★★★☆</span> 
-	</div> 
-		<p class="review-text">"Cuma di situs gacor FILTER303 yang berani ngasih fitur slot anti kalah dengan jaminan kemenangan maxwin langsung dibayar wede tanpa syarat."</p> 
-		<span class="review-date">2026-06-18</span> 
-</div> 
-<div class="review-card"> 
-	<div class="review-header"> 
-		<span class="review-name">Se Lie ( BA N1 Taxi)</span>
-		<span class="review-stars">★★★★★</span> 
-	</div> 
-		<p class="review-text">"Platform FILTER303 sudah jadi situs paling bagus 2026, karena selalu gacor hari ini dan link slot anti kalah sangat paten untuk dimainkan para pelanggan slot88."</p> 
-		<span class="review-date">2026-06-22</span> 
-</div> 
-<div class="review-card"> 
-	<div class="review-header"> 
-		<span class="review-name">Koh Rave ( Owner Kopi Gayo Pusat )</span> 
-		<span class="review-stars">★★★★★</span> 
-	</div> 
-		<p class="review-text">"Menurut saya FILTER303 itu merupakan kolaborasi situs dewa slot online x link gacor yang lagi bagus hari ini. Mulai dari pelayanan pelanggan 24 jam, proses depo wede paling safety, dan performa game zeus olympus x1000 selalu diperbarui setiap saat."</p> 
-		<span class="review-date">2026-06-25</span>
-</div> 
-<div class="review-card"> 
-	<div class="review-header"> 
-		<span class="review-name">Liya ( Manager Bank Loan )</span> 
-		<span class="review-stars">★★★★★</span> 
-	</div> 
-		<p class="review-text">"Feeling main di FILTER303 tuh kuat banget, padahal semua gamenya sama kayak situs slot gacor lainnya, tapi entah kenapa kalo udah main disini tuh pola slot88 resmi selalu tepat sasaran dan gampang menang scatter olympus x1000 hari ini."</p> 
-		<span class="review-date">2026-06-30</span> 
+        <span class="clinica-de-oidos-otologica-wing clinica-de-oidos-otologica-right"></span>
+    </div>
+<p style="text-align: justify;">Sebagai situs yang menggunakan nama <a href="https://www.newtravel.cz/">RAJABOM</a>&nbsp;platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM. Pengguna dapat menjelajahi kategori permainan, memahami fitur yang tersedia, serta memperoleh informasi mengenai layanan platform sebelum menggunakannya. Istilah “slot gacor” pada judul merupakan bagian dari nama atau kata kunci pemasaran dan tidak menjamin hasil, kemenangan, maupun keuntungan tertentu.</p>
+<p style="text-align: justify;"><a href="https://www.newtravel.cz/">RAJABOM Situs</a>&nbsp;juga menekankan kemudahan akses melalui perangkat yang digunakan sehari-hari. Pengguna disarankan untuk selalu memeriksa legalitas, ketentuan layanan, batas usia, keamanan akun, serta aturan yang berlaku di wilayah masing-masing sebelum mengakses layanan permainan online. Gunakan platform secara bertanggung jawab dan hindari aktivitas yang melebihi batas kemampuan finansial.</p>
+<p style="text-align: justify;">Platform <a href="https://www.newtravel.cz/">slot gacor</a>&nbsp;yang menghadirkan informasi dan akses menuju berbagai permainan digital dalam satu tempat. Dengan mengusung konsep layanan modern, RAJABOM dirancang untuk memberikan pengalaman penggunaan yang praktis melalui tampilan yang sederhana, navigasi yang mudah dipahami, serta akses yang dapat disesuaikan dengan kebutuhan pengguna.</p>
+    </div>
+<!-- FAQ RAJABOM START -->
+<section class="nanyea777-section" id="faq-RAJABOM">
+  <div class="nanyea777-heading">
+    <span class="nanyea777-mini-title">PUSAT INFORMASI</span>
+
+    <h2>FAQ Seputar RAJABOM</h2>
+
+    <p style="text-align: center;">Temukan jawaban singkat mengenai akses akun, permainan, transaksi, keamanan data, dan informasi umum lainnya.</p>
+  </div>
+
+  <div class="nanyea777-list">
+    <details class="nanyea777-item">
+      <summary>
+        <span class="nanyea777-number">01</span>
+
+        <span class="nanyea777-question">
+          Apa yang dimaksud dengan RAJABOM?
+        </span>
+
+        <span class="nanyea777-icon"></span>
+      </summary>
+
+      <div class="nanyea777-answer">
+        <p>
+          RAJABOM merupakan istilah yang biasa digunakan untuk menyebut
+          platform permainan situs slot gacor dengan berbagai pilihan tema,
+          fitur permainan, dan provider. Pengguna disarankan membaca
+          informasi layanan dan ketentuan yang tersedia terlebih dahulu.
+        </p>
+      </div>
+    </details>
+
+    <details class="nanyea777-item">
+      <summary>
+        <span class="nanyea777-number">02</span>
+
+        <span class="nanyea777-question">
+          Bagaimana cara mengakses akun RAJABOM Online?
+        </span>
+
+        <span class="nanyea777-icon"></span>
+      </summary>
+
+      <div class="nanyea777-answer">
+        <p>
+          Akses akun RAJABOM online biasanya dilakukan melalui halaman login dengan
+          memasukkan username dan kata sandi yang telah didaftarkan.
+          Pastikan alamat situs rajabom yang dibuka sudah sesuai dan jangan
+          memberikan informasi login kepada orang lain.
+        </p>
+      </div>
+    </details>
+
+    <details class="nanyea777-item">
+      <summary>
+        <span class="nanyea777-number">03</span>
+
+        <span class="nanyea777-question">
+          Apakah tersedia permainan slot gacor versi mobile?
+        </span>
+
+        <span class="nanyea777-icon"></span>
+      </summary>
+
+      <div class="nanyea777-answer">
+        <p>
+          Sebagian besar halaman permainan modern sudah menggunakan
+          tampilan responsif sehingga slot gacor dapat diakses melalui ponsel,
+          tablet, laptop, maupun komputer tanpa perlu mengubah tampilan
+          halaman secara manual.
+        </p>
+      </div>
+    </details>
+
+    <details class="nanyea777-item">
+      <summary>
+        <span class="nanyea777-number">04</span>
+
+        <span class="nanyea777-question">
+          Apa fungsi informasi RTP pada permainan slot?
+        </span>
+
+        <span class="nanyea777-icon"></span>
+      </summary>
+
+      <div class="nanyea777-answer">
+        <p>
+          RTP merupakan persentase pengembalian teoretis dalam jangka
+          panjang. Nilai tersebut tidak menjadi jaminan hasil pada satu
+          sesi permainan karena setiap putaran tetap memiliki hasil
+          yang dapat berbeda.
+        </p>
+      </div>
+    </details>
+
+    <details class="nanyea777-item">
+      <summary>
+        <span class="nanyea777-number">05</span>
+
+        <span class="nanyea777-question">
+          Berapa lama proses deposit dan penarikan dana?
+        </span>
+
+        <span class="nanyea777-icon"></span>
+      </summary>
+
+      <div class="nanyea777-answer">
+        <p>
+          Waktu transaksi dapat berbeda sesuai metode pembayaran,
+          antrean sistem, jadwal pemeliharaan, dan proses pemeriksaan.
+          Pastikan informasi rekening atau dompet digital yang digunakan
+          sudah benar.
+        </p>
+      </div>
+    </details>
+
+    <details class="nanyea777-item">
+      <summary>
+        <span class="nanyea777-number">06</span>
+
+        <span class="nanyea777-question">
+          Bagaimana cara menjaga keamanan akun?
+        </span>
+
+        <span class="nanyea777-icon"></span>
+      </summary>
+
+      <div class="nanyea777-answer">
+        <p>
+          Gunakan kata sandi yang kuat dan berbeda dari akun lainnya.
+          Jangan memberikan kode verifikasi kepada siapa pun, hindari
+          login menggunakan perangkat umum, dan selalu keluar setelah
+          selesai menggunakan akun.
+        </p>
+      </div>
+    </details>
+  </div>
+
+  <div class="nanyea777-note">
+    <span class="nanyea777-note-icon">!</span>
+
+    <div>
+      <strong>Catatan Penting</strong>
+
+      <p>
+        Informasi permainan bersifat umum. Tetapkan batas waktu dan dana
+        serta gunakan layanan secara bertanggung jawab.
+      </p>
+    </div>
+  </div>
+</section>
+<!-- FAQ RAJABOM END -->
+
+<style>
+.nanyea777-section,
+.nanyea777-section * {
+  box-sizing: border-box;
+}
+
+.nanyea777-section {
+  --faq-blue: #08bff5;
+  --faq-blue-light: #8cecff;
+  --faq-yellow: #ffd21f;
+  --faq-dark: #050a0f;
+  --faq-card: #071018;
+  --faq-text: #ffffff;
+  --faq-muted: #b9d3dd;
+
+  position: relative;
+
+  /*
+   * Mengikuti lebar parent/container utama agar sisi kiri dan kanan
+   * sejajar dengan blok artikel serta kartu testimoni.
+   */
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 18px 0;
+  padding: 20px 16px;
+  transform: none;
+  overflow: hidden;
+
+  color: var(--faq-text);
+  border: 1px solid rgba(8, 191, 245, 0.65);
+  border-radius: 12px;
+
+  background:
+    radial-gradient(
+      circle at 100% 0,
+      #000000,
+      transparent 22%
+    ),
+    linear-gradient(145deg, #000000, #03080d 72%);
+
+  box-shadow:
+    0 10px 26px rgba(0, 0, 0, 0.28),
+    0 0 14px rgba(8, 191, 245, 0.12);
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nanyea777-section::before {
+  content: "";
+  position: absolute;
+  top: -55px;
+  right: -45px;
+  width: 130px;
+  height: 130px;
+  border: 16px solid rgba(8, 191, 245, 0.07);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.nanyea777-section::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--faq-blue),
+    var(--faq-yellow),
+    transparent
+  );
+
+  box-shadow: 0 0 12px var(--faq-blue);
+}
+
+.nanyea777-heading {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  margin: 0 auto 14px;
+  text-align: center;
+}
+
+.nanyea777-mini-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 5px;
+  padding: 4px 12px;
+
+  color: #071018;
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 1.3px;
+
+  border-radius: 30px;
+  background: linear-gradient(90deg, var(--faq-yellow), #fff38a);
+  box-shadow: 0 0 12px rgba(255, 210, 31, 0.22);
+}
+
+.nanyea777-mini-title::before,
+.nanyea777-mini-title::after {
+  content: "✦";
+  font-size: 7px;
+}
+
+.nanyea777-heading h2 {
+  margin: 0 0 5px;
+  color: #ffffff;
+  font-size: clamp(20px, 3vw, 28px);
+  line-height: 1.15;
+  text-transform: uppercase;
+  text-shadow: 0 0 13px rgba(8, 191, 245, 0.3);
+}
+
+.nanyea777-heading h2::after {
+  content: "";
+  display: block;
+  width: 75px;
+  height: 3px;
+  margin: 7px auto 0;
+  border-radius: 10px;
+
+  background: linear-gradient(
+    90deg,
+    var(--faq-blue),
+    var(--faq-yellow)
+  );
+}
+
+.nanyea777-heading p {
+  margin: 7px 0 0;
+  color: var(--faq-muted);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.nanyea777-list {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  gap: 7px;
+}
+
+.nanyea777-item {
+  position: relative;
+  overflow: hidden;
+
+  border: 1px solid rgba(8, 191, 245, 0.45);
+  border-radius: 8px;
+
+  background:
+    linear-gradient(
+      100deg,
+      rgba(8, 191, 245, 0.08),
+      transparent 34%
+    ),
+    var(--faq-card);
+
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.2),
+    inset 0 1px rgba(255, 255, 255, 0.03);
+
+  transition:
+    border-color 0.25s ease,
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.nanyea777-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 60%;
+  height: 2px;
+
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--faq-blue),
+    transparent
+  );
+
+  transition: left 0.55s ease;
+}
+
+.nanyea777-item:hover {
+  transform: translateY(-1px);
+  border-color: rgba(8, 191, 245, 0.85);
+
+  box-shadow:
+    0 6px 15px rgba(0, 0, 0, 0.25),
+    0 0 12px rgba(8, 191, 245, 0.08);
+}
+
+.nanyea777-item:hover::before {
+  left: 130%;
+}
+
+.nanyea777-item[open] {
+  border-color: rgba(255, 210, 31, 0.75);
+
+  box-shadow:
+    0 7px 16px rgba(0, 0, 0, 0.27),
+    0 0 13px rgba(255, 210, 31, 0.07);
+}
+
+.nanyea777-item summary {
+  display: grid;
+  grid-template-columns: 38px 1fr 27px;
+  align-items: center;
+
+  min-height: 44px;
+  padding: 4px 8px 4px 5px;
+
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.nanyea777-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.nanyea777-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 32px;
+  height: 32px;
+
+  color: #061018;
+  font-size: 10px;
+  font-weight: 900;
+
+  border-radius: 7px 3px 7px 3px;
+
+  background: linear-gradient(
+    145deg,
+    var(--faq-blue-light),
+    var(--faq-blue)
+  );
+
+  box-shadow:
+    0 0 10px rgba(8, 191, 245, 0.28),
+    inset 0 1px rgba(255, 255, 255, 0.5);
+
+  transform: skewX(-5deg);
+}
+
+.nanyea777-question {
+  padding: 0 9px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.nanyea777-icon {
+  position: relative;
+  display: block;
+
+  width: 23px;
+  height: 23px;
+
+  border: 1px solid rgba(255, 210, 31, 0.65);
+  border-radius: 50%;
+
+  background: rgba(255, 210, 31, 0.07);
+
+  transition:
+    transform 0.3s ease,
+    background 0.3s ease;
+}
+
+.nanyea777-icon::before,
+.nanyea777-icon::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: 9px;
+  height: 1.5px;
+
+  border-radius: 5px;
+  background: var(--faq-yellow);
+  transform: translate(-50%, -50%);
+}
+
+.nanyea777-icon::after {
+  transform: translate(-50%, -50%) rotate(90deg);
+  transition: transform 0.3s ease;
+}
+
+.nanyea777-item[open] .nanyea777-icon {
+  background: var(--faq-yellow);
+  transform: rotate(180deg);
+}
+
+.nanyea777-item[open] .nanyea777-icon::before,
+.nanyea777-item[open] .nanyea777-icon::after {
+  background: #071018;
+}
+
+.nanyea777-item[open] .nanyea777-icon::after {
+  transform: translate(-50%, -50%) rotate(0deg);
+}
+
+.nanyea777-item[open] .nanyea777-number {
+  background: linear-gradient(
+    145deg,
+    #fff493,
+    var(--faq-yellow)
+  );
+
+  box-shadow: 0 0 12px rgba(255, 210, 31, 0.3);
+}
+
+.nanyea777-answer {
+  position: relative;
+  margin: 0 10px 8px 43px;
+  padding: 9px 12px;
+
+  color: var(--faq-muted);
+  border-left: 2px solid var(--faq-yellow);
+  border-radius: 3px 7px 7px 3px;
+
+  background: linear-gradient(
+    90deg,
+    rgba(255, 210, 31, 0.08),
+    transparent
+  );
+
+  animation: nanyea777Open 0.3s ease;
+}
+
+.nanyea777-answer p {
+  margin: 0;
+  font-size: 11px;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.nanyea777-note {
+  position: relative;
+  z-index: 2;
+
+  display: flex;
+  align-items: center;
+  gap: 9px;
+
+  margin-top: 9px;
+  padding: 8px 10px;
+
+  border: 1px dashed rgba(8, 191, 245, 0.7);
+  border-radius: 7px;
+
+  background: linear-gradient(
+    90deg,
+    rgba(8, 191, 245, 0.11),
+    rgba(255, 210, 31, 0.05)
+  );
+}
+
+.nanyea777-note-icon {
+  flex: 0 0 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 28px;
+  height: 28px;
+
+  color: #071018;
+  font-size: 15px;
+  font-weight: 900;
+
+  border-radius: 50%;
+  background: var(--faq-yellow);
+  box-shadow: 0 0 10px rgba(255, 210, 31, 0.25);
+}
+
+.nanyea777-note strong {
+  display: block;
+  margin-bottom: 1px;
+  color: var(--faq-yellow);
+  font-size: 10px;
+}
+
+.nanyea777-note p {
+  margin: 0;
+  color: var(--faq-muted);
+  font-size: 9px;
+  line-height: 1.45;
+}
+
+@keyframes nanyea777Open {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 700px) {
+  .nanyea777-section {
+    width: 100%;
+    max-width: 100%;
+    margin: 14px 0;
+    padding: 16px 10px;
+    transform: none;
+    border-radius: 10px;
+  }
+
+  .nanyea777-heading {
+    margin-bottom: 11px;
+  }
+
+  .nanyea777-heading h2 {
+    font-size: 19px;
+  }
+
+  .nanyea777-heading p {
+    font-size: 10px;
+  }
+
+  .nanyea777-item summary {
+    grid-template-columns: 35px 1fr 25px;
+    min-height: 42px;
+    padding: 4px 6px 4px 4px;
+  }
+
+  .nanyea777-number {
+    width: 30px;
+    height: 30px;
+    font-size: 9px;
+  }
+
+  .nanyea777-question {
+    padding: 0 7px;
+    font-size: 11px;
+  }
+
+  .nanyea777-icon {
+    width: 22px;
+    height: 22px;
+  }
+
+  .nanyea777-answer {
+    margin: 0 7px 7px;
+    padding: 8px 10px;
+  }
+
+  .nanyea777-answer p {
+    font-size: 10px;
+  }
+
+  .nanyea777-note {
+    align-items: flex-start;
+  }
+}
+</style>
+                </div>
+      <!-- Reviews Section -->
+<h2>Bukti Nyata! Ini Kata Member Setia Kami Main di RAJABOM</h2>
+<div class="reviews-grid">
+    <div class="review-card">
+        <div class="review-header">
+            <span class="review-name">Mpin – MEDAN</span>
+            <span class="review-stars">★★★★★</span>
+        </div>
+        <p class="review-text">"Awalnya gue kira semua situs slot online itu sama aja, tapi pas nyobain RAJABOM gacor ini beda banget feel-nya. Spin lebih sering dapet scatter, RTP RAJABOM-nya juga kerasa stabil. Modal receh bisa naik berkali-kali, gak lebay sih tapi emang legit."</p>
+        <span class="review-date">2025-04-20</span>
+    </div>
+    
+    <div class="review-card">
+        <div class="review-header">
+            <span class="review-name">Sabb - JEPARA</span>
+            <span class="review-stars">★★★★★</span>
+        </div>
+        <p class="review-text">"Gue udah pindah-pindah situs slot, tapi baru nemu yang enak di RAJABOM terpercaya ini. Game slot gacor gampang banget dapet free spin, apalagi kalo main jam malem. Serius ini salah satu situs RAJABOM terbaik yang pernah gue coba."</p>
+        <span class="review-date">2026-03-22</span>
+    </div>
+    
+    <div class="review-card">
+        <div class="review-header">
+            <span class="review-name">Ying - BALI</span>
+            <span class="review-stars">★★★★☆</span>
+        </div>
+        <p class="review-text">"dah 2 tahun main slot online, dan jujur di sini paling konsisten. Sistem RNG-nya berasa fair, gak kayak situs lain. RAJABOM terbaru ini juga banyak pilihan game provider top, jadi gak bosen. Mantap sih buat cari cuan santai."</p>
+        <span class="review-date">2026-03-17</span>
+    </div>
+    
+    <div class="review-card">
+        <div class="review-header">
+            <span class="review-name">MK - KEDIRI</span>
+            <span class="review-stars">★★★★★</span>
+        </div>
+        <p class="review-text">"Yang gue suka dari RAJABOM gacor hari ini itu fitur bonusnya sering keluar. Scatter gampang, wild sering muncul. Bener-bener cocok buat yang suka cari jackpot. UI-nya juga clean, gak ribet kayak situs slot lain."</p>
+        <span class="review-date">2026-05-25</span>
+    </div>
+    
+    <div class="review-card">
+        <div class="review-header">
+            <span class="review-name">CL - JAKARTA</span>
+            <span class="review-stars">★★★★★</span>
+        </div>
+        <p class="review-text">"Jujur awalnya skeptis, takut kaya situs lain yang lemot dan ribet. Tapi pas nyobain RAJABOM terbaru ternyata beda. Login gampang, game jalan mulus di HP, dan sering ada game viral yang gampang muncul bonus. Feel mainnya lebih santai dan gak bikin emosi."</p>
+        <span class="review-date">2026-03-19</span>
+    </div>
+    
+    <div class="review-card">
+        <div class="review-header">
+            <span class="review-name">AI88 - SUKABUMI</span>
+            <span class="review-stars">★★★★★</span>
+        </div>
+        <p class="review-text">"Udah coba banyak situs game online, tapi yang paling bikin betah ya RAJABOM ini. Tampilan simpel, loading cepet, sama pilihan gamenya banyak banget. Kadang modal tipis bisa dapet free spin berkali-kali. Gak heran kalau sekarang lagi rame dicari player."</p>
+        <span class="review-date">2026-03-23</span>
+    </div>
 </div>
+<div class="feature-moving-bar">
+  <div class="feature-item">
+    <div class="feature-icon">🛡️</div>
+    <div>
+      <div class="feature-title">Aman & Terpercaya</div>
+      <div class="feature-desc">Sistem keamanan terbaik untuk semua member</div>
+    </div>
+  </div>
+
+  <div class="feature-item">
+    <div class="feature-icon">⏱️</div>
+    <div>
+      <div class="feature-title">Proses Cepat</div>
+      <div class="feature-desc">Deposit & withdraw cepat tanpa ribet</div>
+    </div>
+  </div>
+
+  <div class="feature-item">
+    <div class="feature-icon">🎁</div>
+    <div>
+      <div class="feature-title">Bonus Menarik</div>
+      <div class="feature-desc">Bonus harian, mingguan & event spesial</div>
+    </div>
+  </div>
+
+  <div class="feature-item">
+    <div class="feature-icon">🎧</div>
+    <div>
+      <div class="feature-title">Layanan 24/7</div>
+      <div class="feature-desc">CS siap membantu kapan saja</div>
+    </div>
+  </div>
 </div>
         <!-- CTA Buttons -->
         
         
         <!-- Simple footer -->
         <div style="text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #313131; color: #313131; font-size: 12px;">
-            © 2026 FILTER303. All rights reserved.
+            © 2026 RAJABOM. All rights reserved.
         </div>
     </article></section></div>
     
@@ -6691,12 +8300,12 @@ digitalData.page.pageInfo.pageName = pageName;
             <script>
                 (function () {
                     // ===== FAQ Accordion (5 sesuai schema) =====
-                    const faqButtons = document.querySelectorAll(".FILTER303-container .acc-item");
+                    const faqButtons = document.querySelectorAll(".SLOT-container .acc-item");
                     faqButtons.forEach((btn, idx) => {
                         const panel = btn.nextElementSibling;
 
-                        const qId = `FILTER303-faq-q-${idx}`;
-                        const pId = `FILTER303-faq-p-${idx}`;
+                        const qId = `SLOT-faq-q-${idx}`;
+                        const pId = `SLOT-faq-p-${idx}`;
                         btn.id = qId;
                         panel.id = pId;
                         btn.setAttribute("aria-controls", pId);
@@ -6834,261 +8443,23 @@ digitalData.page.pageInfo.pageName = pageName;
                 });
             </script>
 
-  <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            background: #470000;
-            font-family: Arial, sans-serif;
-            overflow-x: hidden;
-        }
-
-        .wrapper {
-            max-width: 1600px;
-            margin: 30px auto;
-            padding: 20px;
-        }
-
-        .title {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        .title h2 {
-            color: #ff9e9e;
-            font-size: 52px;
-            text-shadow:
-                0 0 15px #ff4d4d,
-                0 0 40px #470000;
-        }
-
-        .carousel {
-            position: relative;
-            height: clamp(180px, 22vw, 350px);
-            overflow: hidden;
-            border-bottom: 2px dashed rgba(255, 255, 255, 0.1);
-        }
-
-        .item {
-            position: absolute;
-            left: 50%;
-            top: 20%;
-            transform-origin: center center;
-            will-change: transform, opacity;
-        }
-
-        .item figure {
-            margin: 0;
-            text-align: center;
-        }
-
-        .item img {
-            width: clamp(70px, 10vw, 180px);
-            height: clamp(70px, 10vw, 180px);
-            object-fit: cover;
-            border-radius: 50%;
-            background: #3b0404;
-            transition:
-                box-shadow .2s linear,
-                border-color .2s linear;
-        }
-
-        .item figcaption {
-            width: clamp(80px, 12vw, 180px);
-            font-size: clamp(10px, 1vw, 15px);
-            margin-top: 10px;
-            color: #ffdddd;
-            font-weight: 700;
-        }
-
-        @media(max-width:768px) {
-
-            .carousel {
-                height: 320px;
-            }
-
-            .title h2 {
-                font-size: 32px;
-            }
-
-            .item img {
-                width: 90px;
-                height: 90px;
-            }
-
-            .item figcaption {
-                width: 90px;
-                font-size: 11px;
-            }
-        }
-    </style>
-
-    <div class="wrapper">
-
-        <div class="title">
-            <h2>DAFTAR GAME JACKPOT FILTER303</h2>
-        </div>
-
-        <div class="carousel" id="carousel"></div>
-
-    </div>
-
-    <script>
-
-         const products = [
-
-            {
-                title: "Gates of Olympus™",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympgate.jpg?v=606021804",
-                color: "#ff9e9e"
-            },
-
-            {
-                title: "Starlight Princess",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20starlight.jpg?v=606021804",
-                color: "#ff4d4d"
-            },
-
-            {
-                title: "Wild West Gold",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs40wildwest.jpg?v=606021804",
-                color: "#34a02f"
-            },
-
-            {
-                title: "Sugar Rush",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20sugarrush.jpg?v=606021804",
-                color: "#ff9e9e"
-            },
-
-            {
-                title: "Sweet Bonanza",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20fruitsw.jpg?v=606021804",
-                color: "#ff4d4d"
-            },
-
-            {
-                title: "Mahjong Ways",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_65.jpg?v=606021804",
-                color: "#34a02f"
-            },
-
-            {
-                title: "Wild Bounty Showdown",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_135.jpg?v=606021804",
-                color: "#ff9e9e"
-            },
-
-            {
-                title: "Wild Bandito",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_104.jpg?v=606021804",
-                color: "#ff4d4d"
-            },
-
-            {
-                title: "Captain's Bounty",
-                img: "https://dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_54.jpg?v=606021804",
-                color: "#34a02f"
-            }
-
-        ];
+  
 
 
-        const carousel = document.getElementById("carousel");
-
-        const items = [];
-
-        products.forEach(product => {
-
-            const div = document.createElement("div");
-
-            div.className = "item";
-
-            div.innerHTML = `
-        <figure>
-            <a href="/" style="text-decoration:none;color:inherit;">
-            <img
-                src="${product.img}"
-                style="
-                border:4px solid ${product.color};
-                box-shadow:
-                    0 0 15px ${product.color},
-                    0 0 40px ${product.color};
-                ">
-            <figcaption>${product.title}</figcaption>
-            </a>
-        </figure>
-    `;
-
-            carousel.appendChild(div);
-            items.push(div);
-
-        });
-
-        let rotation = 0;
-
-        function animate() {
-            rotation += 0.0025;
-            const w = carousel.offsetWidth;
-            const h = carousel.offsetHeight;
-
-            const radiusX = Math.min(w * 0.38, 700);
-            const radiusY = h * 0.35;
-
-            const spacing = (Math.PI * 2) / products.length;
-
-            items.forEach((item, index) => {
-                const angle = rotation + (index * spacing);
-
-                const x = Math.cos(angle) * radiusX;
-                const y = Math.sin(angle) * radiusY;
-
-                const progress = (y + radiusY) / (2 * radiusY);
-
-                const scale = 0.55 + (progress * 0.55);
-                const opacity = 0.3 + (progress * 0.7);
-
-                item.style.opacity = opacity;
-                item.style.zIndex = Math.floor(progress * 100);
-
-                item.style.transform = `translate(-50%, -50%) translate(${x}px, ${y}px) scale(${scale})`;
-
-                const img = item.querySelector("img");
-                if (progress > 0.85) {
-                    img.style.boxShadow = `
-                0 0 25px #ff9e9e,
-                0 0 50px #ff4d4d,
-                0 0 90px #470000
-            `;
-                } else {
-                    const color = products[index].color;
-                    img.style.boxShadow = `
-                0 0 15px ${color},
-                0 0 40px ${color}
-            `;
-                }
-            });
-
-            requestAnimationFrame(animate);
-        }
-        animate();
-
-    </script>
-
+          
+        
+      
+    
     <nav aria-label="Breadcrumb" class="breadcrumb">
      <div class="breadcrumb__inner">
       <ul class="breadcrumb__path" role="list">
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.reconnaitre.ca/accessibilite-et-transition/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:home" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Home" href="https://www.newtravel.cz/">
          <span class="breadcrumb__text-desktop">
-          SITUS SLOT GACOR <span style="margin-left: 15px;">&gt;</span>
+          SLOT GACOR <span style="margin-left: 15px;">&gt;</span>
          </span>
          <span class="breadcrumb__text-mobile">
-          SITUS SLOT GACOR <span style="margin-left: 15px;">&gt;</span>
+          RAJABOM <span style="margin-left: 15px;">&gt;</span>
          </span>
         </a>
         <svg aria-hidden="true" class="icon" focusable="false">
@@ -7097,12 +8468,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.reconnaitre.ca/accessibilite-et-transition/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:mobile" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Mobile" href="https://www.newtravel.cz/">
          <span class="breadcrumb__text-desktop">
-          GACOR <span style="margin-left: 15px;">&gt;</span>
+          RAJABOM <span style="margin-left: 15px;">&gt;</span>
          </span>
          <span class="breadcrumb__text-mobile">
-          GACOR <span style="margin-left: 15px;">&gt;</span>
+          Slot Gacor Hari Ini <span style="margin-left: 15px;">&gt;</span>
          </span>
         </a>
         <svg aria-hidden="true" class="icon" focusable="false">
@@ -7111,12 +8482,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </svg>
        </li>
        <li role="listitem">
-        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.reconnaitre.ca/accessibilite-et-transition/">
+        <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:smartphones" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Smartphones" href="https://www.newtravel.cz/">
          <span class="breadcrumb__text-desktop">
-        FILTER303 SLOT
+        SLOT RESMI
          </span>
          <span class="breadcrumb__text-mobile">
-        FILTER303 SLOT
+        Situs Slot Gacor
          </span>
         </a>
         <svg aria-hidden="true" class="icon" focusable="false">
@@ -7127,7 +8498,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </ul>
      </div>
      <script data-id="815b4f0e-baa9-42cc-b1f9-b4b995da3ffb" data-object-type="BreadcrumbList" data-type="seo" type="application/ld+json">
-      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.samsung.com/id/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.samsung.com/id/mobile/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.samsung.com/id/smartphones/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.samsung.com/id/smartphones/galaxy-a/","position":4},{"@type":"ListItem","name":"SITUS GACOR","item":"","position":5}]}
+      {"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#breadcrumb","itemListElement":[{"@type":"ListItem","name":"Home","item":"https://www.samsung.com/id/","position":1},{"@type":"ListItem","name":"Mobile","item":"https://www.samsung.com/id/mobile/","position":2},{"@type":"ListItem","name":"Smartphones","item":"https://www.samsung.com/id/smartphones/","position":3},{"@type":"ListItem","name":"Galaxy A","item":"https://www.samsung.com/id/smartphones/galaxy-a/","position":4},{"@type":"ListItem","name":"Situs SLOT","item":"","position":5}]}
      </script>
     </nav>
     <div class="pd-g-manufacturer-info-popup">
@@ -7186,43 +8557,43 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    FILTER303
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    RAJABOM
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    SITUS SLOT GACOR
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    RAJABOM GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    SITUS GACOR
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    SLOT ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    LINK GACOR
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    SITUS GACOR HARI INI
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    RAJABOM LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    LINK GACOR HARI INI
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    LINK RAJABOM
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    SLOT88
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    RAJABOM ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    SITUS SLOT GACOR 2026
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    SLOT GACOR HARI INI
                   </a>
                 </li>
               </ul>
@@ -7246,38 +8617,38 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Promo FILTER303 &amp; maxwin 88 harian
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Program Slot Jackpot &amp; Cashback
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Slot Mania
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Situs yang gacor hari ini
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Situs yang lagi bagus
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Program Referral
                   </a>
                 </li>
               </ul>
@@ -7302,37 +8673,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Slot FILTER303
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -7358,33 +8729,33 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" an-as="">
-                    Situs yang resmi di Indonesia
+                  <a class="footer-category__link" href="https://www.qualitabogados.com/travel/" an-as="">
+                    Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" an-as="">
-                    Login Slot88
+                  <a class="footer-category__link" href="https://www.qualitabogados.com/travel/" an-as="">
+                    Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" an-as="">
+                  <a class="footer-category__link" href="https://www.qualitabogados.com/travel/" an-as="">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Program Maxwin 88
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Program VIP
                   </a>
                 </li>
               </ul>
@@ -7410,35 +8781,35 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Situs Gacor Terpercaya
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Kontak Slot Resmi
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Kontak Resmi
                   </a>
                 </li>
               </ul>
             </div>
           </div>
 
-          <!-- About LINK GACOR -->
+          <!-- About SLOT -->
           <div class="footer-category">
             <p class="footer-category__title" id="footer-category-title-4-2">
-              About LINK GACOR
+              About RAJABOM
             </p>
-            <a an-ac="footer" an-ca="navigation" an-la="about LINK GACOR" an-tr="nv01_footer sitemap|menu1Depth" aria-labelledby="footer-category-title-4-2" class="footer-category__anchor" href="javascript:void(0);" role="button" an-as="">
+            <a an-ac="footer" an-ca="navigation" an-la="about SLOT" an-tr="nv01_footer sitemap|menu1Depth" aria-labelledby="footer-category-title-4-2" class="footer-category__anchor" href="javascript:void(0);" role="button" an-as="">
               <span class="hidden">
                 Buka
               </span>
@@ -7449,22 +8820,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Tentang LINK GACOR
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Tentang Slot Online
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
-                    Kenapa Pilih LINK GACOR
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
+                    Kenapa Pilih RAJABOM
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+                  <a class="footer-category__link" href="https://www.newtravel.cz/" an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -7480,11 +8851,11 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="footer-copyright-wrap">
           <div class="footer-copyright-align">
             <p class="footer-copyright">
-              © 2026 FILTER303. All rights reserved.
+              © 2026 RAJABOM. All rights reserved.
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+            <a class="footer-language__anchor" href="https://www.newtravel.cz/" an-as="">
               Indonesia / Bahasa Indonesia
 
             </a>
@@ -7493,7 +8864,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.reconnaitre.ca/accessibilite-et-transition/" an-as="">
+            <a class="footer-language__anchor" href="https://www.newtravel.cz/" an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -7524,28 +8895,28 @@ digitalData.page.pageInfo.pageName = pageName;
             </span>
             <ul class="footer-sns__list" role="list">
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://facebook.com/FILTER303" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru" an-as="">
+                <a class="footer-sns__link" href="https://facebook.com/rajabom" rel="noreferrer noopener" target="_blank" aria-label="Facebook : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
                     <use href="#facebook-bold" xlink:href="#facebook-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://twitter.com/FILTER303" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru" an-as="">
+                <a class="footer-sns__link" href="https://twitter.com/slot-gacor" rel="noreferrer noopener" target="_blank" aria-label="Twitter : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
                     <use href="#twitter-bold" xlink:href="#twitter-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://instagram.com/FILTER303" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru" an-as="">
+                <a class="footer-sns__link" href="https://instagram.com/rajabom" rel="noreferrer noopener" target="_blank" aria-label="Instagram : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
                     <use href="#instagram-bold" xlink:href="#instagram-bold"></use>
                   </svg>
                 </a>
               </li>
               <li class="footer-sns__item" role="listitem">
-                <a class="footer-sns__link" href="https://youtube.com/@FILTER303" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru" an-as="">
+                <a class="footer-sns__link" href="https://youtube.com/@RAJABOM" rel="noreferrer noopener" target="_blank" aria-label="Youtube : Buka di Tab Baru" an-as="">
                   <svg class="icon" focusable="false">
                     <use href="#youtube-bold" xlink:href="#youtube-bold"></use>
                   </svg>
@@ -7570,7 +8941,1152 @@ digitalData.page.pageInfo.pageName = pageName;
    <script src="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-dependencies.min.407b108c60433f00a6b1a0e8f272a2c1.js">
    </script>
    <script src="https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base-ux25.min.91a4ebeb2dec9b19aa121b5c7154ff51.js">
-   </script>
+   </script><script>
+//load tti js library
+(function(){var h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)};function l(){l=function(){};h.Symbol||(h.Symbol=m)}var n=0;function m(a){return"jscomp_symbol_"+(a||"")+n++}
+function p(){l();var a=h.Symbol.iterator;a||(a=h.Symbol.iterator=h.Symbol("iterator"));"function"!=typeof Array.prototype[a]&&k(Array.prototype,a,{configurable:!0,writable:!0,value:function(){return q(this)}});p=function(){}}function q(a){var b=0;return r(function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}})}function r(a){p();a={next:a};a[h.Symbol.iterator]=function(){return this};return a}function t(a){p();var b=a[Symbol.iterator];return b?b.call(a):q(a)}
+function u(a){if(!(a instanceof Array)){a=t(a);for(var b,c=[];!(b=a.next()).done;)c.push(b.value);a=c}return a}var v=0;function w(a,b){var c=XMLHttpRequest.prototype.send,d=v++;XMLHttpRequest.prototype.send=function(f){for(var e=[],g=0;g<arguments.length;++g)e[g-0]=arguments[g];var E=this;a(d);this.addEventListener("readystatechange",function(){4===E.readyState&&b(d)},{passive:true});return c.apply(this,e)}}
+function x(a,b){var c=fetch;fetch=function(d){for(var f=[],e=0;e<arguments.length;++e)f[e-0]=arguments[e];return new Promise(function(d,e){var g=v++;a(g);c.apply(null,[].concat(u(f))).then(function(a){b(g);d(a)},function(a){b(a);e(a)})})}}var y="img script iframe link audio video source".split(" ");function z(a,b){a=t(a);for(var c=a.next();!c.done;c=a.next())if(c=c.value,b.includes(c.nodeName.toLowerCase())||z(c.children,b))return!0;return!1}
+function A(a){var b=new MutationObserver(function(c){c=t(c);for(var b=c.next();!b.done;b=c.next())b=b.value,"childList"==b.type&&z(b.addedNodes,y)?a(b):"attributes"==b.type&&y.includes(b.target.tagName.toLowerCase())&&a(b)});b.observe(document,{attributes:!0,childList:!0,subtree:!0,attributeFilter:["href","src"]});return b}
+function B(a,b){if(2<a.length)return performance.now();var c=[];b=t(b);for(var d=b.next();!d.done;d=b.next())d=d.value,c.push({timestamp:d.start,type:"requestStart"}),c.push({timestamp:d.end,type:"requestEnd"});b=t(a);for(d=b.next();!d.done;d=b.next())c.push({timestamp:d.value,type:"requestStart"});c.sort(function(a,b){return a.timestamp-b.timestamp});a=a.length;for(b=c.length-1;0<=b;b--)switch(d=c[b],d.type){case "requestStart":a--;break;case "requestEnd":a++;if(2<a)return d.timestamp;break;default:throw Error("Internal Error: This should never happen");
+}return 0}function C(a){a=a?a:{};this.w=!!a.useMutationObserver;this.u=a.minValue||null;a=window.__tti&&window.__tti.e;var b=window.__tti&&window.__tti.o;this.a=a?a.map(function(a){return{start:a.startTime,end:a.startTime+a.duration}}):[];b&&b.disconnect();this.b=[];this.f=new Map;this.j=null;this.v=-Infinity;this.i=!1;this.h=this.c=this.s=null;w(this.m.bind(this),this.l.bind(this));x(this.m.bind(this),this.l.bind(this));D(this);this.w&&(this.h=A(this.B.bind(this)))}
+C.prototype.getFirstConsistentlyInteractive=function(){var a=this;return new Promise(function(b){a.s=b;"complete"==document.readyState?F(a):window.addEventListener("load",function(){F(a)}, {passive:true})})};function F(a){a.i=!0;var b=0<a.a.length?a.a[a.a.length-1].end:0,c=B(a.g,a.b);G(a,Math.max(c+5E3,b))}
+function G(a,b){!a.i||a.v>b||(clearTimeout(a.j),a.j=setTimeout(function(){var b=performance.timing.navigationStart,d=B(a.g,a.b),b=(window.a&&window.a.A?1E3*window.a.A().C-b:0)||performance.timing.domContentLoadedEventEnd-b;if(a.u)var f=a.u;else performance.timing.domContentLoadedEventEnd?(f=performance.timing,f=f.domContentLoadedEventEnd-f.navigationStart):f=null;var e=performance.now();null===f&&G(a,Math.max(d+5E3,e+1E3));var g=a.a;5E3>e-d?d=null:(d=g.length?g[g.length-1].end:b,d=5E3>e-d?null:Math.max(d,
+f));d&&(a.s(d),clearTimeout(a.j),a.i=!1,a.c&&a.c.disconnect(),a.h&&a.h.disconnect());G(a,performance.now()+1E3)},b-performance.now()),a.v=b)}
+function D(a){a.c=new PerformanceObserver(function(b){b=t(b.getEntries());for(var c=b.next();!c.done;c=b.next())if(c=c.value,"resource"===c.entryType&&(a.b.push({start:c.fetchStart,end:c.responseEnd}),G(a,B(a.g,a.b)+5E3)),"longtask"===c.entryType){var d=c.startTime+c.duration;a.a.push({start:c.startTime,end:d});G(a,d+5E3)}});a.c.observe({entryTypes:["longtask","resource"]})}C.prototype.m=function(a){this.f.set(a,performance.now())};C.prototype.l=function(a){this.f.delete(a)};
+C.prototype.B=function(){G(this,performance.now()+5E3)};h.Object.defineProperties(C.prototype,{g:{configurable:!0,enumerable:!0,get:function(){return[].concat(u(this.f.values()))}}});var H={getFirstConsistentlyInteractive:function(a){a=a?a:{};return"PerformanceLongTaskTiming"in window?(new C(a)).getFirstConsistentlyInteractive():Promise.resolve(null)}};
+"undefined"!=typeof module&&module.exports?module.exports=H:"function"===typeof define&&define.amd?define("ttiPolyfill",[],function(){return H}):window.ttiPolyfill=H;})();
+//# sourceMappingURL=tti-polyfill.js.map
+
+//load tti snippet
+!function(){if('PerformanceLongTaskTiming' in window){var g=window.__tti={e:[]};
+g.o=new PerformanceObserver(function(l){g.e=g.e.concat(l.getEntries())});
+g.o.observe({entryTypes:['longtask']})}}();
+
+//push tti value to eddl
+function push_tti_to_eddl(eddlObj){
+  ttiPolyfill.getFirstConsistentlyInteractive().then(function(tti){
+    if (typeof eddlObj !== 'undefined') {
+      eddlObj.push({
+        'event':'',
+        'performance': {
+          'TTI': tti
+        }
+      })
+    } else {
+      console.log('No eddlObj found. TTI is not tracked')
+    }
+  });
+}
+
+push_tti_to_eddl(eddlDataLayer)
+</script><!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET-->
+<script type="text/javascript">
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.async=1;a.src=g;document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_ZN_eWYlZPQdS1JT1sh","https://znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_eWYlZPQdS1JT1sh")).start()}catch(i){}})();
+</script><div id="ZN_eWYlZPQdS1JT1sh"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET--><!-- Decibel - www.samsung.com Indonesia -->
+<link rel="dns-prefetch" href="//cdn.decibelinsight.net">
+<link rel="dns-prefetch" href="//collection.decibelinsight.net">
+<script type="text/javascript">
+  window._da_=window._da_||[];_da_.oldErr=window.onerror;_da_.err=[];
+  window.onerror=function(){_da_.err.push(arguments);
+                            if(_da_.oldErr){
+                              _da_.oldErr.apply(window,Array.prototype.slice.call(arguments));
+                            }
+                           };
+
+  window.addEventListener('load', (event) => {
+    (function(d,e,c,i,b,el,it) {
+      d.DecibelInsight=b;d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments);};
+      el=e.createElement(c);it=e.getElementsByTagName(c)[0];el.async=1;el.src=i;it.parentNode.insertBefore(el,it);
+    })(window,document,'script','https://cdn.decibelinsight.net/i/14121/1818647/di.js','decibelInsight');
+  });    
+  
+
+  if (typeof window.decibelInsight !== 'undefined') {
+    window.decibelInsight('ready', decibelInit);
+  } else {
+    window._da_readyArray = window._da_readyArray || [];
+    window._da_readyArray.push(decibelInit);
+  }
+  
+  function decibelInit() {
+  try{
+    document.cookie = "DXA_READY=1; max-age=6000";
+    }catch(e){}
+  }
+</script><script>
+// Define dataLayer and the gtag function.
+  window.dataLayer = window.dataLayer || [];
+  function poc_gtag(){dataLayer.push(arguments);}
+
+// Default Setting
+  poc_gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied'
+  });    
+</script>
+
+<script>
+  let gtagScriptEle = document.createElement("script");
+  gtagScriptEle.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id="+_satellite.getVar("GA4 Measurement ID"));
+  gtagScriptEle.setAttribute("async",true);
+  document.body.appendChild(gtagScriptEle);
+</script><script src="https://www.googletagmanager.com/gtag/js?id=G-V3RHCPZTVJ" async="true"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    function poc_gtag(){dataLayer.push(arguments);}
+    poc_gtag('js', new Date());
+    var user_properties = {};
+    try{
+        var cid = _satellite.getVar('CID');
+        var samid = _satellite.getVar('SAMID');
+        var gaid = _satellite.getVar('GA Client ID');
+        var login_status = _satellite.getVar('Login Status');
+        var logged_in_id = _satellite.getVar('Cookie - Logged In ID');
+        var depth2 = _satellite.getVar('2Depth');
+        var depth3 = _satellite.getVar('3Depth');
+        var depth4 = _satellite.getVar('4Depth');
+        var depth5 = _satellite.getVar('5Depth');
+        var concatenated_page_name = _satellite.getVar('Concatenated Page Name');
+        var origin_platform = _satellite.getVar('Origin Platform');
+        var page_track = _satellite.getVar('Page Track');
+        var page_url = _satellite.getVar('Page URL');
+        var platform_version = _satellite.getVar('Platform Version');
+        var shop_type = _satellite.getVar('Shop Type');
+        var site_code = _satellite.getVar('Site Code');
+        var site_section = _satellite.getVar('Site Section');
+        var store_id = _satellite.getVar('Store ID');
+        var allEventData = {
+          page:{
+            pageInfo:{}
+          }
+        };
+        try{
+          allEventData.page.pageInfo = {
+            'content_group': _satellite.getVar('2Depth'),
+            'content_group_depth_1': _satellite.getVar('Site Code'),
+            'content_group_depth_2': _satellite.getVar('2Depth'),
+            'content_group_depth_3':_satellite.getVar('3Depth'),
+            'content_group_depth_4':_satellite.getVar('4Depth'),
+            'content_group_depth_5':_satellite.getVar('5Depth'),
+             'concatenated_page_name' : _satellite.getVar('Concatenated Page Name'),
+             'origin_platform' : _satellite.getVar('Origin Platform'),
+             'pageTrack' : _satellite.getVar('Page Track'),
+             'page_name' : _satellite.getVar('Page Name'),
+             'page_url' : _satellite.getVar('Page URL'),
+             'site_version' : _satellite.getVar('Platform Version'),
+             'shop_type' : _satellite.getVar('Shop Type'),
+             'site_code' : _satellite.getVar('Site Code'),
+             'site_section' : _satellite.getVar('Site Section'),
+              'store_id' : _satellite.getVar('Store ID')
+          };
+          
+        }catch(e){}
+        if(cid){
+          user_properties.AA_tracking_code = cid;
+        }
+        if(samid){
+          user_properties.user_id = samid;
+          user_properties.hashed_samsung_id = samid;
+        }
+        if(gaid){
+          user_properties.client_id = gaid;
+        }
+        if(login_status){
+          user_properties.user_login_status = login_status;
+        }
+        if(logged_in_id){
+          user_properties.logged_in_id = logged_in_id;
+        }
+    }catch(e){}
+    if (user_properties){
+      poc_gtag("set", "user_properties", user_properties);      
+    }
+    var ssgtmURL = 'https://event-tracking.samsung.com';
+    var configData = {
+      'transport_url': ssgtmURL,
+      'first_party_collection': true,
+      'send_page_view': false,
+      'launch_env':(_satellite && _satellite.environment && _satellite.environment.stage)?_satellite.environment.stage:'production',
+      'allEventData':JSON.stringify(allEventData),
+      'webview_flag': _satellite.getVar('Webview Flag')
+    };
+    if (_satellite.getVar("GA4 Debug Flag") === true){
+      configData.debug_mode = true;
+    }
+    if (_satellite.getVar('GUID') !== undefined && _satellite.getVar('GUID') !="no_consent"&& _satellite.getVar('GUID') !==""){
+      configData.user_id = _satellite.getVar('GUID');
+    }
+  // Start Consent Mode
+    try{
+      var analytics_storage = true
+      var ad_storage = true
+        
+       // User Setting Option 1
+      if(analytics_storage){
+          poc_gtag('consent', 'update', {
+          'analytics_storage': 'granted'
+          });
+        }
+      // User Setting Option 2
+      if(ad_storage){
+          poc_gtag('consent', 'update', {
+          'ad_storage': 'granted',
+          'ad_user_data':'granted',
+          'ad_personalization':'granted'
+          });
+        }      
+      }catch(e){} 
+  // GA4 Config
+    poc_gtag('config', _satellite.getVar("GA4 Measurement ID"),configData);
+</script><script>
+// Samsung.com s Tracker for EDDL&XDM v0.5.2 (release 1) (last update - 20230920)
+/* 
+* Launch Rule Name : HQ-AA/GA(WebSDK)-CM-ALL(PT)
+*/
+
+var bridg_utils = {
+    stringToJson : function(input, value) {
+        const keys = input.split('.');
+        const result = {};
+        let current = result;
+        for (let i = 0; i < keys.length - 1; i++) {
+          const key = keys[i];
+          if (key.endsWith("[]")) {
+            const arrayKey = key.slice(0, -2);
+            if (!current[arrayKey]) {
+              current[arrayKey] = [];
+            }
+            if (!Array.isArray(current[arrayKey])) {
+              throw new Error(`Key ${arrayKey} already exists as a non-array value.`);
+            }
+            if (i < keys.length - 2) {
+              if (current[arrayKey].length === 0 || typeof current[arrayKey][current[arrayKey].length - 1] !== 'object') {
+                current[arrayKey].push({});
+              }
+              current = current[arrayKey][current[arrayKey].length - 1];
+            } else {
+              const lastObj = current[arrayKey][current[arrayKey].length - 1];
+              if (!lastObj || typeof lastObj !== 'object') {
+                current[arrayKey].push({});
+              }
+              current = current[arrayKey][current[arrayKey].length - 1];
+              current['item_id'] = value;
+            }
+          } else {
+            current[key] = {};
+            current = current[key];
+          }
+        }
+        const lastKey = keys[keys.length - 1];
+        current[lastKey] = value;
+        return result;
+    },
+    mergeObjects : function(obj1, obj2) {
+        const result = {};
+        const keys = Object.keys(obj1).concat(Object.keys(obj2));
+      
+        keys.forEach((key) => {
+          const val1 = obj1[key];
+          const val2 = obj2[key];
+      
+          if (val1 && typeof val1 === 'object' && val2 && typeof val2 === 'object') {
+            if (Array.isArray(val1) && Array.isArray(val2)) {
+                result[key] = Object.values(this.mergeObjects(val1, val2));
+            } else {
+                result[key] = this.mergeObjects(val1, val2);
+            } 
+          } else {
+            result[key] = val2 !== undefined ? val2 : val1;
+          }
+        });
+        return result;
+    },
+    getCurrentValue : function(dlArray, variable) {
+        let currentValue = null;
+        for (let i = 0; i < dlArray.length; i++) {
+            const dl = dlArray[i];
+            if (dl[variable]) {
+                currentValue = dl[variable];
+            }
+        }
+        return currentValue;
+    },
+    getPageLoadTime : function(){
+        // return page load time in milisecond from navigation interface
+        if (window.performance && window.performance.timing) {
+            var t = performance.timing;
+            var pageLoadTime = (t.loadEventEnd - t.navigationStart);
+            pageLoadTime = Math.round(pageLoadTime);
+            return pageLoadTime;
+        }
+    }
+}
+
+var eddl_bridge = {
+    s_eddl_mapper : _satellite.getVar("s_eddl_mapper"),
+    de_eddl_mapper : _satellite.getVar("de_eddl_mapper"),
+    cust_eddl_mapper : _satellite.getVar("cust_eddl_mapper"),
+    eddl_xdm_mapper : _satellite.getVar("eddl_xdm_mapper"),
+    s_to_eddl : function(s) {
+        let eddl = {};
+        let s_eddl_mapper = this.s_eddl_mapper;
+        for (let key in s_eddl_mapper) {
+            let eddl_key = s_eddl_mapper[key];
+            let eddl_value = s[key];
+            if (eddl_value) {
+                eddl_key = eddl_key.split(',');
+                for (let i = 0; i < eddl_key.length; i++) {
+                    if (eddl_key[i].indexOf('.') > -1) {
+                        let eddl_key_json = bridg_utils.stringToJson(eddl_key[i], eddl_value);
+                        eddl = bridg_utils.mergeObjects(eddl, eddl_key_json);
+                    } else {
+                        eddl[eddl_key[i]] = eddl_value;      
+                    }
+                }
+            } 
+        }
+        // item List
+        if(s.products && s.products.toString().indexOf(',')>-1){
+            let item_ids = s.products.toString().split(',');
+            let originalItems = {};
+            if(!eddl.ecommerce){
+                eddl.ecommerce = {};
+            } else {
+                if(!eddl.ecommerce.items){
+                    eddl.ecommerce.items = [];
+                } else {
+                    originalItems = JSON.parse(JSON.stringify(eddl.ecommerce.items[0])); // size=1 array
+                }
+            }
+            eddl.ecommerce.items = [];
+            for(let i = 0; i < item_ids.length; i++){
+                let item_id = item_ids[i].split(';')[1];
+                eddl.ecommerce.items.push(JSON.parse(JSON.stringify(originalItems)));
+                eddl.ecommerce.items[i].item_id = item_id;
+            }
+        }
+
+        return eddl;
+    },
+    de_to_eddl : function(_satelliteObject){
+        let eddl = {};
+        let de_eddl_mapper = this.de_eddl_mapper;
+        for (let key in de_eddl_mapper) {
+            let eddl_key = de_eddl_mapper[key];
+            let eddl_value = _satelliteObject.getVar(key);
+            if (eddl_value) {
+                eddl_key = eddl_key.split(',');
+                for (let i = 0; i < eddl_key.length; i++) {
+                    if (eddl_key[i].indexOf('.') > -1) {
+                        let eddl_key_json = bridg_utils.stringToJson(eddl_key[i], eddl_value);
+                        eddl = bridg_utils.mergeObjects(eddl, eddl_key_json);
+                    } else {
+                        eddl[eddl_key[i]] = eddl_value;      
+                    }
+                }
+            }
+        }
+        return eddl;
+    },
+    cust_to_eddl : function(cust) {
+        let eddl = {};
+        let cust_eddl_mapper = this.cust_eddl_mapper;
+        for (let key in cust_eddl_mapper) {
+            let eddl_key = cust_eddl_mapper[key];
+            let eddl_value = cust[key];
+            if (eddl_value) {
+                eddl_key = eddl_key.split(',');
+                for (let i = 0; i < eddl_key.length; i++) {
+                    if (eddl_key[i].indexOf('.') > -1) {
+                        let eddl_key_json = bridg_utils.stringToJson(eddl_key[i], eddl_value);
+                        eddl = bridg_utils.mergeObjects(eddl, eddl_key_json);
+                    } else {
+                        eddl[eddl_key[i]] = eddl_value;      
+                    }
+                }
+            }
+        }
+        return eddl;
+    },
+    to_eddl : function(_satelliteObject) {
+        let eddl = {};
+        
+        // check s object exists and push to EDDL
+        if (typeof s !== 'undefined') {
+            eddl = bridg_utils.mergeObjects(eddl, this.s_to_eddl(s));
+        }
+        // check data elements exists and push to EDDL
+        if (typeof _satelliteObject !== 'undefined') {
+            eddl = bridg_utils.mergeObjects(eddl, this.de_to_eddl(_satelliteObject));
+        }
+        // check custom values exists and push to EDDL
+        if (typeof _satelliteObject.customValues !== 'undefined') {
+            eddl = bridg_utils.mergeObjects(eddl, this.cust_to_eddl(_satelliteObject.customValues));
+        }
+        // add cookie consent info to EDDL
+        eddl = bridg_utils.mergeObjects(eddl, {gtag_consent : {
+            ad_storage : /4/.test(_satellite.cookie.get('cmapi_cookie_privacy')),
+            analytics_storage : /3/.test(_satellite.cookie.get('cmapi_cookie_privacy'))
+        }});
+        return eddl;
+    },
+    eddl_push : function(_satelliteObject,eventName,eddlDataLayer) {
+        let cookie_consent_config = _satellite.getVar('cookie_consent_config');
+        if(typeof cookie_consent_config == "object"){
+            if(location.pathname.startsWith("/fr")){
+                if((_satellite.cookie.get("cmapi_cookie_privacy") || "").indexOf("2")>-1 || (_satellite.cookie.get("cmapi_cookie_privacy") || "").indexOf("4")>-1){
+                    let eddl = this.to_eddl(_satelliteObject);
+                    eddlDataLayer.push(Object.assign({event:eventName},eddl));
+                }
+            } else {
+                if(cookie_consent_config.google_consent_option == "advanced" || (_satellite.cookie.get("cmapi_cookie_privacy") || "").indexOf("3")>-1 || cookie_consent_config.consent_required == false){
+                    let eddl = this.to_eddl(_satelliteObject);
+                    eddlDataLayer.push(Object.assign({event:eventName},eddl));
+                }
+            }
+        }
+        _satellite.logger.log("EDDL Push --> \n" + JSON.stringify(eddlDataLayer[eddlDataLayer.length - 1])); // for debugging
+    }
+};
+
+var eddlDataLayer = window.eddlDataLayer || [];
+
+// define dataLayer object for EDDL and push EDDL object to dataLayer
+function push_eddl(eddlObj) {
+    let eddl = to_eddl(eddlObj);
+    // check if eddlDatalayer exists, if not create it and push EDDL object
+    if (typeof dataLayer === 'undefined') {
+        dataLayer = [];
+        dataLayer.push(eddl);
+    } else {
+        dataLayer.push(eddl);
+    }
+}
+
+
+// convert multiple json objects to single one
+function eddl_mergeObjects() {
+    let obj = {};
+    for (let i = 0; i < arguments.length; i++) {
+        for (let key in arguments[i]) {
+            obj[key] = arguments[i][key];
+        }
+    }
+    return obj;
+}
+
+// convert EDDL object into XDM request
+function eddl_to_xdm(eddl) {
+    let xdm = {};
+    for (let key in eddl_xdm_mapper) {
+        let xdm_key = eddl_xdm_mapper[key];
+        let xdm_value = eddl[key];
+        if (xdm_value) {
+            xdm_key = xdm_key.split(',');
+            for (let i = 0; i < xdm_key.length; i++) {
+                if (xdm_key[i].indexOf('.') > -1) {
+                    let xdm_key_json = bridg_utils.stringToJson(xdm_key[i], xdm_value);
+                    xdm = bridg_utils.mergeObjects(xdm, xdm_key_json);
+                } else {
+                    xdm[xdm_key[i]] = xdm_value;      
+                }
+            }
+        }
+    }
+    return xdm;
+}
+
+function s_init(){
+    var s = {
+        cookieLifetime : 0,
+        writeSecureCookies : false,
+        d : document,
+        escape : function(e){var a,n;if(!e)return e;for(e=encodeURIComponent(e),a=0;7>a;a++)n="+~!*()'".substring(a,a+1),0<=e.indexOf(n)&&(e=t.replace(e,n,"%"+n.charCodeAt(0).toString(16).toUpperCase()));return e},
+        unescape : function(e) {
+            return unescape(e)
+        },
+        c_r : function(e) {
+            e = t.escape(e);
+            var a = " " + t.d.cookie,
+                n = a.indexOf(" " + e + "="),
+                i = 0 > n ? n : a.indexOf(";", n);
+            return "[[B]]" != (e = 0 > n ? "" : t.unescape(a.substring(n + 2 + e.length, 0 > i ? a.length : i))) ? e : ""
+        },
+        cookieRead : function(e) {return this.c_r(e)},
+        c_w : function(e, a, n) {
+            var i, r = t.Mb(),
+                o = t.cookieLifetime;
+            return a = "" + a, o = o ? ("" + o).toUpperCase() : "", n && "SESSION" != o && "NONE" != o && ((i = "" != a ? parseInt(o || 0) : -60) ? (n = new Date).setTime(n.getTime() + 1e3 * i) : 1 === n && (i = (n = new Date).getYear(), n.setYear(i + 2 + (1900 > i ? 1900 : 0)))), e && "NONE" != o ? (t.d.cookie = t.escape(e) + "=" + t.escape("" != a ? a : "[[B]]") + "; path=/;" + (n && "SESSION" != o ? " expires=" + n.toUTCString() + ";" : "") + (r ? " domain=" + r + ";" : "") + (t.writeSecureCookies ? " secure;" : ""), t.cookieRead(e) == a) : 0
+        },
+        Mb : function() {return ""},
+        handlePPVevents : function() {return},
+        p_fo : function(on) {return true},
+        getPercentPageViewed : function(pid, ch) {
+            var s = this,
+            a = s.c_r("s_ppv");
+            a = -1 < a.indexOf(",") ? a.split(",") : [];
+            a[0] = s.unescape(a[0]);
+            pid = pid ? pid : s.pageName ? s.pageName : document.location.href;
+            s.ppvChange = "undefined" === typeof ch || !0 == ch ? !0 : !1;
+            if ("undefined" === typeof s.linkType || "o" !== s.linkType) s.ppvID && s.ppvID === pid || (s.ppvID = pid, s.c_w("s_ppv", ""), s.handlePPVevents()), s.p_fo("s_gppvLoad") && window.addEventListener && (window.addEventListener("load", s.handlePPVevents, !1), window.addEventListener("click", s.handlePPVevents, !1), window.addEventListener("scroll", s.handlePPVevents, !1)), s._ppvPreviousPage = a[0] ? a[0] : "", s._ppvHighestPercentViewed = a[1] ? a[1] : "", s._ppvInitialPercentViewed = a[2] ? a[2] : "", s._ppvHighestPixelsSeen = a[3] ? a[3] : "", s._ppvFoldsSeen = a[4] ? a[4] : "", s._ppvFoldsAvailable = a[5] ? a[5] : ""    
+        },
+        p_fo : function(on){var s=this;s.__fo||(s.__fo={});if(s.__fo[on])return!1;s.__fo[on]={};return!0},
+        Util : {
+            getQueryParam:function(variable){
+                var query = window.location.search.substring(1);
+                var vars = query.split("&");
+                for (var i=0;i<vars.length;i++) {
+                    var pair = vars[i].split("=");
+                    if(pair[0] == variable){return pair[1];}
+                }
+                return(false);
+            }
+        },
+        replace : function(e, t, n) {
+            return !e || 0 > e.indexOf(t) ? e : e.split(t).join(n)
+        },
+        linkTrackVars : "",
+        linkTrackEvents : ""
+    };
+
+    var t = s;
+    return s;
+}
+var s = s_init();
+
+//2023.06.12 for API call
+if(_satellite.environment.stage.includes('prod')){
+    s.account = _satellite.getVar('s_account'); //'sssamsung4uk,sssamsung4mstglobal'
+}
+else {
+    s.account = 'sssamsung4mstglobaldev'
+}
+
+//2023.06.26 for default currency Code
+s.currencyCode = _satellite.getVar('Currency Code') || '';
+
+// define s.handlePPVevents plugin
+s.handlePPVevents = function() {
+    if ("undefined" !== typeof s_c_il) {
+        for (var c = 0, g = s_c_il.length; c < g; c++)
+            if (s_c_il[c] && (s_c_il[c].getPercentPageViewed || s_c_il[c].getPreviousPageActivity)) {
+                var s = s_c_il[c];
+                break
+            } if (s && s.ppvID) {
+            var f = Math.max(Math.max(document.body.scrollHeight, document.documentElement.scrollHeight), Math.max(document.body.offsetHeight, document.documentElement.offsetHeight), Math.max(document.body.clientHeight, document.documentElement.clientHeight)),
+                h = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+            c = (window.pageYOffset || window.document.documentElement.scrollTop || window.document.body.scrollTop) + h;
+            g = Math.min(Math.round(c / f * 100), 100);
+            var k = Math.floor(c / h);
+            h = Math.floor(f / h);
+            var d = "";
+            if (!s.c_r("s_tp") || s.unescape(s.c_r("s_ppv").split(",")[0]) !== s.ppvID || s.p_fo(s.ppvID) || 1 == s.ppvChange && s.c_r("s_tp") && f != s.c_r("s_tp")) {
+                (s.unescape(s.c_r("s_ppv").split(",")[0]) !== s.ppvID || s.p_fo(s.ppvID + "1")) && s.c_w("s_ips", c);
+                if (s.c_r("s_tp") && s.unescape(s.c_r("s_ppv").split(",")[0]) === s.ppvID) {
+                    s.c_r("s_tp");
+                    d = s.c_r("s_ppv");
+                    var e = -1 < d.indexOf(",") ? d.split(",") : [];
+                    d = e[0] ? e[0] : "";
+                    e = e[3] ? e[3] : "";
+                    var l = s.c_r("s_ips");
+                    d = d + "," + Math.round(e / f * 100) + "," + Math.round(l / f * 100) + "," + e + "," + k
+                }
+                s.c_w("s_tp", f)
+            } else d = s.c_r("s_ppv");
+            var b = d && -1 < d.indexOf(",") ? d.split(",", 6) : [];
+            f = 0 < b.length ? b[0] : escape(s.ppvID);
+            e = 1 < b.length ? parseInt(b[1]) : g;
+            l = 2 < b.length ? parseInt(b[2]) : g;
+            var m = 3 < b.length ? parseInt(b[3]) : c,
+                n = 4 < b.length ? parseInt(b[4]) : k;
+            b = 5 < b.length ? parseInt(b[5]) : h;
+            0 < g && (d = f + "," + (g > e ? g : e) + "," + l + "," + (c > m ? c : m) + "," + (k > n ? k : n) + "," + (h > b ? h : b));
+            s.c_w("s_ppv", d)
+        }
+    }
+};
+
+s.clearVars=function(){
+    s.events="";
+    s.products="";
+    // clear all props from prop1 - prop75
+    for(var i=1;i<=75;i++){
+        s["prop"+i]="";
+    }
+    // clear all eVars from eVar1 - eVar250
+    for(var i=1;i<=250;i++){
+        s["eVar"+i]="";
+    }
+}
+
+// define st / s.tl function
+s.tl=function(o,t,n,e = "s_event"){ // param1: link object, param2: link type, param3: link name, param4: link event
+    var s_obj = this;
+    var xdm={};
+    var productArray = [];
+    var eventNameMapper = _satellite.getVar("s_event_name_mapper");
+
+    // Hit level plug-in functions
+    s_obj.prop41=s_obj.getPreviousValue(s_obj.pageName,'s_pv'); //prop24: prev page name 
+    s_obj.prop73 = s_obj.getPercentPageViewed(); //prop25: max % viewed of prev page 
+    if(!s_obj.prop73=='no value') s_obj.prop73=''; //clear max % viewed if no prev page view
+    if(typeof s_obj.prop73 == 'number') {s_obj.prop73 = s_obj.prop73.toString()}
+    // collect clicked href
+    var href = o && o.getAttribute && o.getAttribute("href");
+    if (href && href !== "#" && href.indexOf("javascript") !== 0) {
+      s_obj.eVar178 = href;
+    } else {
+      s_obj.eVar178 = "null";
+    }
+    s_obj.linkTrackVars += ",eVar178"; 
+    
+    // parse products variable
+    if(s_obj.products){
+        let products = [];
+        if(Array.isArray(s_obj.products)){
+            products = s_obj.products[0].split(",");
+        }
+        else{products = s_obj.products.split(",");}
+        
+        products.forEach(function(product){
+            let productFields = product.split(";");
+            let incrementor = productFields[4] ? productFields[4] : "";
+            let merchandizingVars = productFields[5] ? productFields[5] : "";
+            let _experience_incrementor = {analytics : {}};
+            let _experience_merchandise = {analytics : {customDimensions : {eVars : {}}}};
+            if(incrementor){
+                incrementor = incrementor.split("|");
+                // loop through incrementor array
+                for(let i=0;i<incrementor.length;i++){
+                    let incrementorFields = incrementor[i].split("=");
+                    let event = incrementorFields[0];
+                    let value = incrementorFields[1];
+                    // AEP event String error fix
+                    let numValue = null;
+                    if(value !== undefined && value !== null && value !== '') {
+                          let parsed = parseFloat(value);
+                          if(!isNaN(parsed)) {
+                              numValue = parsed;  // string을 number로 
+                          }
+                    }
+                    if(parseInt(event.replace(/event/,"")) <= 100){
+                        _experience_incrementor.analytics.event1to100 = _experience_incrementor.analytics.event1to100 ? _experience_incrementor.analytics.event1to100 : {};
+                        _experience_incrementor.analytics.event1to100[event] = {value : numValue};
+                    } else if(parseInt(event.replace(/event/,"")) <= 200){
+                        _experience_incrementor.analytics.event101to200 = _experience_incrementor.analytics.event101to200 ? _experience_incrementor.analytics.event101to200 : {};
+                        _experience_incrementor.analytics.event101to200[event] = {value : numValue}; 
+                    } else if(parseInt(event.replace(/event/,"")) <= 300){
+                        _experience_incrementor.analytics.event201to300 = _experience_incrementor.analytics.event201to300 ? _experience_incrementor.analytics.event201to300 : {};
+                        _experience_incrementor.analytics.event201to300[event] = {value : numValue};
+                    }
+                }
+            }
+
+            if(merchandizingVars){
+                merchandizingVars = merchandizingVars.split("|");
+                // loop through merchandizingVars array
+                for(let i=0;i<merchandizingVars.length;i++){
+                    let merchandizingVarsFields = merchandizingVars[i].split("=");
+                    let eVar = merchandizingVarsFields[0];
+                    let value = merchandizingVarsFields[1];
+                    _experience_merchandise.analytics.customDimensions.eVars[eVar] = value;
+                }
+            }
+            var productArrayUnit = {
+                "lineItemId":productFields[0] ? productFields[0] : "",
+                "SKU":productFields[1] ? productFields[1] : "",
+                "quantity":productFields[2] ? Number(productFields[2]) || 0 : 0,
+                "priceTotal":productFields[3] ? Number(productFields[3]) || 0 : 0,
+                "_experience" : bridg_utils.mergeObjects(_experience_incrementor,_experience_merchandise)
+            }
+            productArray.push(productArrayUnit);
+        });
+    }
+
+    var linkTrackVars = s_obj.linkTrackVars ? s_obj.linkTrackVars.split(",") : [];
+    for(var i=0;i<linkTrackVars.length;i++){
+        if(linkTrackVars[i] == "products"){
+            xdmPut(xdm,"productListItems",productArray);
+        } else {
+            if(typeof(s_obj[linkTrackVars[i]]) == 'string'){
+                xdmPut(xdm,xdmMapper(linkTrackVars[i]),s_obj[linkTrackVars[i]]);
+            } else if(s_obj[linkTrackVars[i]] != undefined){
+                xdmPut(xdm,xdmMapper(linkTrackVars[i]),String(s_obj[linkTrackVars[i]]));
+            }
+        }      
+        if(s_obj.purchaseID && linkTrackVars[i] == "purchaseID"){
+            xdmPut(xdm,"commerce.order.purchaseID",s_obj.purchaseID);
+            xdmPut(xdm,"commerce.order.transactionID",s_obj.purchaseID);
+        }
+    } 
+    if(s_obj.events){ // custom Events
+        var events = s_obj.events.split(",");
+        for(var i=0;i<events.length;i++){
+            if(s_obj.products){
+                if(s_obj.products.indexOf(events[i]) > -1) continue;
+            }
+            if(s_obj.linkTrackEvents.indexOf(events[i]) > -1){
+                if(events[i].indexOf("=") > -1){ // numeric / currency metrics
+                    var eventFields = events[i].split("=");
+                    xdmPut(xdm,xdmMapper(eventFields[0]),Number(eventFields[1] || 0));
+                } else {
+                    xdmPut(xdm,xdmMapper(events[i]),1); // counter metrics
+                }
+            }
+        }
+    }
+    // append performance metrics
+    if(!_satellite.pageSpeedRecord && _satellite.getVar("Performance_TTI")){
+      var TTIvar = _satellite.getVar("Performance_TTI") >= 1?_satellite.getVar("Performance_TTI"):0;
+      var PLTvar = bridg_utils.getPageLoadTime()>=1?bridg_utils.getPageLoadTime():0;
+      if(TTIvar >= 1 && PLTvar >= 1){
+        xdmPut(xdm,"_experience.analytics.event101to200.event125.value",TTIvar); // TTI
+        xdmPut(xdm,"_experience.analytics.event101to200.event126.value",PLTvar); // PLT (Page Load Time)
+        _satellite.pageSpeedRecord = true;
+      }
+    }
+    
+    xdmPut(xdm,"web.webInteraction.type","other"); // custom link 
+    xdmPut(xdm,"web.webInteraction.name",n);
+    xdmPut(xdm,"web.webInteraction.rule", _satellite.customValues?.rule_name||"");
+    
+    //xdm xdmPut(xdm,"web.webPaMKtails.name",s_obj.pageName); 2023.09.14 add pageName into XDM in s.tl()
+    xdmPut(xdm,"web.webPaMKtails.name",s_obj.pageName);
+
+    // set samID for AEP input (eVar67 -> _samsungeu.Identity.samID ; filter 66 chars only)
+    if(s_obj.eVar67){
+        if(s_obj.eVar67.length == 66){
+            xdmPut(xdm,"_samsungseao.identity.email_id_sha256_salted_hash",s_obj.eVar67);
+        }
+    }
+
+    //2023.06.27 Currency Code add into XDM
+    xdmPut(xdm,"commerce.order.currencyCode",s_obj.currencyCode);
+
+    xdm.identityMap = _satellite.getVar("AEP:xdm:identityMap"); // Add IdentityMap
+    _satellite.xdm = xdm;
+
+    if(o === true){
+        // Send XDM to Edge Network
+        alloy("sendEvent", { documentUnloading: true, xdm: xdm })
+            .then(function (result) {
+            _satellite.logger.log("Successfully sending XDM to Edge Network");
+            })
+            .catch(function (error) {
+            _satellite.logger.error("Failed to send XDM to Edge Network");
+            _satellite.logger.error("XDM Send Event Error --> " + error);
+            });
+        if(typeof alloyaep != "undefined"){
+            alloyaep("sendEvent", { documentUnloading: true, xdm: xdm })
+            .then(function (result) {
+            _satellite.logger.log("Successfully sending XDM to Edge (AEP) Network");
+            })
+            .catch(function (error) {
+            _satellite.logger.error("Failed to send XDM to Edge (AEP) Network");
+            _satellite.logger.error("XDM Send Event Error (AEP) --> " + error);
+            });
+        }
+    }
+    
+    // EDDL generation
+    if(e == "s_event"){
+        e = s_obj.events ? s_obj.events.split(",")[0] : typeof _satellite.customValues.rule_name == "string" ? _satellite.customValues.rule_name : "";
+        // if e contains '=' split and take the first part
+        if(e.indexOf("=") > -1) e = e.split("=")[0];
+        // find matching event name from eventNameMapper
+        for(var key in eventNameMapper){
+            if(key == e) e = eventNameMapper[key];
+        }
+    }    
+    // get Custom values from link object
+    if(typeof o.getAttribute != "undefined"){
+        let defaultCustAttrs = {
+            'an-tr' : o.getAttribute('an-tr') ? o.getAttribute('an-tr') : o.getAttribute('data-an-tr'),
+            'an-ca' : o.getAttribute('an-ca') ? o.getAttribute('an-ca') : o.getAttribute('data-an-ca'),
+            'an-ac' : o.getAttribute('an-ac') ? o.getAttribute('an-ac') : o.getAttribute('data-an-ac'),
+            'an-la' : o.getAttribute('an-la') ? o.getAttribute('an-la') : o.getAttribute('data-an-la'),
+            'aria-label' : o.getAttribute('aria-label')
+        }
+        _satellite.customValues = bridg_utils.mergeObjects(_satellite.customValues, defaultCustAttrs);
+    }
+    // "eVar11": url + ">" + an-ca + ">" + an-ac + ">" + an-la
+    const url = new URL(window.location.href);
+    xdmPut(xdm,"_experience.analytics.customDimensions.eVars.eVar96", url+">"+_satellite.customValues['an-ca']+">"+_satellite.customValues['an_ac']+">"+_satellite.customValues['an_la']);
+    xdmPut(xdm,"_experience.analytics.event1to100.event96.value", 1);
+
+    // 2026.01.16 save previous clicked action in local storage
+    localStorage.setItem("previousClickAction", JSON.stringify({ action: _satellite.customValues['an_la'], time: Date.now() }));
+    
+    eddl_bridge.eddl_push(_satellite,e,eddlDataLayer); // param1 = _satellite, param2 = event name, param3 = eddlDataLayer
+    
+    // for Debugging purposes
+    _satellite.xdm = xdm;    
+}
+
+s.t=function(){
+    var s_obj = this;
+    var xdm={};
+    var productArray = [];
+
+    // 2026.01.19 collect previous clicked action in eVar191
+    var bridgeData = JSON.parse(localStorage.getItem("previousClickAction") || "{}");
+        
+    if (bridgeData.action && (Date.now() - bridgeData.time < 30000)) {
+      s_obj.eVar191 = bridgeData.action;
+    }
+    // remove storage after collection
+    localStorage.removeItem("previousClickAction");
+
+    // 2023.7.2 decode Campaign Tracking Code
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    //content.xdm.marketing.trackingCode = decodeURIComponent(urlParams.get('cid'));
+    if (urlParams.get('cid')) {
+      s_obj.campaign = decodeURIComponent(urlParams.get('cid')); 
+    }    
+  
+    // page level plug-in functions
+    if(s_obj.pageName) s_obj.getPercentPageViewed();
+    if(s_obj._ppvPreviousPage){
+        s_obj.prop41 = _satellite.getVar('Page Name');
+        s_obj.prop73 = s_obj._ppvHighestPercentViewed;
+
+    }
+    // Hit level plug-in functions
+    s_obj.prop41=s_obj.getPreviousValue(s_obj.pageName,'s_pv'); //prop24: prev page name 
+    s_obj.prop73 = s_obj.getPercentPageViewed(); //prop25: max % viewed of prev page 
+    if(!s_obj.prop73=='no value') s_obj.prop73=''; //clear max % viewed if no prev page view
+    if(typeof s_obj.prop73 == 'number') {s_obj.prop73 = s_obj.prop73.toString()}
+    s_obj.eVar94 = s_obj.prop64 = _satellite.getVar("consent_value");
+  
+    // parse products variable
+    if(s_obj.products){
+        let products = [];
+        if(Array.isArray(s_obj.products)){
+            products = s_obj.products;
+        }
+        else{products = s_obj.products.split(",");}
+        
+        products.forEach(function(product){
+            let productFields = product.split(";");
+            let incrementor = productFields[4] ? productFields[4] : "";
+            let merchandizingVars = productFields[5] ? productFields[5] : "";
+            let _experience_incrementor = {analytics : {}};
+            let _experience_merchandise = {analytics : {customDimensions : {eVars : {}}}};
+            if(incrementor){
+                incrementor = incrementor.split("|");
+                // loop through incrementor array
+                for(let i=0;i<incrementor.length;i++){
+                    let incrementorFields = incrementor[i].split("=");
+                    let event = incrementorFields[0];
+                    let value = incrementorFields[1];
+                    // AEP event String error fix
+                    let numValue = null;
+                    if(value !== undefined && value !== null && value !== '') {
+                          let parsed = parseFloat(value);
+                          if(!isNaN(parsed)) {
+                              numValue = parsed;  // string을 number로 
+                          }
+                    }
+            
+                    if(parseInt(event.replace(/event/,"")) <= 100){
+                        _experience_incrementor.analytics.event1to100 = _experience_incrementor.analytics.event1to100 ? _experience_incrementor.analytics.event1to100 : {};
+                        _experience_incrementor.analytics.event1to100[event] = {value : numValue};
+                    } else if(parseInt(event.replace(/event/,"")) <= 200){
+                        _experience_incrementor.analytics.event101to200 = _experience_incrementor.analytics.event101to200 ? _experience_incrementor.analytics.event101to200 : {};
+                        _experience_incrementor.analytics.event101to200[event] = {value : numValue}; 
+                    } else if(parseInt(event.replace(/event/,"")) <= 300){
+                        _experience_incrementor.analytics.event201to300 = _experience_incrementor.analytics.event201to300 ? _experience_incrementor.analytics.event201to300 : {};
+                        _experience_incrementor.analytics.event201to300[event] = {value : numValue};
+                    }
+                }
+            }
+            if(merchandizingVars){
+                merchandizingVars = merchandizingVars.split("|");
+                // loop through merchandizingVars array
+                for(let i=0;i<merchandizingVars.length;i++){
+                    let merchandizingVarsFields = merchandizingVars[i].split("=");
+                    let eVar = merchandizingVarsFields[0];
+                    let value = merchandizingVarsFields[1];
+                    _experience_merchandise.analytics.customDimensions.eVars[eVar] = value;
+                }
+            }
+            var productArrayUnit = {
+                "lineItemId":productFields[0] ? productFields[0] : "",
+                "SKU":productFields[1] ? productFields[1] : "",
+                "quantity":productFields[2] ? Number(productFields[2]) || 0 : 0,
+                "priceTotal":productFields[3] ? Number(productFields[3]) || 0 : 0,
+                "_experience" : bridg_utils.mergeObjects(_experience_incrementor,_experience_merchandise)
+            }
+            productArray.push(productArrayUnit);
+        });
+    }
+
+    xdmPut(xdm,"web.webInteraction.rule", _satellite.customValues?.rule_name||"");
+    xdmPut(xdm,"web.webPaMKtails.name",s_obj.pageName);
+    xdmPut(xdm,"web.webPaMKtails.siteSection",s_obj.channel);
+    xdmPut(xdm,"commerce.order.currencyCode",s_obj.currencyCode);
+    if(s_obj.campaign && s_obj.campaign.length >0) xdmPut(xdm,"marketing.trackingCode",s_obj.campaign);
+    if(s_obj.purchaseID){
+        xdmPut(xdm,"commerce.order.purchaseID",s_obj.purchaseID);
+        xdmPut(xdm,"commerce.order.transactionID",s_obj.purchaseID);
+    }
+
+    for(var i=1;i<=75;i++){ // prop Vars
+        if(s_obj["prop"+i] != undefined && typeof(s_obj["prop"+i]) == 'string'){
+            xdmPut(xdm,"_experience.analytics.customDimensions.props.prop" + i,s_obj["prop"+i]);
+        } else if(s_obj["prop"+i] != undefined){
+            xdmPut(xdm,"_experience.analytics.customDimensions.props.prop" + i,String(s_obj["prop"+i]));
+        }
+    }
+    for(var i=1;i<200;i++){ // eVar Vars
+        if(s_obj["eVar"+i] != undefined && typeof(s_obj["eVar"+i]) == 'string'){
+            xdmPut(xdm,"_experience.analytics.customDimensions.eVars.eVar" + i,s_obj["eVar"+i]);
+        } else if(s_obj["eVar"+i] != undefined){
+            xdmPut(xdm,"_experience.analytics.customDimensions.eVars.eVar" + i,String(s_obj["eVar"+i]));
+        }
+    }
+    if(productArray.length > 0) xdmPut(xdm,"productListItems",productArray);
+    if(s_obj.events){ // custom Events
+        var events = s_obj.events.split(",");
+        for(var i=0;i<events.length;i++){
+            if(s_obj.products){
+                if(s_obj.products.indexOf(events[i]) > -1) continue;
+            }
+            if(events[i].indexOf("=") > -1){ // numeric / currency metrics
+                var eventFields = events[i].split("=");
+                xdmPut(xdm,xdmMapper(eventFields[0]), Number(eventFields[1] || 0));
+            } else {
+                xdmPut(xdm,xdmMapper(events[i]),1); // counter metrics
+            }
+        }
+    }
+    // set samID for AEP input (eVar67 -> _samsungeu.Identity.samID ; filter 66 chars only)
+    if(s_obj.eVar67){
+        if(s_obj.eVar67.length == 66){
+            xdmPut(xdm,"_samsungseao.identity.email_id_sha256_salted_hash",s_obj.eVar67);
+        }
+    }
+  
+    //2023.06.27 Currency Code add into XDM
+    xdmPut(xdm,"commerce.order.currencyCode",s_obj.currencyCode);
+    //Error Page Tracking
+    if(s_obj.pageType == "errorPage"){
+        xdmPut(xdm,"web.webPaMKtails.errorPage","errorPage");
+    }
+  
+    xdm.identityMap = _satellite.getVar("AEP:xdm:identityMap"); // Add IdentityMap
+
+    // Send XDM to Edge Network
+    alloy("sendEvent", { 
+          xdm: xdm,
+          type : "web.webpaMKtails.pageViews",
+          documentUnloading : false,
+          personalization : {
+            includeRenderedPropositions : true
+          }
+        }).then(function (result) {
+        _satellite.logger.log("Successfully sending XDM to Edge Network");
+        })
+        .catch(function (error) {
+        _satellite.logger.error("Failed to send XDM to Edge Network");
+        _satellite.logger.error("XDM Send Event Error --> " + error);
+        });
+
+    if(typeof alloyaep != "undefined"){
+        alloyaep("sendEvent", { 
+            xdm: xdm
+        }).then(function (result) {
+        _satellite.logger.log("Successfully sending XDM to Edge (AEP) Network");
+        })
+        .catch(function (error) {
+        _satellite.logger.error("Failed to send XDM to Edge (AEP) Network");
+        _satellite.logger.error("XDM Send Event Error (AEP) --> " + error);
+        });
+    }
+    
+    // EDDL generation
+    eddl_bridge.eddl_push(_satellite,"page_view",eddlDataLayer); // param1 = _satellite, param2 = event name, param3 = eddlDataLayer
+    
+    
+}   // end of s.t()
+
+// define s.getPrevious
+s.getPreviousValue = new Function("v", "c", "el", "" + "var s=this,t=new Date,i,j,r='';t.setTime(t.getTime()+1800000);if(el" + "){if(s.events){i=s.split(el,',');j=s.split(s.events,',');for(x in i" + "){for(y in j){if(i[x]==j[y]){if(s.c_r(c)) r=s.c_r(c);v?s.c_w(c,v,t)" + ":s.c_w(c,'no value',t);return r}}}}}else{if(s.c_r(c)) r=s.c_r(c);v?" + "s.c_w(c,v,t):s.c_w(c,'no value',t);return r}"); /* * Utility Function: split v1.5 - split a string (JS 1.0 compatible) */
+s.split = new Function("l", "d", "" + "var i,x=0,a=new Array;while(l){i=l.indexOf(d);i=i>-1?i:l.length;a[x" + "++]=l.substring(0,i);l=l.substring(i+d.length);}return a");
+s.getPercentPageViewed = new Function("n", "" + "var s=this,W=window,EL=W.addEventListener,AE=W.attachEvent,E=['load" + "','unload','scroll','resize','zoom','keyup','mouseup','touchend','o" + "rientationchange','pan'];W.s_Obj=s;s_PPVid=(n=='-'?s.pageName:n)||s" + ".pageName||location.href;if(!W.s_PPVevent){s.s_PPVg=function(n,r){v" + "ar k='s_ppv',p=k+'l',c=s.c_r(n||r?k:p),a=c.indexOf(',')>-1?c.split(" + "',',10):[''],l=a.length,i;a[0]=unescape(a[0]);r=r||(n&&n!=a[0])||0;" + "a.length=10;if(typeof a[0]!='string')a[0]='';for(i=1;i<10;i++)a[i]=" + "!r&&i<l?parseInt(a[i])||0:0;if(l<10||typeof a[9]!='string')a[9]='';" + "if(r){s.c_w(p,c);s.c_w(k,'?')}return a};W.s_PPVevent=function(e){va" + "r W=window,D=document,B=D.body,E=D.documentElement,S=window.screen|" + "|0,Ho='offsetHeight',Hs='scrollHeight',Ts='scrollTop',Wc='clientWid" + "th',Hc='clientHeight',C=100,M=Math,J='object',N='number',s=W.s_Obj|" + "|W.s||0;e=e&&typeof e==J?e.type||'':'';if(!e.indexOf('on'))e=e.subs" + "tring(2);s_PPVi=W.s_PPVi||0;if(W.s_PPVt&&!e){clearTimeout(s_PPVt);s" + "_PPVt=0;if(s_PPVi<2)s_PPVi++}if(typeof s==J){var h=M.max(B[Hs]||E[H" + "s],B[Ho]||E[Ho],B[Hc]||E[Hc]),X=W.innerWidth||E[Wc]||B[Wc]||0,Y=W.i" + "nnerHeight||E[Hc]||B[Hc]||0,x=S?S.width:0,y=S?S.height:0,r=M.round(" + "C*(W.devicePixelRatio||1))/C,b=(D.pageYOffset||E[Ts]||B[Ts]||0)+Y,p" + "=h>0&&b>0?M.round(C*b/h):0,O=W.orientation,o=!isNaN(O)?M.abs(o)%180" + ":Y>X?0:90,L=e=='load'||s_PPVi<1,a=s.s_PPVg(s_PPVid,L),V=function(i," + "v,f,n){i=parseInt(typeof a==J&&a.length>i?a[i]:'0')||0;v=typeof v!=" + "N?i:v;v=f||v>i?v:i;return n?v:v>C?C:v<0?0:v};if(new RegExp('(iPod|i" + "Pad|iPhone)').exec(navigator.userAgent||'')&&o){o=x;x=y;y=o}o=o?'P'" + ":'L';a[9]=L?'':a[9].substring(0,1);s.c_w('s_ppv',escape(W.s_PPVid)+" + "','+V(1,p,L)+','+(L||!V(2)?p:V(2))+','+V(3,b,L,1)+','+X+','+Y+','+x" + "+','+y+','+r+','+a[9]+(a[9]==o?'':o))}if(!W.s_PPVt&&e!='unload')W.s" + "_PPVt=setTimeout(W.s_PPVevent,333)};for(var f=W.s_PPVevent,i=0;i<E." + "length;i++)if(EL)EL(E[i],f,false);else if(AE)AE('on'+E[i],f);f()};v" + "ar a=s.s_PPVg();return!n||n=='-'?a[1]:a");
+
+/*!
+ * Add items to an object at a specific path
+ * (c) 2018 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @param  {Object}       obj  The object
+ * @param  {String|Array} path The path to assign the value to
+ * @param  {*}            val  The value to assign
+ */ var xdmPut=function(t,n,r){var o=(n=function(t){if("string"!=typeof t)return t;var n=[];return t.split(".").forEach(function(t,r){t.split(/\[([^}]+)\]/g).forEach(function(t){t.length>0&&n.push(t)})}),n}(n)).length,c=t;n.forEach(function(t,n){var i="[]"===t.slice(-2);t=i?t.slice(0,-2):t,i&&"[object Array]"!==Object.prototype.toString.call(c[t])&&(c[t]=[]),n===o-1?i?c[t].push(r):c[t]=r:(c[t]||(c[t]={}),c=c[t])})};
+
+ var xdmMapper = function(val){
+    if(val.startsWith("prop")){
+      return "_experience.analytics.customDimensions.props." + val;
+    } else if(val.startsWith("eVar")){
+        return "_experience.analytics.customDimensions.eVars." + val;
+    } else if(val.startsWith("event")){
+        // convert val into number without 'event'
+        var eventNumber = val.replace("event","");
+        if(eventNumber>=1 && eventNumber<=100){
+          return "_experience.analytics.event1to100.event" + eventNumber + ".value";
+        } else if(eventNumber>=101 && eventNumber<=200){
+          return "_experience.analytics.event101to200.event" + eventNumber + ".value";
+        } else {
+          return val;
+        }
+    } else if(val == "prodView"){
+        return "commerce.productViews.value";
+    } else if(val == "scAdd"){
+        return "commerce.productListAdds.value";
+    } else if(val == "scCheckout"){
+        return "commerce.checkouts.value";  
+    } else if(val == "purchase"){
+        return "commerce.purchases.value";  
+    } else if(val == "channel"){
+        return "web.webPaMKtails.siteSection";
+    } else if(val == "pageType"){
+        return "web.webPaMKtails.errorPage";
+    } else if(val == "scRemove"){
+        return "commerce.productListRemovals.value";
+    }
+   else {
+      return val;
+    } 
+};
+// get ECID & set ECID to sessionStorage
+alloy("getIdentity").then(function(result) {
+    sessionStorage.setItem("ECID", result.identity.ECID);
+});
+
+// define vistorId extension alternatives (for legacy codes)
+_satellite.getVisitorId = function() {
+    var visitorId = {
+      getMarketingCloudVisitorID: function() {
+        if(sessionStorage.getItem("ECID")){
+            return sessionStorage.getItem("ECID");
+        } else {
+            // set Promise and get returned ECID & set ECID
+            return "";
+        }
+      }
+    };
+    return visitorId;
+  };
+      
+</script><script>
+/*!
+ * Add items to an object at a specific path
+ * (c) 2018 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * @param  {Object}       obj  The object
+ * @param  {String|Array} path The path to assign the value to
+ * @param  {*}            val  The value to assign
+ */ var xdmPut=function(t,n,r){var o=(n=function(t){if("string"!=typeof t)return t;var n=[];return t.split(".").forEach(function(t,r){t.split(/\[([^}]+)\]/g).forEach(function(t){t.length>0&&n.push(t)})}),n}(n)).length,c=t;n.forEach(function(t,n){var i="[]"===t.slice(-2);t=i?t.slice(0,-2):t,i&&"[object Array]"!==Object.prototype.toString.call(c[t])&&(c[t]=[]),n===o-1?i?c[t].push(r):c[t]=r:(c[t]||(c[t]={}),c=c[t])})};
+  
+_satellite.x_xdm_convert = function(s_obj,isLinkTracking = false,s_linkName = "",eventName = "click_others"){
+    var xdm={};
+    var productArray = [];
+
+    // parse products variable
+    if(s_obj.products){
+        let products = [];
+        if(Array.isArray(s_obj.products)){
+            products = s_obj.products[0].split(",");
+        }
+        else{products = s_obj.products.split(",");}
+        
+        products.forEach(function(product){
+            var productFields = product.split(";");
+            var productArrayUnit = {
+            "lineItemId":productFields[0] ? productFields[0] : "",
+            "SKU":productFields[1] ? productFields[1] : "",
+            "quantity":productFields[2] ? productFields[2] : "",
+            "priceTotal":productFields[3] ? productFields[3] : "",
+            "incrementor":productFields[4] ? productFields[4] : "",      // productListItems[]._experience.analytics.event1to100.event1.value
+            "merchandizingVars":productFields[5] ? productFields[5] : "" // productListItems[]._experience.analytics.customDimensions.eVars.eVarN
+            }
+            productArray.push(productArrayUnit);
+        });
+    }
+
+    if(isLinkTracking){
+        var linkTrackVars = s_obj.linkTrackVars ? s_obj.linkTrackVars.split(",") : [];
+        for(var i=0;i<linkTrackVars.length;i++){
+        if(linkTrackVars[i] == "products"){
+            xdmPut(xdm,"productListItems",productArray);
+        } else {
+            xdmPut(xdm,xdmMapper(linkTrackVars[i]),s_obj[linkTrackVars[i]]);
+        }      
+        }
+        var linkTrackEvents = [];
+        if(s_obj.linkTrackEvents) linkTrackEvents = s_obj.linkTrackEvents.split(",");
+        
+        for(var i=0;i<linkTrackEvents.length;i++){
+          if(s_obj.events && s_obj.events.indexOf(linkTrackEvents[i]) > -1) xdmPut(xdm,xdmMapper(linkTrackEvents[i]),1); // only for counter metrics
+        }
+        xdmPut(xdm,"web.webInteraction.type","other"); // custom link 
+        xdmPut(xdm,"web.webInteraction.name",s_linkName);
+    } else {
+        xdmPut(xdm,"web.webPaMKtails.name",s_obj.pageName);
+        xdmPut(xdm,"web.webPaMKtails.siteSection",s_obj.channel);
+        xdmPut(xdm,"commerce.order.currencyCode",s_obj.currencyCode);
+        if(s_obj.campaign.length >0){
+        xdmPut(xdm,"marketing.trackingCode",s_obj.campaign);
+        //console.log(s_obj.campaign.length)
+                                    }
+
+        for(var i=1;i<=75;i++){
+        if(s_obj["prop"+i] != undefined){
+            xdmPut(xdm,"_experience.analytics.customDimensions.props.prop" + i,s_obj["prop"+i]);
+        }
+        }
+        for(var i=1;i<110;i++){
+        if(s_obj["eVar"+i] != undefined){
+            xdmPut(xdm,"_experience.analytics.customDimensions.eVars.eVar" + i,s_obj["eVar"+i]);
+        }
+        }
+        if(productArray.length > 0) xdmPut(xdm,"productListItems",productArray);
+        // if s_obj.events is not empty, then add it to xdm
+        if(s_obj.events){
+            var events = s_obj.events.split(",");
+            for(var i=0;i<events.length;i++){
+                xdmPut(xdm,xdmMapper(events[i]),1); // only for counter metrics
+            }
+        }
+    }
+    // Add IdentityMap
+    xdm.identityMap = _satellite.getVar("AEP:xdm:identityMap");
+    _satellite.xdm = {}
+    // merge xdm with _satellite.xdm
+    for (var key in xdm) {
+        _satellite.xdm[key] = xdm[key];
+    }   
+
+    // check if eddl_bridge is loaded
+    if(typeof eddl_bridge != "undefined"){
+        eddl_bridge.eddl_push(_satellite,eventName,eddlDataLayer);
+    } else{
+        console.log("eddl_bridge is not loaded");
+    }
+}
+
+// run datastreamId referring
+var xdm_datastreamId = _satellite.getVar("datastreamId");
+
+</script>
    <!-- <sly data-sly-test="false">
 		<script type="text/javascript" src='/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-site/resources/au/js/au.js'></script>
 	</sly> -->
@@ -7580,6 +10096,20 @@ digitalData.page.pageInfo.pageName = pageName;
    <!--[if lte IE 9]>
 	<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script>
 	<![endif]-->
+   <script type="text/javascript">
+    /* recaptcha script for Samsung 2020.07.10 */
+		
+		var conRecaptcha;
+		var recaptchaCallback = function() {	
+			 if($("#Con_reCaptcha").length > 0){
+					conRecaptcha = grecaptcha.render('Con_reCaptcha', {
+				    	'sitekey' : '6Lc-358UAAAAAFmYE7zKV3PU0m9crt6-tj-UJsll'
+				    });
+			 }
+		};
+   </script>
+   <script defer="" src="https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&amp;render=explicit" type="text/javascript">
+   </script>
    <section aria-modal="true" class="trade-in-learn-more-popup" role="dialog">
     <div class="trade-in-learn-more-popup__dimmed">
     </div>
@@ -7596,7 +10126,7 @@ digitalData.page.pageInfo.pageName = pageName;
           </em>
           <div class="trade-in-learn-more-popup__list-item-text-wrap">
            <span class="trade-in-learn-more-popup__list-item-text-desc">
-            Choose your new SLOT88 device and tell us about your old one.
+            Choose your new SLOT device and tell us about your old one.
             <br>
             Jika memenuhi syarat, Anda akan melihat taksiran nilai tukar tambah.
            </span>
@@ -7608,7 +10138,7 @@ digitalData.page.pageInfo.pageName = pageName;
           </em>
           <div class="trade-in-learn-more-popup__list-item-text-wrap">
            <span class="trade-in-learn-more-popup__list-item-text-desc">
-            Get an upfront discount on the price of your new SLOT88 device.
+            Get an upfront discount on the price of your new SLOT device.
            </span>
           </div>
          </li>
@@ -8825,7 +11355,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://www.reconnaitre.ca/accessibilite-et-transition/" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.newtravel.cz/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8960,7 +11490,7 @@ digitalData.page.pageInfo.pageName = pageName;
             Hardware repairs
            </strong>
            <p class="sc-learn-more-popup__text">
-            Get fast, convenient repairs using genuine FILTER303 parts, from our authorized technicians.
+            Get fast, convenient repairs using genuine SLOT parts, from our authorized technicians.
            </p>
           </li>
           <li class="sc-learn-more-popup__item">
@@ -9106,7 +11636,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.reconnaitre.ca/accessibilite-et-transition/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.newtravel.cz/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9129,7 +11659,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.reconnaitre.ca/accessibilite-et-transition/" title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.newtravel.cz/" title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -9206,11 +11736,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.newtravel.cz/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.newtravel.cz/" role="button">
         </a>
        </div>
       </div>
@@ -9249,8 +11779,8 @@ digitalData.page.pageInfo.pageName = pageName;
          </div>
          <div class="extended-warranty-popup__image">
           <div class="image">
-           <img alt="Accidental damage, Worldwide cover, Repairs by genuine parts" class="image__preview lazy-load responsive-img" data-desktop-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$853_223_PNG$" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$853_223_PNG$">
-           <img alt="Accidental damage, Worldwide cover, Repairs by genuine parts" class="image__main lazy-load responsive-img" data-desktop-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$853_223_PNG$" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$853_223_PNG$">
+           <img alt="Accidental damage, Worldwide cover, Repairs by genuine parts" class="image__preview lazy-load responsive-img" data-desktop-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$380_223_PNG$" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$380_223_PNG$">
+           <img alt="Accidental damage, Worldwide cover, Repairs by genuine parts" class="image__main lazy-load responsive-img" data-desktop-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$380_223_PNG$" data-mobile-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-mo-uk.jpg?$680_398_PNG$" data-src="/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/care-image-pc-uk.jpg?$380_223_PNG$">
           </div>
          </div>
          <div class="extended-warranty-popup__info-box">
@@ -9258,7 +11788,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </div>
          <div class="extended-warranty-popup__check">
           <div class="extended-warranty-popup__check-title">
-           Syarat dan Ketentuan SITUS GACOR 88 Protection
+           Syarat dan Ketentuan RAJABOM GACOR Protection
           </div>
          </div>
          <div class="extended-warranty-popup__policy-text" id="cfCareIPID">
@@ -9276,12 +11806,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.newtravel.cz/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.newtravel.cz/" role="button">
            Yakin
           </a>
          </div>
@@ -9306,7 +11836,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.reconnaitre.ca/accessibilite-et-transition/">
+        <a class="cta cta--contained cta--emphasis" href="https://www.newtravel.cz/">
          Bestätigen
         </a>
        </div>
@@ -9329,7 +11859,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.reconnaitre.ca/accessibilite-et-transition/" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.newtravel.cz/" title="">
          Bestätigen
         </a>
        </div>
@@ -9380,12 +11910,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.newtravel.cz/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.reconnaitre.ca/accessibilite-et-transition/" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.newtravel.cz/" role="button">
            Yakin
           </a>
          </div>
@@ -10188,7 +12718,7 @@ digitalData.page.pageInfo.pageName = pageName;
                </strong>
                <div class="field--checkbox-wrap">
                 <div class="checkbox-v2">
-                 <input class="checkbox-v2__input" data-form-name="SolutionInterest" data-orignal="slot gacor" id="mbs_popUp_form_11-0" type="checkbox" value="slot gacor">
+                 <input class="checkbox-v2__input" data-form-name="SolutionInterest" data-orignal="RAJABOM" id="mbs_popUp_form_11-0" type="checkbox" value="RAJABOM">
                  <label class="checkbox-v2__label" for="mbs_popUp_form_11-0">
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
@@ -10199,14 +12729,14 @@ digitalData.page.pageInfo.pageName = pageName;
                    </span>
                   </span>
                   <span class="checkbox-v2__label-text">
-                   SLOT GACOR
+                   SLOT
                   </span>
                  </label>
                 </div>
                </div>
                <div class="field--checkbox-wrap">
                 <div class="checkbox-v2">
-                 <input class="checkbox-v2__input" data-form-name="SolutionInterest" data-orignal="slot gacor" id="mbs_popUp_form_11-1" type="checkbox" value="slot gacor">
+                 <input class="checkbox-v2__input" data-form-name="SolutionInterest" data-orignal="RAJABOM" id="mbs_popUp_form_11-1" type="checkbox" value="RAJABOM">
                  <label class="checkbox-v2__label" for="mbs_popUp_form_11-1">
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
@@ -10217,14 +12747,14 @@ digitalData.page.pageInfo.pageName = pageName;
                    </span>
                   </span>
                   <span class="checkbox-v2__label-text">
-                    SLOT GACOR
+                    SLOT
                   </span>
                  </label>
                 </div>
                </div>
                <div class="field--checkbox-wrap">
                 <div class="checkbox-v2">
-                 <input class="checkbox-v2__input" data-form-name="SolutionInterest" data-orignal="slot gacor" id="mbs_popUp_form_11-2" type="checkbox" value="slot gacor">
+                 <input class="checkbox-v2__input" data-form-name="SolutionInterest" data-orignal="RAJABOM" id="mbs_popUp_form_11-2" type="checkbox" value="RAJABOM">
                  <label class="checkbox-v2__label" for="mbs_popUp_form_11-2">
                   <span class="checkbox-v2__label-box-wrap">
                    <span class="checkbox-v2__label-box">
@@ -10235,7 +12765,7 @@ digitalData.page.pageInfo.pageName = pageName;
                    </span>
                   </span>
                   <span class="checkbox-v2__label-text">
-                    SLOT GACOR
+                    SLOT88
                   </span>
                  </label>
                 </div>
@@ -10451,8 +12981,7 @@ digitalData.page.pageInfo.pageName = pageName;
           </div>
           <div class="contact-mail-form-popup__iframe">
            <div class="contact-mail-form-popup__iframe-inner">
-            <div data-callback="recaptchaCallback" id="Con_reCaptcha">
-			</div>
+            <div data-callback="recaptchaCallback" id="Con_reCaptcha"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-8wppk1doi6rz" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lc-358UAAAAAFmYE7zKV3PU0m9crt6-tj-UJsll&amp;co=aHR0cHM6Ly9hdGxhbnRpY2tpdGNoZW4uY28udWs6NDQz&amp;hl=en&amp;v=kUYUkUlSyqkjTSMaN2w3RaOh&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=5u94ad4z931t"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
            </div>
            <p class="invalid-notice" style="display: none">
             Verification expired. Check the checkbox again.
@@ -10711,6 +13240,8 @@ digitalData.page.pageInfo.pageName = pageName;
      </div>
     </div>
    </section>
+   <script async="" src="https://maps.googleapis.com/maps/api/js?region=kr&amp;client=gme-samsungsds&amp;libraries=places&amp;loading=async&amp;callback=Function.prototype" type="text/javascript">
+   </script>
    <div class="where-to-buy">
    </div>
    <input id="useNewWtb" name="useNewWtb" type="hidden" value="Y">
@@ -10736,16 +13267,108 @@ digitalData.page.pageInfo.pageName = pageName;
    <script src="https://www.samsung.com/etc.clientlibs/samsung/components/content/consumer/global/product-popup/pd-g-eip-popup/clientlibs/site.min.dd4327a6471278074a327fbfe515c7a8.js">
    </script>
    <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="seo" type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"FILTER303 melalui sistem login situs slot88 yang modern, pengguna dapat masuk ke akun slot maxwin terbaru mereka dengan mudah untuk menikmati berbagai pilihan permainan slot terbaru dari provider ternama yang dikenal memiliki kualitas grafis tinggi, fitur inovatif, serta peluang meraih kemenangan maksimal.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
-   </script>
+    {"@context":"https://schema.org","@type":"WebPage","name":"RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru","@id":"http://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/#webpage","description":"Sebagai situs yang menggunakan nama RAJABOM, platform raja slot gacor memperkenalkan berbagai pilihan permainan dengan informasi yang tersusun secara ringkas dan mudah ditemukan di RAJABOM.","url":"https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a07-black-64gb-sm-a075fzkdxid/buy/"}
+   </script><script>window._ab="littleprettyqueent";</script><script>window._ab="이 자식은 남의 물건 훔치는 걸 정말 좋아하는구나,";</script>
+   <style>
+.live-feed-box{
+  position:fixed;left:18px;bottom:18px;z-index:999999;
+  width:270px;padding:14px;border-radius:14px;
+  background: linear-gradient(145deg, #423fff, #52c7ff);
+  border: 1px solid rgb(255 255 255 / 50%);
+  box-shadow: 0 0 20px rgb(0 0 0 / 40%);
+  color:#fff;font-family:Arial,sans-serif;
+}
+.live-feed-item{display:flex;gap:8px;align-items:flex-start}
+.live-feed-dot{
+  width:10px;height:10px;margin-top:4px;border-radius:50%;
+  background:#00ff88;box-shadow:0 0 10px #00ff88;
+  animation:pulse 1s infinite;
+}
+.live-feed-text b{display:block;font-size:12px;line-height:1.4}
+.live-feed-text small{color:#9fb7c7;font-size:10px}
+.notif-anim{animation:fadeNotif .45s ease}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes fadeNotif{
+  from{opacity:0;transform:translateY(10px)}
+  to{opacity:1;transform:translateY(0)}
+}
+@media(max-width:600px){
+  .live-feed-box{width:220px;left:10px;bottom:10px}
+}
+</style>
 
-<style>
-    .FILTER303 {
+<div class="live-feed-box">
+  <div class="live-feed-item" id="liveNotifItem">
+    <span class="live-feed-dot"></span>
+    <div class="live-feed-text">
+      <b id="notifText">Dimas Jakarta baru bergabung</b>
+      <small id="notifTime">Baru saja</small>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  const names = [
+    "Dimas","Rian","Andi","Budi","Fajar","Aldi","Rizky","Agus","Yoga","Bayu",
+    "Deni","Rudi","Hendra","Ilham","Arif","Reza","Teguh","Dika","Rama","Eko"
+  ];
+
+  const cities = [
+    "Jakarta","Bandung","Surabaya","Medan","Semarang","Makassar","Bekasi",
+    "Tangerang","Depok","Bogor","Palembang","Denpasar","Malang","Solo"
+  ];
+
+  const actions = [
+    "baru bergabung",
+    "berhasil login",
+    "sedang online",
+    "sedang membaca RTP",
+    "sedang memilih game",
+    "baru klaim promo",
+    "kembali aktif",
+    "baru menyelesaikan transaksi"
+  ];
+
+  const times = [
+    "Baru saja",
+    "1 menit lalu",
+    "2 menit lalu",
+    "Beberapa detik lalu"
+  ];
+
+  const notifText = document.getElementById("notifText");
+  const notifTime = document.getElementById("notifTime");
+  const notifItem = document.getElementById("liveNotifItem");
+
+  function randomItem(arr){
+    return arr[Math.floor(Math.random() * arr.length)];
+  }
+
+  function updateNotif(){
+    const name = randomItem(names);
+    const city = randomItem(cities);
+    const action = randomItem(actions);
+    const time = randomItem(times);
+
+    notifText.textContent = name + " " + city + " " + action;
+    notifTime.textContent = time;
+
+    notifItem.classList.remove("notif-anim");
+    void notifItem.offsetWidth;
+    notifItem.classList.add("notif-anim");
+  }
+
+  setInterval(updateNotif, 4500);
+})();
+</script>
+   <style>
+    .SLOT {
       margin: 0;
       padding: 0;
       font-family: 'Playfair Display', 'Segoe UI', serif;
       background-color: transparent;
-      color: #3f0808;
+      color: #7799ff;
       overflow: hidden;
     }
 
@@ -10768,29 +13391,29 @@ digitalData.page.pageInfo.pageName = pageName;
       position: relative;
       width: 90%;
       max-width: 420px;
-      background: linear-gradient(145deg, rgba(46, 10, 10, 0.9), rgba(56, 16, 16, 0.85));
+      background: linear-gradient(145deg, rgba(10, 10, 10, 0.9), rgba(26, 21, 16, 0.85));
       border-radius: 20px;
       overflow: hidden;
       text-align: center;
-      animation: rotateScaleIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275), orangePulse 3.5s infinite ease-in-out;
-      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(0, 78, 255, 0.2);
+      animation: rotateScaleIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275), goldPulse 3.5s infinite ease-in-out;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(212, 175, 55, 0.2);
       padding-bottom: 20px;
-      border: 1px solid rgba(0, 69, 255, 0.15);
+      border: 1px solid rgba(212, 175, 55, 0.15);
       backdrop-filter: blur(10px);
       -webkit-backdrop-filter: blur(10px);
     }
 
-    /* 🟠 Orange berdenyut */
-    @keyframes orangePulse {
+    /* 💛 Emas berdenyut yang mewah */
+    @keyframes goldPulse {
       0%, 100% {
-        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 20px rgba(46, 10, 10, 0.3), 0 0 0 1px rgba(46, 10, 10, 0.2);
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 20px rgba(212, 175, 55, 0.3), 0 0 0 1px rgba(212, 175, 55, 0.2);
       }
       50% {
-        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 30px rgba(46, 10, 10, 0.5), 0 0 0 1px rgba(46, 10, 10, 0.3);
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 30px rgba(212, 175, 55, 0.5), 0 0 0 1px rgba(212, 175, 55, 0.3);
       }
     }
 
-    /* ✨ Shiny diagonal orange */
+    /* ✨ Shiny diagonal emas yang elegan */
     .popup-container::before {
       content: "";
       position: absolute;
@@ -10801,7 +13424,7 @@ digitalData.page.pageInfo.pageName = pageName;
       background: linear-gradient(
         135deg,
         rgba(255, 255, 255, 0) 45%,
-        rgba(46, 10, 10, 0.15) 50%,
+        rgba(255, 215, 0, 0.15) 50%,
         rgba(255, 255, 255, 0) 55%
       );
       animation: shineDiagonal 5s linear infinite;
@@ -10821,7 +13444,7 @@ digitalData.page.pageInfo.pageName = pageName;
     .popup-image {
       width: 100%;
       display: block;
-      border-bottom: 1px solid rgba(46, 10, 10, 0.15);
+      border-bottom: 1px solid rgba(212, 175, 55, 0.15);
     }
 
     .clk-btn-sgp {
@@ -10837,7 +13460,7 @@ digitalData.page.pageInfo.pageName = pageName;
     
 }
 
-/* Orange Accent Line */
+/* Gold Accent Line */
 .clk-btn-sgp::before {
     content: '';
     position: absolute;
@@ -10848,9 +13471,9 @@ digitalData.page.pageInfo.pageName = pageName;
     height: 2px;
     background: linear-gradient(90deg, 
         transparent, 
-        #3b0404, 
-        #3f0808, 
-        #3b0404, 
+        #000000, 
+        #ffd700, 
+        #000000, 
         transparent);
     opacity: 0.4;
     filter: blur(1px);
@@ -10869,12 +13492,12 @@ digitalData.page.pageInfo.pageName = pageName;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border: 2px solid transparent;
-    box-shadow: 0 8px 0px #210202;
+    box-shadow: 0 8px 0px #000000;
     clip-path: polygon(var(--blade-cut) 0%, 100% 0%, 100% calc(100% - var(--blade-cut)), calc(100% - var(--blade-cut)) 100%, 0% 100%, 0% var(--blade-cut));
     z-index: 1;
 }
 
-/* Orange Border Effect */
+/* Gold Border Effect */
 .clk-btn-sgp a::after {
     content: '';
     position: absolute;
@@ -10883,11 +13506,11 @@ digitalData.page.pageInfo.pageName = pageName;
     right: -2px;
     bottom: -2px;
     background: linear-gradient(45deg, 
-        #ff8080, 
-        #3b0404, 
-        #3f0808, 
-        #3b0404, 
-        #ff8080);
+        #7799ff, 
+        #000000, 
+        #ffd700, 
+        #000000, 
+        #7799ff);
     border-radius: 16px;
     z-index: -1;
     opacity: 0;
@@ -10900,14 +13523,14 @@ digitalData.page.pageInfo.pageName = pageName;
 
 .clk-btn-sgp a:hover {
     transform: translateY(-6px) scale(1.03);
-    border-color: #3f0808;
+    border-color: #ffd700;
 }
 
-/* LOGIN BUTTON - Ungu & Orange */
+/* LOGIN BUTTON - Black & Gold */
 .login {
-    color: #ff8080 !important;
-    background: linear-gradient(145deg, #6e1a1a, #210202);
-    border: 2px solid #3f0808;
+    color: #ffd700 !important;
+    background: linear-gradient(145deg, #6385e4, #4d92da);
+    border: 2px solid #7799ff;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
     position: relative;
 }
@@ -10920,30 +13543,30 @@ digitalData.page.pageInfo.pageName = pageName;
     font-size: 18px;
     opacity: 0.7;
     transition: all 0.3s ease;
-    filter: drop-shadow(0 0 3px #3f0808);
+    filter: drop-shadow(0 0 3px #ffd700);
 }
 
 .login:hover {
-    background: linear-gradient(145deg, #2e1a4e, #3b0404);
+    background: linear-gradient(145deg, #222222, #1a1a1a);
     box-shadow: 
-        0 12px 0px #210202,
-        0 20px 40px rgba(46, 10, 10, 0.4),
-        0 0 30px rgba(46, 10, 10, 0.2);
-    color: #ffdddd !important;
-    border-color: #3f0808;
+        0 12px 0px #000000,
+        0 20px 40px rgba(212, 175, 55, 0.4),
+        0 0 30px rgba(255, 215, 0, 0.2);
+    color: #fff8dc !important;
+    border-color: #ffd700;
 }
 
 .login:hover::before {
     opacity: 1;
     transform: translateY(-50%) rotate(15deg);
-    filter: drop-shadow(0 0 8px #3f0808);
+    filter: drop-shadow(0 0 8px #ffd700);
 }
 
-/* REGISTER BUTTON - Orange & Ungu */
+/* REGISTER BUTTON - Gold & Black */
 .register {
-    color: #210202 !important;
-    background: linear-gradient(145deg, #ff8080, #3f0808);
-    border: 2px solid #210202;
+    color: #000000 !important;
+    background: linear-gradient(145deg, #1a58e2, #2479f8);
+    border: 2px solid #000000;
     text-shadow: 0 1px 2px rgba(255, 255, 255, 0.3);
     position: relative;
 }
@@ -10959,19 +13582,19 @@ digitalData.page.pageInfo.pageName = pageName;
 }
 
 .register:hover {
-    background: linear-gradient(145deg, #3f0808, #6e1a1a);
+    background: linear-gradient(145deg, #ffd700, #000000);
     box-shadow: 
-        0 12px 0px #210202,
-        0 20px 40px rgba(46, 10, 10, 0.5),
-        0 0 35px rgba(46, 10, 10, 0.3);
-    color: #ffdddd !important;
-    border-color: #210202;
+        0 12px 0px #000000,
+        0 20px 40px rgba(212, 175, 55, 0.5),
+        0 0 35px rgba(255, 215, 0, 0.3);
+    color: #000000 !important;
+    border-color: #000000;
 }
 
 .register:hover::before {
     opacity: 1;
     transform: translateY(-50%) scale(1.2) rotate(360deg);
-    filter: drop-shadow(0 0 5px #3f0808);
+    filter: drop-shadow(0 0 5px #ffd900);
 }
 
 /* Button Text Container */
@@ -11023,7 +13646,7 @@ digitalData.page.pageInfo.pageName = pageName;
         box-shadow: 
             0 15px 35px rgba(0, 0, 0, 0.6),
             inset 0 1px 0 rgba(255, 255, 255, 0.1),
-            0 0 20px rgba(46, 10, 10, 0.15);
+            0 0 20px rgba(212, 175, 55, 0.15);
     }
 }
 
@@ -11043,10 +13666,10 @@ digitalData.page.pageInfo.pageName = pageName;
     }
 
     .info-table th {
-      background: linear-gradient(135deg, #3b0404, #3f0808);
+      background: linear-gradient(135deg, #000000, #b8941f);
       padding: 14px 10px;
       font-size: 15px;
-      color: #ffdddd;
+      color: #000;
       border: none;
       font-weight: 700;
       letter-spacing: 0.8px;
@@ -11055,7 +13678,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     .info-table td {
       padding: 12px;
-      border-bottom: 1px solid rgba(46, 10, 10, 0.1);
+      border-bottom: 1px solid rgba(212, 175, 55, 0.1);
       text-align: left;
     }
 
@@ -11065,7 +13688,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     .popup-footer {
       font-size: 13px;
-      color: #ffdddd;
+      color: #ffffff;
       padding: 20px 10px;
       position: relative;
       z-index: 3;
@@ -11087,18 +13710,18 @@ digitalData.page.pageInfo.pageName = pageName;
       }
     }
 
-    /* Efek partikel orange */
-    .orange-particle {
+    /* Efek partikel emas */
+    .gold-particle {
       position: absolute;
-      background: radial-gradient(circle, rgba(46, 10, 10, 0.8) 0%, rgba(107, 47, 160, 0.4) 100%);
+      background: radial-gradient(circle, rgba(255, 215, 0, 0.8) 0%, rgba(212, 175, 55, 0.4) 100%);
       border-radius: 50%;
       pointer-events: none;
       z-index: 1;
-      animation: floatOrange 10s infinite ease-in-out;
-      box-shadow: 0 0 10px rgba(46, 10, 10, 0.6);
+      animation: floatGold 10s infinite ease-in-out;
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.6);
     }
 
-    @keyframes floatOrange {
+    @keyframes floatGold {
       0%, 100% {
         transform: translateY(0) translateX(0);
         opacity: 0;
@@ -11115,21 +13738,61 @@ digitalData.page.pageInfo.pageName = pageName;
       }
     }
 
-    /* Efek border orange mewah */
+    /* Efek border emas mewah */
     .luxury-border {
       position: absolute;
       top: 0;
       left: 0;
       right: 0;
       bottom: 0;
-      border: 1px solid rgba(46, 10, 10, 0.2);
+      border: 1px solid rgba(212, 175, 55, 0.2);
       border-radius: 20px;
       pointer-events: none;
       z-index: 4;
       background: linear-gradient(135deg, 
-        rgba(46, 10, 10, 0) 0%, 
-        rgba(46, 10, 10, 0.1) 50%, 
-        rgba(46, 10, 10, 0) 100%);
+        rgba(212, 175, 55, 0) 0%, 
+        rgba(212, 175, 55, 0.1) 50%, 
+        rgba(212, 175, 55, 0) 100%);
+    }
+
+    /* Tombol Close */
+    .close-btn {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      width: 32px;
+      height: 32px;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      z-index: 10;
+      transition: all 0.3s ease;
+      border: 1px solid rgba(212, 175, 55, 0.3);
+    }
+
+    .close-btn:hover {
+      background: rgba(212, 175, 55, 0.8);
+      transform: rotate(90deg);
+    }
+
+    .close-btn::before,
+    .close-btn::after {
+      content: '';
+      position: absolute;
+      width: 16px;
+      height: 2px;
+      background: #7799ff;
+    }
+
+    .close-btn::before {
+      transform: rotate(45deg);
+    }
+
+    .close-btn::after {
+      transform: rotate(-45deg);
     }
 
     /* Responsif untuk layar kecil */
@@ -11151,31 +13814,56 @@ digitalData.page.pageInfo.pageName = pageName;
       .popup-footer {
         font-size: 12px;
       }
+      
+      .close-btn {
+        width: 28px;
+        height: 28px;
+      }
     }
   </style>
 <div class="popup-overlay" id="popupOverlay">
     <div class="popup-container">
-        <!-- Partikel orange untuk efek elegan -->
-        <div class="orange-particle" style="width: 10px; height: 10px; top: 15%; left: 12%; animation-delay: 0s;"></div>
-        <div class="orange-particle" style="width: 8px; height: 8px; top: 35%; left: 88%; animation-delay: 1.5s;"></div>
-        <div class="orange-particle" style="width: 12px; height: 12px; top: 65%; left: 18%; animation-delay: 3s;"></div>
-        <div class="orange-particle" style="width: 6px; height: 6px; top: 25%; left: 75%; animation-delay: 4.5s;"></div>
-        <div class="orange-particle" style="width: 9px; height: 9px; top: 80%; left: 60%; animation-delay: 6s;"></div>
+        <!-- Tombol Close -->
+        <div class="close-btn" onclick="closePopup()"></div>
+        <!-- Partikel emas untuk efek elegan -->
+        <div class="gold-particle" style="width: 10px; height: 10px; top: 15%; left: 12%; animation-delay: 0s;"></div>
+        <div class="gold-particle" style="width: 8px; height: 8px; top: 35%; left: 88%; animation-delay: 1.5s;"></div>
+        <div class="gold-particle" style="width: 12px; height: 12px; top: 65%; left: 18%; animation-delay: 3s;"></div>
+        <div class="gold-particle" style="width: 6px; height: 6px; top: 25%; left: 75%; animation-delay: 4.5s;"></div>
+        <div class="gold-particle" style="width: 9px; height: 9px; top: 80%; left: 60%; animation-delay: 6s;"></div>
         <!-- Border mewah -->
         <div class="luxury-border"></div>
-        <div class="FILTER303">
-            <img src="https://thestaindepot.shortinc.link/maxwin-slot-gacor.webp" alt="Popup Banner" class="popup-image">
+        <div class="SLOT">
+            <img src="https://res.cloudinary.com/dk7fwauuu/image/upload/v1718777110/rajapastiwd_lmt7bv.jpg" alt="Popup Banner" class="popup-image">
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://le-hameau-saint-martial.fr/files/maxwin/filter303.html" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://www.qualitabogados.com/travel/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://www.qualitabogados.com/travel/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
-                FILTER303: Bandar Login Situs Slot Maxwin Terbaru x SLOT88 Resmi Terbaik Gampang Menang Besar<br>
-                <span style="color: #ffffff; font-weight: 600; text-shadow: 0 0 5px rgba(46, 10, 10, 0.5);">© COPYRIGHT 2026 FILTER303</span>
+                RAJABOM: Situs Link Raja Slot Gacor Resmi Game Platform Online Pertama Rilis Terbaru<br>
+                <span style="color: #5c96d3; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">© COPYRIGHT | RAJABOM</span>
             </div>
         </div>
     </div>
 </div>
+<script>
+    function closePopup() {
+        const popupOverlay = document.getElementById('popupOverlay');
+        popupOverlay.style.opacity = '0';
+        popupOverlay.style.transition = 'opacity 0.3s ease';
+        
+        setTimeout(() => {
+            popupOverlay.style.display = 'none';
+        }, 300);
+    }
+    
+    // Menutup popup ketika mengklik area di luar popup
+    document.getElementById('popupOverlay').addEventListener('click', function(event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    });
+</script>
 <style>
 body{
   margin:0;
@@ -11193,13 +13881,6 @@ body{
 
 #rain-canvas{
   z-index:999;
-  /* Gradasi ungu ke orange untuk efek hujan */
-  background: linear-gradient(180deg, 
-    rgba(74, 26, 110, 0.15) 0%, 
-    rgba(107, 47, 160, 0.10) 30%,
-    rgba(155, 77, 255, 0.05) 60%,
-    rgba(46, 10, 10, 0.08) 100%
-  );
 }
 
 #lightning-canvas{
@@ -11209,60 +13890,12 @@ body{
 #lightning-flash{
   position:fixed;
   inset:0;
-  background: linear-gradient(135deg, 
-    rgba(155, 77, 255, 0.3), 
-    rgba(46, 10, 10, 0.3)
-  );
+  background:white;
   opacity:0;
   pointer-events:none;
   z-index:1000;
 }
-
-/* Efek kilat berwarna ungu dan orange */
-#lightning-flash.active{
-  animation: flashPurpleOrange 0.15s ease-out;
-}
-
-@keyframes flashPurpleOrange {
-  0% {
-    opacity: 0.9;
-    background: linear-gradient(135deg, 
-      rgba(155, 77, 255, 0.6), 
-      rgba(46, 10, 10, 0.6)
-    );
-  }
-  100% {
-    opacity: 0;
-    background: linear-gradient(135deg, 
-      rgba(155, 77, 255, 0), 
-      rgba(46, 10, 10, 0)
-    );
-  }
-}
-
-/* Animasi glow hujan ungu - orange */
-@keyframes rainGlow {
-  0%, 100% {
-    opacity: 0.3;
-  }
-  50% {
-    opacity: 0.8;
-  }
-}
-
-#rain-canvas::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: 
-    radial-gradient(ellipse at 20% 30%, rgba(155, 77, 255, 0.08), transparent 50%),
-    radial-gradient(ellipse at 80% 70%, rgba(46, 10, 10, 0.06), transparent 50%);
-  animation: rainGlow 4s ease-in-out infinite;
-  pointer-events: none;
-  z-index: 1;
-}
 </style>
-
 
 <canvas id="rain-canvas"></canvas>
 <div id="lightning-flash"></div>
@@ -11312,7 +13945,7 @@ body{
 
     for(let d of drops){
       rainCtx.beginPath();
-      rainCtx.strokeStyle = `rgba(0,35,164,${d.alpha})`;
+      rainCtx.strokeStyle = `rgba(255,255,255,${d.alpha})`;
       rainCtx.lineWidth = d.width;
       rainCtx.moveTo(d.x, d.y);
       rainCtx.lineTo(d.x, d.y + d.len);
@@ -11355,7 +13988,7 @@ body{
       }
     }
 
-    lightningCtx.strokeStyle = "rgba(255,217,0,1)";
+    lightningCtx.strokeStyle = "rgba(255,255,255,0.95)";
     lightningCtx.lineWidth = random(2, 4);
     lightningCtx.shadowBlur = 35;
     lightningCtx.shadowColor = "#7fd3ff";
@@ -11390,9 +14023,379 @@ body{
 </script>
 <style>
 body{
-    background: linear-gradient(135deg, #470000, #3f0808);
+    background: linear-gradient(135deg, #96dfff, #bee4ff);
     font-family: Arial, sans-serif;
 }
 </style>
-<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"5c7a0c33d76d4232b9d09afe774ed735","r":1}' crossorigin="anonymous"></script>
+<script>_satellite["_runScript1"](function(event, target, Promise) {
+///////////////////////////////////////////////////////////////////////////////
+//////// SET Variables in Set Variable Action UI //////////////////////////////
+s.campaign = s.Util.getQueryParam('cid');
+s.channel = _satellite.getVar('Site Section');
+s.eVar1 = _satellite.getVar('Site Code');
+s.eVar2 = _satellite.getVar('2Depth');
+s.eVar3 = _satellite.getVar('3Depth');
+s.eVar4 = _satellite.getVar('4Depth');
+s.eVar5 = _satellite.getVar('5Depth');
+s.eVar6 = _satellite.getVar('Page Track');
+s.eVar13 = _satellite.getVar('PIM Product SubType');
+s.eVar18 = _satellite.getVar('Site Section');
+s.eVar39 = _satellite.getVar('Page URL');
+s.eVar40 = _satellite.getVar('Page Name');
+s.eVar42 = _satellite.getVar('Referrer Page');
+s.eVar57 = _satellite.getVar('Campaign ID');
+s.eVar58 = _satellite.getVar('BroadLog ID');
+s.eVar63 = _satellite.getVar('Visitor ID');
+s.eVar67 = _satellite.getVar('GCRM_ID');
+s.eVar71 = _satellite.getVar('GA Client ID');
+s.eVar84 = _satellite.getVar('Bandwidth');
+s.eVar110 = _satellite.getVar('NULL');
+s.pageName = _satellite.getVar('Page Name');
+s.pageURL = _satellite.getVar('Page URL');
+s.prop1 = _satellite.getVar('Site Code');
+s.prop2 = _satellite.getVar('2Depth');
+s.prop3 = _satellite.getVar('3Depth');
+s.prop4 = _satellite.getVar('4Depth');
+s.prop5 = _satellite.getVar('5Depth');
+s.prop6 = _satellite.getVar('Page Track');
+s.prop10 = _satellite.getVar('Login Status');
+s.prop39 = _satellite.getVar('Page URL');
+s.prop75 = 'P6';
+s.referrer = _satellite.getVar('Referrer Page');
+//////// End of Set Variables Action UI //////////////////////////////////////
+
+var pageTrack = _satellite.getVar("Page Track");
+//add-on page name setting
+if(_satellite.getVar("Add Page Name")) {
+  s.prop39 =  document.location.href;
+}
+
+// 25.05.23 HTTP Protocol Version
+function getProtocol() {
+    if (window.performance && performance.getEntriesByType) {
+        let entries = performance.getEntriesByType("navigation")[0] || performance.getEntriesByType("resource")[0];
+        return entries?.nextHopProtocol || "Unknown"; // ex: "h3", "h2"
+    }
+    return "Unknown";
+}
+
+s.eVar88 = getProtocol();
+/////// 0. AA Common ///////////////////////////////////////////////////////////
+/////// 1. Added AA Common /////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+if (window.matchMedia("(max-width: 767px)").matches) {
+    // The viewport is less than 768 pixels wide
+    var orgin0 = "mobileweb";
+    s.prop70 = orgin0;
+} else {
+    // The viewport is at least 768 pixels wide
+    var orgin1 = "web";
+    s.prop70 = orgin1;
+}
+
+var redirection = s.Util.getQueryParam("page");
+if (redirection != null) s.eVar85 = redirection;
+
+var utm_source = s.Util.getQueryParam("utm_source");
+var utm_medium = s.Util.getQueryParam("utm_medium");
+var utm_campaign = s.Util.getQueryParam("utm_campaign");
+var utm_term = s.Util.getQueryParam("utm_term");
+var utm_content = s.Util.getQueryParam("utm_content");
+
+if (utm_source != '' || utm_medium != '' || utm_campaign != '' || utm_term != '' || utm_content != '') {
+    s.eVar86 = "utm_source=" + (utm_source == '' ? 'none' : utm_source) + "&utm_medium=" + (utm_medium == '' ? 'none' : utm_medium) + "&utm_campaign=" + (utm_campaign == '' ? 'none' : utm_campaign) + "&utm_term=" + (utm_term == '' ? 'none' : utm_term) + "&utm_content=" + (utm_content == '' ? 'none' : utm_content);
+}
+
+var urlExclParam = window.location.origin.replace(window.location.protocol + "//", "") + window.location.pathname;
+if (urlExclParam.endsWith('/')) urlExclParam = urlExclParam.substring(0, urlExclParam.lastIndexOf('/'));
+s.prop29 = urlExclParam;
+s.eVar92 = urlExclParam;
+////////////////////////////////////////////////////////////////////////////////
+/////// 2. GA Common ///////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+/* UA Sunset remove ->
+ga('require', 'ec');
+*/
+/* UA Sunset remove ->
+ga('set', 'currencyCode', _satellite.getVar("Currency Code")); 
+*/
+/* UA Sunset remove ->
+ga('set', 'userId', _satellite.getVar("GUID"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension1', _satellite.getVar("Site Code"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension2', _satellite.getVar("Site Section"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension3', _satellite.getVar("Page Track"));
+*/
+
+/* UA Sunset remove ->
+ga('set', 'dimension5', _satellite.getVar("Login Status"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension6', _satellite.getVar("Page URL"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension7', _satellite.getVar("Referrer Page"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension8', _satellite.getVar("GA Client ID"));
+*/
+
+/* UA Sunset remove ->
+ga('set', 'dimension16', _satellite.getVar("GCRM_ID"));
+*/
+
+/* UA Sunset remove ->
+ga('set', 'dimension18', _satellite.getVar("GUID")); 
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension19', _satellite.getVar("PIM Product SubType"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension26', _satellite.getVar("User Agent"));
+*/
+/* UA Sunset remove ->
+ga('set', 'dimension28', _satellite.getVar("CID"));
+*/
+
+/* UA Sunset remove ->
+ga('set', 'contentGroup1', _satellite.getVar("Site Code"));
+*/
+/* UA Sunset remove ->
+ga('set', 'contentGroup2', _satellite.getVar("2Depth"));
+*/
+/* UA Sunset remove ->
+ga('set', 'contentGroup3', _satellite.getVar("3Depth"));
+*/
+/* UA Sunset remove ->
+ga('set', 'contentGroup4', _satellite.getVar("4Depth"));
+*/
+/* UA Sunset remove ->
+ga('set', 'contentGroup5', _satellite.getVar("5Depth"));
+*/
+
+////////////////////////////////////////////////////////////////////////////////
+/////// 3. AA&GA by Page ///////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+if (pageTrack == "support error" || pageTrack == "page not found" || pageTrack == "error") {
+    s.clearVars();
+    s.pageType = "errorPage";
+    s.eVar1 = _satellite.getVar('Site Code');
+    s.eVar6 = _satellite.getVar('Page Track');
+    s.eVar39 = _satellite.getVar('Page URL');
+    s.prop1 = _satellite.getVar('Site Code');
+    s.prop6 = _satellite.getVar('Page Track');
+    s.prop39 = _satellite.getVar('Page URL');
+
+    /* UA Sunset remove ->
+    ga('set', 'dimension2', 'undefined');
+    */
+    s.pageName = "";
+      // MediaMonks updated - 20230222 - comment out gtag set
+    /*
+    gtag('set', {'dimension2': 'undefined'})
+    
+    return;
+    */
+}
+
+//Triggered in PD, Support PD & flagship PDP only
+//b2b 추가 - by NSC
+// 2021.08.05 B2B GRO Phase PD Type Add - By NSC
+if (pageTrack == "product detail" || pageTrack == "support product detail" || pageTrack == "flagship pdp" || pageTrack == "business flagship pdp" || pageTrack == "business product detail" || pageTrack == "business product finder") {
+    s.events = "prodView";  
+    s.eVar11 = _satellite.getVar('Product PVI Type Name');
+    s.eVar12 = _satellite.getVar('Product PVI Subtype Name');
+    s.products = ";"+ _satellite.getVar('Product Model Name');    
+    s.eVar15 = _satellite.getVar('Product Display Name');
+    s.eVar41 = _satellite.getVar('Product Model Code');
+
+    /* UA Sunset remove ->
+    ga('set', 'dimension10', _satellite.getVar("Product PVI Type Name"));
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension11', _satellite.getVar("Product PVI Subtype Name"));
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension13', _satellite.getVar("Product Model Code"));
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension14', _satellite.getVar("Product Display Name"));
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension15', _satellite.getVar("Product Model Name")); 
+    */
+
+}
+
+//Triggered in PFS, PCD, PF, PD, Support Category only as 2Depth
+if (pageTrack == "product family showcase" || pageTrack == "product category detail" || pageTrack == "product finder"  || pageTrack == "product compare" || pageTrack == "flagship pdp" || pageTrack.indexOf("marketing page")>-1 || pageTrack == "product detail" || pageTrack == "support category"
+    // <-- 2021.06.16 b2b pilot 추가 - by NSC
+    || pageTrack == "business flagship pdp" 
+    || pageTrack == "business product family showcase"
+    || pageTrack == "business product category detail"
+    // --> 2021.06.16 b2b pilot 추가 - by NSC
+    // <-- 2021.08.05 B2B GRO Phase PD Type Add - By NSC
+    || pageTrack == "business product detail"
+    || pageTrack == "business product finder"
+    // --> 2021.08.05 B2B GRO Phase PD Type Add - By NSC  
+    // <-- 2021.08.26 B2B GRO Phase business product compare Add - By NSC
+    || pageTrack == "business product compare"
+    // --> 2021.08.26 B2B GRO Phase business product compare Add - By NSC
+) {
+    s.prop8 = _satellite.getVar('Product Category');
+    s.eVar8 = _satellite.getVar('Product Category');
+  
+    /* UA Sunset remove ->
+    ga('set', 'dimension4', _satellite.getVar("Product Category"));
+    */
+}
+
+//Triggered in PD only
+// 2021.08.05 B2B GRO Phase PD Type Add - By NSC
+if (pageTrack == "product detail" || pageTrack == "business product detail") {
+    s.prop54 = _satellite.getVar('PD Type');
+    s.eVar54 = _satellite.getVar('PD Type');
+    s.eVar13 = _satellite.getVar('PIM Product SubType');
+
+    /* UA Sunset remove ->
+    ga('set', 'dimension12', _satellite.getVar("PD Type"));
+    */
+}
+
+//Triggered in Support Gethelp Detail only
+if (pageTrack == "support gethelp detail") {
+    s.eVar11 = $('input[name=typeName]').val();
+    s.eVar12 = $('input[name=subTypeName]').val();
+    s.eVar34 = "symptom:"+$('input[name=symptomName]').val();
+    s.eVar38 = _satellite.getVar('Support Page Author');
+    s.eVar98 = "support:"+$('input[name=hiddenContentId]').val();
+  
+  
+    /* UA Sunset remove ->
+    ga('set', 'dimension10', $('input[name=typeName]').val());
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension11', $('input[name=subTypeName]').val()); 
+    */
+    
+}
+////////////////////////////////////////////////////////////////////////////////
+/////// 3. AA by Page //////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+// 2021.08.11 P6 B2B - By NSC
+if (digitalData.page.pageInfo.pageTrack == "flagship pdp" || pageTrack == "business flagship pdp" ) {
+    s.events = "prodView";
+    s.eVar11 = _satellite.getVar("Product PVI Type Name");
+    s.eVar12 = _satellite.getVar("Product PVI Subtype Name");
+    s.eVar15 = _satellite.getVar("Product Display Name");
+    var tmpModelName = _satellite.getVar("Product Model Name");
+    if (tmpModelName != "") {
+        var mdlNum = tmpModelName.split(",");
+        var tmpModelNameList = [];
+        if (mdlNum.length > 1) {
+            for (var i = 0; i < mdlNum.length; i++) {
+                var temp = ";" + mdlNum[i]
+                tmpModelNameList.push(temp);
+            }
+            s.products = tmpModelNameList;
+        } else {
+            s.products = ";" + tmpModelName;
+            s.products = s.products.replace(/;;/gi, ';');
+        }
+    }
+}
+//Triggered in brand hub detail page only
+if (pageTrack == "brand hub detail page") {
+    var pageID = _satellite.getVar("Page ID");
+    s.eVar38 = "explore:" + pageID;
+}
+
+//Triggered in offer page only
+if (pageTrack == "offer detail") {
+    var pageID = _satellite.getVar("Page ID");
+    s.eVar38 = "offer:" + pageID;
+}
+
+//<-- 2021.06.16 Update - Business Insight Detail & Business Solution Detail evar38 추가 by NSC
+if (pageTrack == "business insights detail") {
+    var pageID = $("[an-tr='co51_article header|contents filter']").attr('an-la');
+    s.eVar38 = "insight:" + pageID;
+}else if (pageTrack == "business solution detail") {
+    var pageID = _satellite.getVar("Page ID");
+	var fCategory = _satellite.getVar("3Depth").split(":");
+    var filterCategory = fCategory[fCategory.length -1];
+    s.eVar38 = "solution:" + filterCategory + ":" + pageID;
+}
+//--> 2021.06.16 Update - Business Insight Detail & Business Solution Detail evar38 추가 by NSC
+
+// <-- 2021.06.10 News Detail eVar38 Add - by NSC
+if(pageTrack == "news detail") {
+    var pageId = _satellite.getVar("Page ID");
+    
+    s.eVar38 = "news:" + pageId;
+}
+// --> 2021.06.10 News Detail eVar38 Add - by NSC
+
+// <-- 2021.08.05 B2B GRO Phase PD Type Add - By NSC
+if(pageTrack.startsWith("business offer")) {
+    var pageId = _satellite.getVar("Page ID");
+    
+    s.eVar38 = "business offer:" + pageId;
+}
+// --> 2021.08.05 B2B GRO Phase PD Type Add - By NSC
+////////////////////////////////////////////////////////////////////////////////
+
+var siteCode = digitalData.page.pageInfo.siteCode;
+
+
+
+if(siteCode == "th" || siteCode == "uk" || siteCode == "ve"){
+
+
+
+    s.prop67 = _satellite.getVar('TabStatus');
+    s.prop68 = _satellite.getVar('TabNaviType');
+    s.prop69 = _satellite.getVar('TabVisibilityState');
+    s.prop71 = _satellite.getVar('Timestamp');
+
+    /* UA Sunset remove ->
+    ga('set', 'dimension105', _satellite.getVar("Timestamp"));
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension106', _satellite.getVar("Visitor ID")); 
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension107', _satellite.getVar("TabStatus"));
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension108', _satellite.getVar("TabNaviType"));
+    */
+    /* UA Sunset remove ->
+    ga('set', 'dimension109', _satellite.getVar("TabVisibilityState"));
+    */
+   
+}
+
+
+// 2024.11.22 Collecting personalization cookies by CNX
+if(pageTrack.indexOf("home") !== -1 || pageTrack.indexOf("offer") !== -1) {
+    var home_pnz = _satellite.cookie.get("home_pnz");
+    s.eVar142 = (home_pnz == undefined)?"default":(home_pnz==""?null:home_pnz);
+  }
+
+//ga('send', 'pageview');
+
+// Set Custom values for EDDL
+_satellite.customValues = {
+  'rule_name' : event.$rule.name
+}
+s.t();
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"d8c0067737f348628b33a18a294a8373","r":1}' crossorigin="anonymous"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"da28569114414a00ae27a8ae37ebaecc","r":1}' crossorigin="anonymous"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"61c12250712f4da5a48ca5ab3af3602f","r":1}' crossorigin="anonymous"></script>
 </body></html>
