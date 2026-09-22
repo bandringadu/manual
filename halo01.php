@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id"><head prefix="og: https://dgnl.hcmue.edu.vn/ fb: https://dgnl.hcmue.edu.vn/ product: https://dgnl.hcmue.edu.vn/">
+<html lang="id"><head prefix="og: https://dgnl.hcmue.edu.vn/index.php?lang=vi fb: https://dgnl.hcmue.edu.vn/index.php?lang=vi product: https://dgnl.hcmue.edu.vn/index.php?lang=vi">
         <script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script data-breeze="1">
     var LOCALE = 'id\u002DID';
     var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
@@ -43,7 +43,7 @@
 <link rel="alternate" hreflang="x-default" href="https://dalf.hcmue.edu.vn/log/"/>
 <link rel="icon" type="image/x-icon" href="https://eggtart.space/bacotkauu/Images/IconSLOT88.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://eggtart.space/bacotkauu/Images/IconSLOT88.png">
-<link rel="canonical" href="https://dgnl.hcmue.edu.vn/">
+<link rel="canonical" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">
 
 
 <style>
@@ -180,7 +180,7 @@ console.log(
 <meta property="og:title" content="HOKI88: Situs Hoki Resmi RAJA APK Slot Gacor Pola Maxwin 88 Jackpot Terbaik Indonesia">
 <meta property="og:image" content="https://www.mothercare.co.id/media/catalog/product/1/1/119669web1_1.jpg?optimize=low&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=270&amp;width=270&amp;canvas=270:270">
 <meta property="og:description" content="HOKI88 merupakan platform situs hoki raja apk slot gacor hadirkan informasi pola maxwin di slot88 jackpot terbaik seputar permainan hiburan digital, dirancang sederhana dan mudah dipahami di hoki88.">
-<meta property="og:url" content="https://dgnl.hcmue.edu.vn/">
+<meta property="og:url" content="https://dgnl.hcmue.edu.vn/index.php?lang=vi">
     <meta property="product:price:amount" content="10000">
     <meta property="product:price:currency" content="IDR">
 <script type="text/javascript" id="klevu_initsessiondata">
@@ -855,17 +855,17 @@ margin-right:10px;
 }
 </style>
 </div></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle" tabindex="0"><span>Toggle Nav</span></span>
-<a class="logo" href="https://dgnl.hcmue.edu.vn/" title="" aria-label="store logo">
+<a class="logo" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="" aria-label="store logo">
     <img src="https://ik.imagekit.io/seobadboyz/gambar-kw/logo-slot88-new.png?updatedAt=1788737716803" title="" alt="" width="255" height="68">
 </a>
 
 <div class="kanmo-middle-header"><div class="navigation-wrapper"><span data-action="toggle-nav" class="button-close" tabindex="0"></span><div class="top-header-components-mc mobile-component">
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://dgnl.hcmue.edu.vn/"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
-      <li><a href="https://dgnl.hcmue.edu.vn/"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
-      <li><a href="https://dgnl.hcmue.edu.vn/"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
-      <li><a href="https://dgnl.hcmue.edu.vn/" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
+      <li><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
+      <li><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
+      <li><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
+      <li><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
 
     </ul>
 
@@ -874,7 +874,7 @@ margin-right:10px;
 <div class="block ves-menu ves-megamenu-mobile " id="menu-top-mothercare1742308061777474800-menu">
 		<nav class="navigation" role="navigation" data-action="navigation">
 		<ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
-			<li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" style="font-size:12px;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+			<li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="font-size:12px;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="nav-desk row equal nav-revamp">
     <div class="col-md-12">
         <div class="row">
@@ -1509,7 +1509,7 @@ margin-right:10px;
     }
   }
 
-</style></div></div></div></div></li><li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SITUS SLOT</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</style></div></div></div></div></li><li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SITUS SLOT</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
   <!-- column 1  -->
   <div class="col-md-2 col-sm-3">
@@ -1675,7 +1675,7 @@ margin-right:10px;
 
 
 
-</div></div></div></div></div></li><li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR TERBAIK</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</div></div></div></div></div></li><li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR TERBAIK</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
 
     <!--column 2-->
@@ -1783,7 +1783,7 @@ margin-right:10px;
     <!-- column 1  -->
 
 
-</div></div></div></div></div></li><li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</div></div></div></div></div></li><li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
     <!--column 1-->
     <div class="col-md-2 col-sm-3">
@@ -1857,7 +1857,7 @@ margin-right:10px;
     </div>
     <!-- column 1  -->
 
-</div></div></div></div></div></li><li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT88</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</div></div></div></div></div></li><li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT88</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
     <!--column 1-->
     <div class="col-md-2 col-sm-3">
@@ -1973,7 +1973,7 @@ margin-right:10px;
     </div>
     <!-- column 5  -->
 
-</div></div></div></div></div></li><li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" style="max-lines: 2;
+</div></div></div></div></div></li><li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR MAXWIN</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
@@ -2076,7 +2076,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR MAXWIN
     </div>
     <!-- column 1  -->
 
-</div></div></div></div></div></li><li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" style="white-space: nowrap;
+</div></div></div></div></div></li><li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor"><span>SLOT TERBAIK</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
@@ -2125,7 +2125,7 @@ font-size:12px;
     </div>
     <!-- column 3-->
 </div>
-</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#ff0000 !important" data-color="#fff !important" data-bgcolor="#ff0000 !important" style="color: #fff !important;background-color: #262326 !important;" class=" nav-anchor"><span>Slot Gacor Hari Ini</span></a></li>		</ul>
+</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#ff0000 !important" data-color="#fff !important" data-bgcolor="#ff0000 !important" style="color: #fff !important;background-color: #262326 !important;" class=" nav-anchor"><span>Slot Gacor Hari Ini</span></a></li>		</ul>
 			</nav>
 		
 	</div>
@@ -3500,7 +3500,7 @@ margin-right:10px;
     </script>
 
 <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true" data-dropdown-parent="true">
-    <a class="action toggle switcher-trigger" href="https://dgnl.hcmue.edu.vn/" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
+    <a class="action toggle switcher-trigger" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
         
         <div id="customer-name-container" data-bind="scope: &#39;customer-name&#39;">
     <div id="customer-name" class="customer-name" data-bind="visible: isLoggedIn(), text: getFirstName()" style="display: none;"></div>
@@ -3526,12 +3526,12 @@ margin-right:10px;
 
 
     <li style="display: none;">
-        <a href="https://dgnl.hcmue.edu.vn/">
+        <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">
             buat akun        </a>
     </li>
 <li>
 
-    <a href="https://dgnl.hcmue.edu.vn/">
+    <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">
         <span>Bantuan</span>
     </a>
 </li>
@@ -3539,7 +3539,7 @@ margin-right:10px;
     </div>
 
 <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-    <a class="action toggle switcher-trigger" href="https://dgnl.hcmue.edu.vn/" title="Daftar Keinginan">
+    <a class="action toggle switcher-trigger" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="Daftar Keinginan">
         
         <span class="abs-visually-hidden">Daftar Keinginan</span>
     </a>
@@ -3547,7 +3547,7 @@ margin-right:10px;
     </div>
 
 <div data-block="minicart" class="minicart-wrapper">
-    <a class="action showcart" href="https://dgnl.hcmue.edu.vn/" data-bind="scope: 'minicart_content'">
+    <a class="action showcart" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" data-bind="scope: 'minicart_content'">
         <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -3684,10 +3684,10 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://dgnl.hcmue.edu.vn/#organization",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#organization",
   "name": "HOKI88",
   "alternateName": "Situs Slot Gacor Hari Ini Paling Di Cari Saat Ini",
-  "url": "https://dgnl.hcmue.edu.vn/",
+  "url": "https://dgnl.hcmue.edu.vn/index.php?lang=vi",
   "logo": {
     "@type": "ImageObject",
     "url": "https://ik.imagekit.io/seobadboyz/gambar-kw/logo-slot88-new.png?updatedAt=1788737716803"
@@ -3714,7 +3714,7 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "@id": "https://dgnl.hcmue.edu.vn/#faq",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#faq",
   "mainEntity": [
     {
       "@type": "Question",
@@ -3757,37 +3757,37 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "@id": "https://dgnl.hcmue.edu.vn/#breadcrumb",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#breadcrumb",
   "itemListElement": [
     {
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://dgnl.hcmue.edu.vn/"
+      "item": "https://dgnl.hcmue.edu.vn/index.php?lang=vi"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Slot Gacor",
-      "item": "https://dgnl.hcmue.edu.vn/#slot-gacor"
+      "item": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#slot-gacor"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Slot Terbaik",
-      "item": "https://dgnl.hcmue.edu.vn/#slot-terbaik"
+      "item": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#slot-terbaik"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Game Hoki88",
-      "item": "https://dgnl.hcmue.edu.vn/#game-hoki88"
+      "item": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#game-hoki88"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "HOKI88: Situs Hoki Resmi RAJA APK Slot Gacor Pola Maxwin 88 Jackpot Terbaik Indonesia",
-      "item": "https://dgnl.hcmue.edu.vn/"
+      "item": "https://dgnl.hcmue.edu.vn/index.php?lang=vi"
     }
   ]
 }
@@ -3798,7 +3798,7 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  "@id": "https://dgnl.hcmue.edu.vn/#video",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#video",
   "name": "HOKI88: Situs Hoki Resmi RAJA APK Slot Gacor Pola Maxwin 88 Jackpot Terbaik Indonesia",
   "description": "HOKI88 merupakan platform situs hoki raja apk slot gacor hadirkan informasi pola maxwin di slot88 jackpot terbaik seputar permainan hiburan digital, dirancang sederhana dan mudah dipahami di hoki88.",
   "thumbnailUrl": [
@@ -3806,8 +3806,8 @@ margin-right:10px;
   ],
   "uploadDate": "2026-05-18T11:30:00+07:00",
   "duration": "PT3M50S",
-  "embedUrl": "https://dgnl.hcmue.edu.vn/#video-player",
-  "contentUrl": "https://dgnl.hcmue.edu.vn/"
+  "embedUrl": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#video-player",
+  "contentUrl": "https://dgnl.hcmue.edu.vn/index.php?lang=vi"
 }
 </script>
 
@@ -3816,7 +3816,7 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": "https://dgnl.hcmue.edu.vn/#product",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#product",
   "name": "HOKI88: Situs Hoki Resmi RAJA APK Slot Gacor Pola Maxwin 88 Jackpot Terbaik Indonesia",
   "image": "https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939",
   "description": "HOKI88 merupakan platform situs hoki raja apk slot gacor hadirkan informasi pola maxwin di slot88 jackpot terbaik seputar permainan hiburan digital, dirancang sederhana dan mudah dipahami di hoki88.",
@@ -3826,7 +3826,7 @@ margin-right:10px;
   },
   "sku": "HOKI88-GACOR-2026",
   "category": "Online Game",
-  "url": "https://dgnl.hcmue.edu.vn/",
+  "url": "https://dgnl.hcmue.edu.vn/index.php?lang=vi",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
@@ -3862,7 +3862,7 @@ margin-right:10px;
   ],
   "offers": {
     "@type": "Offer",
-    "url": "https://dgnl.hcmue.edu.vn/",
+    "url": "https://dgnl.hcmue.edu.vn/index.php?lang=vi",
     "priceCurrency": "IDR",
     "price": "10000",
     "availability": "https://schema.org/InStock"
@@ -3875,7 +3875,7 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "MobileApplication",
-  "@id": "https://dgnl.hcmue.edu.vn/#mobile-app",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#mobile-app",
   "name": "HOKI88 APK Slot Gacor",
   "operatingSystem": "Android, iOS",
   "applicationCategory": "GameApplication",
@@ -3901,7 +3901,7 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "VideoGame",
-  "@id": "https://dgnl.hcmue.edu.vn/#game",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#game",
   "name": "Slot Gacor Hari Ini HOKI88",
   "description": "Game slot online terlengkap dengan rtp tertinggi, sistem putaran ringan, dan fitur jackpot maxwin sensasional 2026.",
   "genre": ["Online Slot", "Arcade"],
@@ -3924,7 +3924,7 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "@id": "https://dgnl.hcmue.edu.vn/#banner-thumbnail",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#banner-thumbnail",
   "name": "Banner HOKI88 Slot Gacor Hari Ini",
   "contentUrl": "https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939",
   "thumbnailUrl": "https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939",
@@ -3939,7 +3939,7 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "@id": "https://dgnl.hcmue.edu.vn/#icon-thumbnail",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#icon-thumbnail",
   "name": "Favicon Icon HOKI88",
   "contentUrl": "https://eggtart.space/bacotkauu/Images/IconSLOT88.png",
   "thumbnailUrl": "https://eggtart.space/bacotkauu/Images/IconSLOT88.png",
@@ -3954,16 +3954,16 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "@id": "https://dgnl.hcmue.edu.vn/#website",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#website",
   "name": "HOKI88",
-  "url": "https://dgnl.hcmue.edu.vn/",
+  "url": "https://dgnl.hcmue.edu.vn/index.php?lang=vi",
   "alternateName": "Situs Slot Gacor Hari Ini Resmi Terbaik",
   "publisher": {
-    "@id": "https://dgnl.hcmue.edu.vn/#organization"
+    "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#organization"
   },
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://dgnl.hcmue.edu.vn/?s={search_term_string}",
+    "target": "https://dgnl.hcmue.edu.vn/index.php?lang=vi?s={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -3974,16 +3974,16 @@ margin-right:10px;
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "@id": "https://dgnl.hcmue.edu.vn/#webpage",
-  "url": "https://dgnl.hcmue.edu.vn/",
+  "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#webpage",
+  "url": "https://dgnl.hcmue.edu.vn/index.php?lang=vi",
   "name": "HOKI88: Situs Hoki Resmi RAJA APK Slot Gacor Pola Maxwin 88 Jackpot Terbaik Indonesia",
   "description": "HOKI88 merupakan platform situs hoki raja apk slot gacor hadirkan informasi pola maxwin di slot88 jackpot terbaik seputar permainan hiburan digital, dirancang sederhana dan mudah dipahami di hoki88.",
   "inLanguage": "id-ID",
   "isPartOf": {
-    "@id": "https://dgnl.hcmue.edu.vn/#website"
+    "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#website"
   },
   "primaryImageOfPage": {
-    "@id": "https://dgnl.hcmue.edu.vn/#banner-thumbnail"
+    "@id": "https://dgnl.hcmue.edu.vn/index.php?lang=vi#banner-thumbnail"
   }
 }
 </script>
@@ -4016,12 +4016,12 @@ margin-right:10px;
 
 <div class="product attribute overview">
     <div class="value" style="text-align: justify;">
-        <p data-start="0"><a href="https://dgnl.hcmue.edu.vn/" style="color:rgb(250, 4, 4);text-decoration: none;">HOKI88</a> merupakan platform situs hoki raja apk slot gacor hadirkan informasi pola maxwin di slot88 jackpot terbaik seputar permainan hiburan digital, dirancang sederhana dan mudah dipahami di hoki88. Melalui konsep RAJA APK, pengguna dapat mengenal beragam pilihan permainan, fitur yang tersedia, serta informasi terkait layanan sebelum menentukan permainan yang ingin dicoba. Istilah seperti “slot gacor”, “Maxwin”, dan “apk slot” digunakan sebagai bagian dari istilah populer di komunitas pemain, bukan sebagai jaminan bahwa hasil tertentu akan diperoleh.</p>
+        <p data-start="0"><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="color:rgb(250, 4, 4);text-decoration: none;">HOKI88</a> merupakan platform situs hoki raja apk slot gacor hadirkan informasi pola maxwin di slot88 jackpot terbaik seputar permainan hiburan digital, dirancang sederhana dan mudah dipahami di hoki88. Melalui konsep RAJA APK, pengguna dapat mengenal beragam pilihan permainan, fitur yang tersedia, serta informasi terkait layanan sebelum menentukan permainan yang ingin dicoba. Istilah seperti “slot gacor”, “Maxwin”, dan “apk slot” digunakan sebagai bagian dari istilah populer di komunitas pemain, bukan sebagai jaminan bahwa hasil tertentu akan diperoleh.</p>
     </div>
 </div>
 </div><div class="product-config">
 <div class="product-add-form">
-    <form data-product-sku="52135545-AYO01" action="https://dgnl.hcmue.edu.vn/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
+    <form data-product-sku="52135545-AYO01" action="https://dgnl.hcmue.edu.vn/index.php?lang=vi" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
         <input type="hidden" name="product" value="600193">
         <input type="hidden" name="selected_configurable_option" value="">
         <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -4415,31 +4415,31 @@ h5#content-baby.light {
             <img alt="" class="main-image" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939" width="608" height="608">
         </div>
 
-                    <a href="https://dgnl.hcmue.edu.vn/" class="prev" tabindex="-1">
+                    <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" class="prev" tabindex="-1">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
             </a>
-            <a href="https://dgnl.hcmue.edu.vn/" class="next" tabindex="-1">
+            <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" class="next" tabindex="-1">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
             </a>
         
         <div class="controls">
-            <a href="https://dgnl.hcmue.edu.vn/" class="zoom zoom-in">
+            <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" class="zoom zoom-in">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                 </svg>
             </a>
-            <a href="https://dgnl.hcmue.edu.vn/" class="zoom zoom-out">
+            <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" class="zoom zoom-out">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                 </svg>
             </a>
         </div>
 
-        <a href="https://dgnl.hcmue.edu.vn/" class="close">
+        <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" class="close">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
             </svg>
@@ -4447,47 +4447,47 @@ h5#content-baby.light {
     </div>
     
     <div class="thumbnails ">
-                                                    <a class="item active" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                                    <a class="item active" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
                 </a>
-                                            <a class="item" href="https://dgnl.hcmue.edu.vn/" title="View Image">
+                                            <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ik.imagekit.io/3dgm6pffgn/slot88.png?updatedAt=1778414031939">
                     </span>    
@@ -5821,11 +5821,11 @@ h5#content-baby.light {
 <h1 style="text-align: center;color: #fbfbf8;">HOKI88: Situs Hoki Resmi RAJA APK Slot Gacor Pola Maxwin 88 Jackpot Terbaik Indonesia</h1>
 </div>
 <br>
-<p><a href="https://dgnl.hcmue.edu.vn/" style="color:rgb(250, 4, 4);text-decoration: none;">HOKI88</a> hadir sebagai platform hiburan digital yang menyediakan berbagai informasi mengenai permainan <strong>slot gacor</strong> dan layanan berbasis aplikasi. Mengusung konsep RAJA APK, platform ini menawarkan akses yang praktis dengan antarmuka yang dirancang agar mudah digunakan melalui berbagai perangkat.</p>
+<p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="color:rgb(250, 4, 4);text-decoration: none;">HOKI88</a> hadir sebagai platform hiburan digital yang menyediakan berbagai informasi mengenai permainan <strong>slot gacor</strong> dan layanan berbasis aplikasi. Mengusung konsep RAJA APK, platform ini menawarkan akses yang praktis dengan antarmuka yang dirancang agar mudah digunakan melalui berbagai perangkat.</p>
 <br>
-<p>Beragam kategori permainan dapat ditemukan dalam satu platform, lengkap dengan informasi mengenai fitur, mekanisme permainan, serta penawaran yang tersedia. Istilah seperti <a href="https://dgnl.hcmue.edu.vn/" style="color:rgb(250, 4, 4);text-decoration: none;">slot</a> gacor, maxwin, dan slot88 merupakan istilah yang umum digunakan oleh komunitas pemain untuk menggambarkan pengalaman atau hasil permainan tertentu dan tidak menjamin kemenangan.</p>
+<p>Beragam kategori permainan dapat ditemukan dalam satu platform, lengkap dengan informasi mengenai fitur, mekanisme permainan, serta penawaran yang tersedia. Istilah seperti <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="color:rgb(250, 4, 4);text-decoration: none;">slot</a> gacor, maxwin, dan slot88 merupakan istilah yang umum digunakan oleh komunitas pemain untuk menggambarkan pengalaman atau hasil permainan tertentu dan tidak menjamin kemenangan.</p>
 <br>
-<p>Sebelum menggunakan layanan, pengguna disarankan membaca ketentuan yang berlaku, memahami mekanisme permainan, serta memastikan penggunaan platform sesuai dengan peraturan di wilayah masing-masing. Dengan pendekatan yang informatif dan navigasi sederhana,  <a href="https://dgnl.hcmue.edu.vn/" style="color:rgb(250, 4, 4);text-decoration: none;">HOKI88</a> menjadi salah satu nama yang dapat digunakan sebagai referensi untuk mengenal lebih jauh dunia permainan slot online.</p>
+<p>Sebelum menggunakan layanan, pengguna disarankan membaca ketentuan yang berlaku, memahami mekanisme permainan, serta memastikan penggunaan platform sesuai dengan peraturan di wilayah masing-masing. Dengan pendekatan yang informatif dan navigasi sederhana,  <a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi" style="color:rgb(250, 4, 4);text-decoration: none;">HOKI88</a> menjadi salah satu nama yang dapat digunakan sebagai referensi untuk mengenal lebih jauh dunia permainan slot online.</p>
 
   <style type="text/css">
          div.advertisement-placeholder {
@@ -8505,14 +8505,14 @@ require(['jquery','Magento_Customer/js/customer-data'],
             });
         });
     });
-</script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">SLOT GACOR</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SITUS SLOT</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SLOT GACOR TEBAIK</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SLOT88</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SLOT TERBAIK</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SLOT MAXWIN</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SLOT</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">SITUS SLOT GACOR</a></p>
-</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221644644664">021-644644664</a></p>
+</script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">SLOT GACOR</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SITUS SLOT</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SLOT GACOR TEBAIK</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SLOT88</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SLOT TERBAIK</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SLOT MAXWIN</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SLOT</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">SITUS SLOT GACOR</a></p>
+</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://dgnl.hcmue.edu.vn/index.php?lang=vi">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221644644664">021-644644664</a></p>
 <p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop">
 <p>ikuti kami di media sosial</p>
 <div style="display:flex;column-gap:20px">
-    <a class="item" href="https://dgnl.hcmue.edu.vn/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-    <a class="item" href="https://dgnl.hcmue.edu.vn/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-    <a class="item" href="https://dgnl.hcmue.edu.vn/"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
+    <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
+    <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
+    <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
 </div>
 </div>
 <style>
@@ -8536,14 +8536,14 @@ require(['jquery','Magento_Customer/js/customer-data'],
 </style></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;">
 <p>ikuti kami di media sosial</p>
 <div style="display:flex;column-gap:20px;justify-content: center;">
-    <a class="item" href="https://dgnl.hcmue.edu.vn/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
-    <a class="item" href="https://dgnl.hcmue.edu.vn/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
-    <a class="item" href="https://dgnl.hcmue.edu.vn/"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
+    <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
+    <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
+    <a class="item" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
 </div>
 </div>
 </div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"> 
 <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span> 
-<span><a target="_blank" href="https://dgnl.hcmue.edu.vn/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://ik.imagekit.io/seobadboyz/gambar-kw/logo-slot88-new.png?updatedAt=1788737716803" alt="iso logo"></a></span>
+<span><a target="_blank" href="https://dgnl.hcmue.edu.vn/index.php?lang=vi"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://ik.imagekit.io/seobadboyz/gambar-kw/logo-slot88-new.png?updatedAt=1788737716803" alt="iso logo"></a></span>
 </div>
 <div>
 <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br>
@@ -8605,7 +8605,7 @@ margin:0 26px 35px;
 		let dataMinicart = $('#giftreg-message-minicart');
 		let datapdp = $('#giftreg-message-pdp');
 
-		let formUrl = 'https://dgnl.hcmue.edu.vn/';
+		let formUrl = 'https://dgnl.hcmue.edu.vn/index.php?lang=vi';
 
 		// $('.action.showcart').click(function(){
 		// 	setTimeout(function(){
@@ -8982,7 +8982,7 @@ margin:0 26px 35px;
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://dgnl.hcmue.edu.vn/",
+                                "createUrl": "https://dgnl.hcmue.edu.vn/index.php?lang=vi",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
