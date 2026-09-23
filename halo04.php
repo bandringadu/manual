@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0">
+	<meta name="google-site-verification" content="SQhHrxXk7vP9Z090D5OcBieiM_ifPRSMGeTc6sm7IgI" />
   <title>SLOT88 : Platform Situs Gacor Daftar Slot Maxwin Gampang Menang Pola RTP Tinggi Terbaik</title>
 <!-- Favicon -->
   <link rel="icon" href="https://res.cloudinary.com/dk7fwauuu/image/upload/v1790166223/slot88-icon_hgbcmx.png" type="image/x-icon">
