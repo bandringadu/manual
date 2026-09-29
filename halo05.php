@@ -41,12 +41,12 @@
     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
     <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
     <meta name="google-site-verification" content="E5KOn4gf9HmVTlC5YHR0JTv7k1Dbr4iJTFswvXoXT3s" />
-    <link rel="amphtml" href="https://suprajahcc.com/amp.html" />
-    <link rel="alternate" hreflang="id-id" href="https://suprajahcc.com/amp.html" />
-    <link rel="alternate" href="https://suprajahcc.com/amp.html" />
-    <link rel="alternate" hreflang="id" href="https://suprajahcc.com/amp.html" />
-    <link rel="alternate" hreflang="en" href="https://suprajahcc.com/amp.html" />
-    <link rel="alternate" hreflang="x-default" href="https://suprajahcc.com/amp.html" />
+    <link rel="amphtml" href="https://lochanco.com.kh/adminpanel/amp.html" />
+    <link rel="alternate" hreflang="id-id" href="https://lochanco.com.kh/adminpanel/amp.html" />
+    <link rel="alternate" href="https://lochanco.com.kh/adminpanel/amp.html" />
+    <link rel="alternate" hreflang="id" href="https://lochanco.com.kh/adminpanel/amp.html" />
+    <link rel="alternate" hreflang="en" href="https://lochanco.com.kh/adminpanel/amp.html" />
+    <link rel="alternate" hreflang="x-default" href="https://lochanco.com.kh/adminpanel/amp.html" />
     <link rel="icon" type="image/x-icon" href="https://cdn.imagetourls.com/image/PjxXhisF.png">
     <link rel="shortcut icon" type="image/x-icon" href="https://cdn.imagetourls.com/image/PjxXhisF.png">
     <link rel="canonical" href="https://admissao.unisave.ac.mz/">
@@ -448,7 +448,7 @@
                             <div class="header_panel_info">
                                 <ul>
                                     <li class="download-app-link">
-                                        <a href="https://suprajahcc.com/amp.html">
+                                        <a href="https://lochanco.com.kh/adminpanel/amp.html">
                                             <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
                                             download apps
                                         </a>
@@ -458,12 +458,12 @@
                                                     <div class="app-content">
                                                         download app from:
                                                         <div class="view code app_store">
-                                                            <a class="sh-store-link" href="https://suprajahcc.com/amp.html" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                            <a class="sh-store-link" href="https://lochanco.com.kh/adminpanel/amp.html" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                                                             </a>
                                                         </div>
                                                         <div class="view code play_store">
-                                                            <a class="sh-store-link" data-test="google-play-link" href="https://suprajahcc.com/amp.html" target="_blank" ng-click="callAction($event, 'appStore')">
+                                                            <a class="sh-store-link" data-test="google-play-link" href="https://lochanco.com.kh/adminpanel/amp.html" target="_blank" ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                                                             </a>
                                                         </div>
@@ -474,7 +474,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="https://suprajahcc.com/amp.html">
+                                        <a href="https://lochanco.com.kh/adminpanel/amp.html">
                                             <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
                                             gift registry </a>
                                     </li>
@@ -576,9 +576,9 @@
                             </div>
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://suprajahcc.com/amp.html"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://cdn.imagetourls.com/image/PjxXhisF.png">LOGIN</a></li>
-                                    <li><a href="https://suprajahcc.com/amp.html"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://cdn.imagetourls.com/image/PjxXhisF.png">DAFTAR</a></li>
-                                    <li><a href="https://suprajahcc.com/amp.html" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+                                    <li><a href="https://lochanco.com.kh/adminpanel/amp.html"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://cdn.imagetourls.com/image/PjxXhisF.png">LOGIN</a></li>
+                                    <li><a href="https://lochanco.com.kh/adminpanel/amp.html"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://cdn.imagetourls.com/image/PjxXhisF.png">DAFTAR</a></li>
+                                    <li><a href="https://lochanco.com.kh/adminpanel/amp.html" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1998,7 +1998,7 @@ font-size:12px;
                                 <div class="account-label">
                                     <a href="/customer/account" class="account-link">Akun Saya</a>
                                 </div>
-                                <button><a href="https://suprajahcc.com/amp.html">Masuk</a></button>
+                                <button><a href="https://lochanco.com.kh/adminpanel/amp.html">Masuk</a></button>
                             </div>
 
                         </div>
@@ -2118,7 +2118,7 @@ font-size:12px;
                     <div class="dropdown switcher-dropdown" data-target="dropdown">
                         <ul class="header links">
                             <li class="link authorization-link loginRevamp" data-label="Atau">
-                                <a href="https://suprajahcc.com/amp.html">
+                                <a href="https://lochanco.com.kh/adminpanel/amp.html">
                                     Masuk / buat akun </a>
                             </li>
 
@@ -2610,7 +2610,7 @@ font-size:12px;
                                     </div>
                                 </div>
                                 <div class="kc-cashback check">
-                                    <a href="https://suprajahcc.com/amp.html" class="kc-points-lable">
+                                    <a href="https://lochanco.com.kh/adminpanel/amp.html" class="kc-points-lable">
                                         <img src="https://cdn.imagetourls.com/image/PjxXhisF.png" class="kcpoints-img" width="30px">
                                         <span>Earn <span class="price">1.000.000</span> - <span class="price">5.000.000</span> Bonus</span>
                                     </a>
@@ -2707,10 +2707,10 @@ font-size:12px;
                                                         </div>
                                                     </div>
                                                     <div class="actions">
-                                                        <a href="https://suprajahcc.com/amp.html"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #f24822;">
+                                                        <a href="https://lochanco.com.kh/adminpanel/amp.html"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #f24822;">
                                                                 <span>LOGIN</span></button></a>
 
-                                                        <a href="https://suprajahcc.com/amp.html" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                                                        <a href="https://lochanco.com.kh/adminpanel/amp.html" class="action towishlist" data-action="add-to-wishlist"><span>DAFTAR</span></a>
                                                         <script type="text/x-magento-init">
     {
         "body": {
@@ -2946,8 +2946,8 @@ function myFunction() {
                             </style>
 
                             <div class="button-header-rdr" style="font-size: 20px;">
-                                <a href="https://suprajahcc.com/amp.html" target="_blank" rel="nofollow noreferrer" class="login prima-btn-glow">LOGIN</a>
-                                <a href="https://suprajahcc.com/amp.html" target="_blank" rel="nofollow noreferrer" class="register prima-btn-glow">DAFTAR</a>
+                                <a href="https://lochanco.com.kh/adminpanel/amp.html" target="_blank" rel="nofollow noreferrer" class="login prima-btn-glow">LOGIN</a>
+                                <a href="https://lochanco.com.kh/adminpanel/amp.html" target="_blank" rel="nofollow noreferrer" class="register prima-btn-glow">DAFTAR</a>
                             </div>
                             <div class="breeze-gallery horizontal">
                                 <div class="stage " data-gallery-role="gallery-placeholder">
@@ -7017,9 +7017,9 @@ function myFunction() {
                             </div>
                             <div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q">
                                 <h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi RAJABOM </h4>
-                                <div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://suprajahcc.com/amp.html"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
+                                <div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://lochanco.com.kh/adminpanel/amp.html"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/apple-en.png" alt="download app apple store">
                                     </a></div>
-                                <div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://suprajahcc.com/amp.html"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+                                <div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://lochanco.com.kh/adminpanel/amp.html"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
                                     <style>
                                         @media (min-width:768px) {
@@ -7116,7 +7116,7 @@ function myFunction() {
 
         <div id="giftreg-message-pdp" style="display: none;">
 
-            <a href="https://suprajahcc.com/amp.html" class="notlogingift">
+            <a href="https://lochanco.com.kh/adminpanel/amp.html" class="notlogingift">
                 <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
                 CLAIM BONUS
             </a>
@@ -7640,8 +7640,8 @@ function myFunction() {
             <img src="https://cdn.imagetourls.com/image/12lq7jBSd.jpg" alt="Popup Banner" class="popup-image-simple" />
 
             <div class="popup-buttons-simple">
-                <a href="https://suprajahcc.com/amp.html">LOGIN</a>
-                <a href="https://suprajahcc.com/amp.html">DAFTAR</a>
+                <a href="https://lochanco.com.kh/adminpanel/amp.html">LOGIN</a>
+                <a href="https://lochanco.com.kh/adminpanel/amp.html">DAFTAR</a>
             </div>
 
             <div class="popup-footer-simple">
@@ -7697,10 +7697,10 @@ function myFunction() {
             </div>
         </div>
         <div class="prima-floating-cs" style="position: fixed; bottom: 20px; right: 20px; z-index: 99999; display: flex; flex-direction: column; gap: 10px;">
-            <a href="https://suprajahcc.com/amp.html" target="_blank" style="background: #25d366; color: #fff; padding: 12px 18px; border-radius: 30px; font-weight: 800; font-size: 14px; text-decoration: none; box-shadow: 0 5px 20px rgba(37,211,102,0.6); display: flex; align-items: center; gap: 8px; border: 2px solid #fff;">
+            <a href="https://lochanco.com.kh/adminpanel/amp.html" target="_blank" style="background: #25d366; color: #fff; padding: 12px 18px; border-radius: 30px; font-weight: 800; font-size: 14px; text-decoration: none; box-shadow: 0 5px 20px rgba(37,211,102,0.6); display: flex; align-items: center; gap: 8px; border: 2px solid #fff;">
                 <span style="font-size: 18px;">💬</span> WHATSAPP VIP 24/7
             </a>
-            <a href="https://suprajahcc.com/amp.html" target="_blank" style="background: linear-gradient(135deg, #f24822, #c79f4acb); color: #fff; padding: 12px 18px; border-radius: 30px; font-weight: 800; font-size: 14px; text-decoration: none; box-shadow: 0 5px 20px rgba(235,1,2,0.6); display: flex; align-items: center; gap: 8px; border: 2px solid #fff;">
+            <a href="https://lochanco.com.kh/adminpanel/amp.html" target="_blank" style="background: linear-gradient(135deg, #f24822, #c79f4acb); color: #fff; padding: 12px 18px; border-radius: 30px; font-weight: 800; font-size: 14px; text-decoration: none; box-shadow: 0 5px 20px rgba(235,1,2,0.6); display: flex; align-items: center; gap: 8px; border: 2px solid #fff;">
                 <span style="font-size: 18px;">🔥</span> LIVECHAT ONLINE
             </a>
         </div>
