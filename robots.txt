@@ -1,3 +1,1311 @@
-User-agent: *
-Allow: /
-Sitemap: https://www.semanapsicoactivabogota.com/agenda-2020/sitemap.xml
+<!doctype html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <title>RAJABOLA 🚀 Raja Situs Bola SLOT GACOR 2026 Platform Informasi Maxwin dan Terpercaya</title>
+  <meta name="description" content="RAJABOLA merupakan platform raja situs bola slot gacor 2026 informasi digital daring membahas permainan slot gacor 2026 penyajian terstruktur, agen resmi berfokus pada informasi yang mudah dipahami, relevan, dan diperbarui secara berkala agar pengunjung dapat menemukan referensi sesuai kebutuhan mereka.">
+  <meta name="language" content="id">
+  <meta name="geo.placename" content="Indonesia">
+  <meta name="geo.country" content="ID">
+  <meta name="tgn.nation" content="Indonesia">
+  <meta name="author" content="RAJABOLA">
+  <meta name="theme-color" content="#ff0000">
+  <link rel="canonical" href="https://valeria.pcr.ac.id/">
+  <link rel="icon" type="image/png" href="https://cdn.imagetourls.com/image/PjxXhisF.png">
+  <link rel="apple-touch-icon" href="https://cdn.imagetourls.com/image/PjxXhisF.png">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="id_ID">
+  <meta property="og:title" content="RAJABOLA 🚀 Raja Situs Bola SLOT GACOR 2026 Platform Informasi Maxwin dan Terpercaya">
+  <meta property="og:description" content="RAJABOLA merupakan platform raja situs bola slot gacor 2026 informasi digital daring membahas permainan slot gacor 2026 penyajian terstruktur, agen resmi berfokus pada informasi yang mudah dipahami, relevan, dan diperbarui secara berkala agar pengunjung dapat menemukan referensi sesuai kebutuhan mereka.">
+  <meta property="og:url" content="https://valeria.pcr.ac.id/">
+  <meta property="og:site_name" content="RAJABOLA">
+  <meta property="og:image" content="https://cdn.imagetourls.com/image/QRh76PK4.jpg">
+  <meta property="og:image:alt" content="RAJABOLA">
+  <meta property="og:image:width" content="1080">
+  <meta property="og:image:height" content="1080">
+  <style amp-boilerplate>
+    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+    -moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+    -ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+    animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  </style>
+  <noscript>
+    <style amp-boilerplate>
+      body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+    </style>
+  </noscript>
+
+  <style amp-custom>
+    :root{
+      --red:#e00000;
+      --dark-red:#540000;
+      --gold:#ffc847;
+      --black:#050505;
+      --panel:#170000;
+      --text:#f6eeee;
+      --muted:#cdbebe;
+    }
+
+    *{box-sizing:border-box}
+    html{background:var(--black)}
+    body{
+      margin:0;
+      padding:72px 0 84px;
+      background:
+        radial-gradient(circle at top right,rgba(220,0,0,.18),transparent 34%),
+        linear-gradient(180deg,#050505 0%,#100000 100%);
+      color:var(--text);
+      font-family:Arial,Helvetica,sans-serif;
+      font-size:14px;
+      line-height:1.6;
+    }
+
+    a{text-decoration:none}
+    .container{
+      width:100%;
+      max-width:1080px;
+      margin:0 auto;
+      padding-left:14px;
+      padding-right:14px;
+    }
+
+    .site-header{
+      position:fixed;
+      z-index:20;
+      top:0;
+      right:0;
+      left:0;
+      min-height:66px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      padding:8px 14px;
+      background:linear-gradient(180deg,#050505,#1b0000);
+      border-bottom:3px solid var(--red);
+      box-shadow:0 8px 25px rgba(0,0,0,.4);
+    }
+
+    .brand-logo{
+      display:block;
+      width:150px;
+      max-width:46vw;
+    }
+
+    .header-button{
+      display:inline-flex;
+      min-height:42px;
+      align-items:center;
+      justify-content:center;
+      padding:9px 15px;
+      border:2px solid var(--red);
+      border-radius:999px;
+      background:#070707;
+      color:#fff;
+      font-size:12px;
+      font-weight:800;
+      text-align:center;
+    }
+
+    .ticker{
+      overflow:hidden;
+      margin:8px;
+      border:1px solid rgba(255,200,71,.65);
+      border-radius:12px;
+      background:linear-gradient(90deg,#250000,#a00000,#250000);
+    }
+
+    .ticker-text{
+      display:block;
+      min-width:max-content;
+      padding:7px 0;
+      color:#fff;
+      font-size:12px;
+      font-weight:700;
+      white-space:nowrap;
+      animation:ticker 24s linear infinite;
+    }
+
+    @keyframes ticker{
+      from{transform:translateX(100vw)}
+      to{transform:translateX(-100%)}
+    }
+
+    .hero{
+      overflow:hidden;
+      max-width:1080px;
+      margin:0 auto;
+      border-top:1px solid rgba(255,255,255,.08);
+      border-bottom:1px solid rgba(255,255,255,.08);
+      background:#000;
+    }
+
+    .hero amp-img{display:block}
+
+    .primary-actions{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:10px;
+      padding-top:12px;
+      padding-bottom:12px;
+    }
+
+    .action-button{
+      display:flex;
+      min-height:46px;
+      align-items:center;
+      justify-content:center;
+      border-radius:999px;
+      color:#fff;
+      font-size:14px;
+      font-weight:900;
+      text-align:center;
+    }
+
+    .action-login{
+      border:2px solid var(--gold);
+      background:linear-gradient(135deg,#080808,#7d0000);
+    }
+
+    .action-register{
+      border:2px solid var(--red);
+      background:linear-gradient(135deg,#e00000,#170000);
+    }
+
+    .section-title{
+      margin:4px 0 14px;
+      padding:12px 15px;
+      border-radius:14px;
+      background:linear-gradient(90deg,#4a0000,#e00000,#4a0000);
+      color:#fff;
+      font-size:16px;
+      font-weight:900;
+      text-align:center;
+    }
+
+    .game-grid{
+      display:grid;
+      grid-template-columns:repeat(5,minmax(0,1fr));
+      gap:10px;
+      margin:0;
+      padding:0 0 20px;
+      list-style:none;
+    }
+
+    .game-card{
+      overflow:hidden;
+      border:1px solid rgba(255,200,71,.3);
+      border-radius:16px;
+      background:linear-gradient(180deg,#680000,#180000);
+      box-shadow:0 10px 24px rgba(0,0,0,.25);
+    }
+
+    .game-image{
+      overflow:hidden;
+      background:#000;
+    }
+
+    .game-info{padding:9px}
+    .game-name{
+      min-height:36px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:#fff;
+      font-size:11px;
+      font-weight:800;
+      line-height:1.35;
+      text-align:center;
+    }
+
+    .rtp-row{
+      display:flex;
+      align-items:center;
+      gap:6px;
+      margin-top:7px;
+      color:#fff;
+      font-size:9px;
+    }
+
+    .rtp-track{
+      flex:1;
+      overflow:hidden;
+      height:7px;
+      border-radius:999px;
+      background:#fff;
+    }
+
+    .rtp-fill{
+      height:100%;
+      border-radius:999px;
+      background:linear-gradient(90deg,#27a78f,#68d994);
+    }
+
+    .w92{width:92%}
+    .w94{width:94%}
+    .w95{width:95%}
+    .w96{width:96%}
+    .w98{width:98%}
+
+    .play-button{
+      display:flex;
+      min-height:34px;
+      align-items:center;
+      justify-content:center;
+      margin-top:9px;
+      border-radius:999px;
+      background:linear-gradient(135deg,#ff2525,#7e0000);
+      color:#fff;
+      font-size:11px;
+      font-weight:900;
+    }
+
+    .article-section{
+      padding:18px 14px 28px;
+    }
+
+    .article-card{
+      max-width:1080px;
+      margin:0 auto;
+      padding:30px;
+      border:1px solid rgba(255,200,71,.22);
+      border-radius:24px;
+      background:linear-gradient(215deg,rgba(70,0,0,.95),rgba(15,0,0,.98));
+      box-shadow:0 22px 55px rgba(0,0,0,.3);
+    }
+
+    .breadcrumb{margin-bottom:20px}
+    .breadcrumb ol{
+      display:flex;
+      flex-wrap:wrap;
+      align-items:center;
+      gap:8px;
+      margin:0;
+      padding:0;
+      list-style:none;
+    }
+
+    .breadcrumb li{
+      display:flex;
+      align-items:center;
+      color:#fff;
+      font-size:12px;
+      font-weight:700;
+    }
+
+    .breadcrumb a{color:var(--gold)}
+    .breadcrumb-separator{
+      width:7px;
+      height:7px;
+      border-top:2px solid rgba(255,200,71,.7);
+      border-right:2px solid rgba(255,200,71,.7);
+      transform:rotate(45deg);
+    }
+
+    .article-title{
+      margin:0 0 18px;
+      color:#ff3b3b;
+      font-size:clamp(25px,4vw,40px);
+      line-height:1.3;
+    }
+
+    .article-card p{
+      margin:0;
+      color:#e0d2d2;
+      font-size:15px;
+      line-height:1.9;
+    }
+
+    .article-card strong,
+    .article-card p a{color:#ff5b5b}
+
+    .fixed-footer{
+      position:fixed;
+      z-index:30;
+      right:0;
+      bottom:0;
+      left:0;
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:8px;
+      padding:8px 12px;
+      border-top:3px solid var(--red);
+      border-radius:22px 22px 0 0;
+      background:linear-gradient(180deg,#1c1c1c,#050505);
+      box-shadow:0 -10px 28px rgba(0,0,0,.4);
+    }
+
+    .footer-action{
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      justify-content:center;
+      min-height:58px;
+      color:#fff;
+      font-size:10px;
+      font-weight:800;
+      text-align:center;
+    }
+
+    .footer-icon{
+      width:28px;
+      margin-bottom:3px;
+    }
+
+    .footer-action-main{
+      transform:translateY(-9px);
+    }
+
+    .footer-action-main .footer-icon{
+      width:45px;
+    }
+
+    @media(max-width:760px){
+      body{padding-top:68px}
+      .game-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+      .article-card{padding:23px 18px;border-radius:19px}
+      .article-title{font-size:27px}
+    }
+
+    @media(min-width:761px) and (max-width:980px){
+      .game-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+    }
+
+    @media(max-width:380px){
+      .site-header{padding-left:10px;padding-right:10px}
+      .header-button{padding:8px 11px;font-size:10px}
+      .primary-actions{gap:7px}
+      .action-button{font-size:12px}
+      .article-title{font-size:23px}
+    }
+
+    @media(prefers-reduced-motion:reduce){
+      .ticker-text{animation:none;min-width:0;white-space:normal;text-align:center}
+    }
+
+.primary-actions{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+  width:100%;
+  max-width:1080px;
+  margin:14px auto 20px;
+  padding:0 14px;
+}
+
+.action-button{
+  position:relative;
+  overflow:hidden;
+  min-height:58px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  padding:14px 18px;
+  border-radius:18px;
+  color:#fff;
+  font-size:14px;
+  font-weight:900;
+  letter-spacing:.6px;
+  text-align:center;
+  box-shadow:
+    0 14px 28px rgba(0,0,0,.32),
+    inset 0 1px 0 rgba(255,255,255,.16);
+  transition:
+    transform .25s ease,
+    box-shadow .25s ease,
+    filter .25s ease;
+}
+
+.action-button::before{
+  position:absolute;
+  top:-55%;
+  left:-35%;
+  width:28%;
+  height:210%;
+  background:linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.35),
+    transparent
+  );
+  transform:rotate(18deg);
+  animation:action-shine 4s linear infinite;
+  content:"";
+}
+
+.action-button::after{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:28px;
+  height:28px;
+  flex-shrink:0;
+  border:1px solid rgba(255,255,255,.22);
+  border-radius:50%;
+  background:rgba(0,0,0,.2);
+  font-size:14px;
+  line-height:1;
+}
+
+.action-login{
+  border:1px solid rgba(255,202,71,.65);
+  background:
+    radial-gradient(circle at top left,rgba(255,215,80,.18),transparent 36%),
+    linear-gradient(135deg,#090909,#5b0000);
+}
+
+.action-login::after{
+  content:"→";
+}
+
+.action-register{
+  border:1px solid rgba(255,255,255,.18);
+  background:
+    radial-gradient(circle at top right,rgba(255,210,65,.2),transparent 34%),
+    linear-gradient(135deg,#ff2626,#8d0000 55%,#360000);
+}
+
+.action-register::after{
+  content:"+";
+}
+
+.action-button:hover{
+  transform:translateY(-3px);
+  filter:brightness(1.08);
+}
+
+.action-login:hover{
+  box-shadow:
+    0 18px 34px rgba(0,0,0,.38),
+    0 0 24px rgba(255,202,71,.18);
+}
+
+.action-register:hover{
+  box-shadow:
+    0 18px 34px rgba(0,0,0,.38),
+    0 0 26px rgba(255,0,0,.28);
+}
+
+.action-text{
+  position:relative;
+  z-index:1;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  line-height:1.2;
+}
+
+.action-text strong{
+  font-size:15px;
+  font-weight:900;
+}
+
+.action-text span{
+  margin-top:4px;
+  color:rgba(255,255,255,.72);
+  font-size:10px;
+  font-weight:600;
+  letter-spacing:0;
+}
+
+@keyframes action-shine{
+  0%{left:-40%}
+  55%,100%{left:130%}
+}
+
+@media(max-width:600px){
+  .primary-actions{
+    gap:9px;
+    margin-top:10px;
+    margin-bottom:15px;
+    padding:0 10px;
+  }
+
+  .action-button{
+    min-height:52px;
+    padding:11px 12px;
+    border-radius:15px;
+    gap:7px;
+  }
+
+  .action-button::after{
+    width:24px;
+    height:24px;
+    font-size:12px;
+  }
+
+  .action-text strong{
+    font-size:13px;
+  }
+
+  .action-text span{
+    font-size:9px;
+  }
+}
+
+@media(max-width:360px){
+  .action-text span{
+    display:none;
+  }
+
+  .action-button{
+    min-height:48px;
+  }
+}
+.game-showcase{
+  width:100%;
+  max-width:1080px;
+  margin:0 auto;
+  padding:18px 14px 26px;
+}
+
+.game-section-heading{
+  position:relative;
+  overflow:hidden;
+  margin:0 0 18px;
+  padding:15px 18px;
+  border:1px solid rgba(255,202,56,.35);
+  border-radius:18px;
+  background:
+    radial-gradient(circle at top right,rgba(255,205,70,.18),transparent 35%),
+    linear-gradient(135deg,#2b0000,#b90000,#220000);
+  color:#fff;
+  box-shadow:0 14px 35px rgba(0,0,0,.35);
+}
+
+.game-section-heading::after{
+  position:absolute;
+  top:-40%;
+  left:-25%;
+  width:30%;
+  height:180%;
+  background:linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.22),
+    transparent
+  );
+  transform:rotate(18deg);
+  animation:game-heading-shine 4.5s linear infinite;
+  content:"";
+}
+
+@keyframes game-heading-shine{
+  0%{left:-35%}
+  55%,100%{left:125%}
+}
+
+.game-heading-row{
+  position:relative;
+  z-index:1;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+}
+
+.game-heading-text{
+  display:flex;
+  flex-direction:column;
+}
+
+.game-heading-text strong{
+  color:#fff;
+  font-size:17px;
+  line-height:1.3;
+}
+
+.game-heading-text span{
+  margin-top:3px;
+  color:#f2cece;
+  font-size:11px;
+}
+
+.game-heading-badge{
+  flex-shrink:0;
+  padding:7px 12px;
+  border:1px solid rgba(255,255,255,.25);
+  border-radius:999px;
+  background:linear-gradient(135deg,#ffe69a,#ffbd21);
+  color:#451600;
+  font-size:10px;
+  font-weight:900;
+  letter-spacing:.5px;
+}
+
+.game-grid{
+  display:grid;
+  grid-template-columns:repeat(5,minmax(0,1fr));
+  gap:14px;
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+
+.game-card{
+  position:relative;
+  overflow:hidden;
+  border:1px solid rgba(255,202,56,.22);
+  border-radius:20px;
+  background:
+    radial-gradient(circle at top right,rgba(255,36,36,.15),transparent 42%),
+    linear-gradient(180deg,#4d0000 0%,#160000 100%);
+  box-shadow:
+    0 14px 32px rgba(0,0,0,.34),
+    inset 0 1px 0 rgba(255,255,255,.06);
+  transition:transform .25s ease,box-shadow .25s ease;
+}
+
+.game-card:hover{
+  transform:translateY(-5px);
+  box-shadow:
+    0 20px 42px rgba(176,0,0,.36),
+    0 0 0 1px rgba(255,202,56,.14);
+}
+
+.game-thumb{
+  position:relative;
+  overflow:hidden;
+  background:#050505;
+}
+
+.game-thumb::after{
+  position:absolute;
+  right:0;
+  bottom:0;
+  left:0;
+  height:46%;
+  background:linear-gradient(transparent,rgba(0,0,0,.82));
+  pointer-events:none;
+  content:"";
+}
+
+.game-thumb amp-img{
+  display:block;
+  transition:transform .3s ease,filter .3s ease;
+}
+
+.game-card:hover .game-thumb amp-img{
+  transform:scale(1.07);
+  filter:brightness(1.06);
+}
+
+.game-provider,
+.game-rtp-badge{
+  position:absolute;
+  z-index:3;
+  top:9px;
+  display:inline-flex;
+  align-items:center;
+  min-height:24px;
+  padding:4px 9px;
+  border-radius:999px;
+  font-size:9px;
+  font-weight:900;
+  line-height:1;
+  box-shadow:0 5px 14px rgba(0,0,0,.28);
+}
+
+.game-provider{
+  left:9px;
+  border:1px solid rgba(255,255,255,.32);
+  background:linear-gradient(135deg,#ffe99e,#ffbf27);
+  color:#451800;
+}
+
+.game-rtp-badge{
+  right:9px;
+  border:1px solid rgba(255,255,255,.28);
+  background:linear-gradient(135deg,#0fbc71,#067647);
+  color:#fff;
+}
+
+.game-hot-label{
+  position:absolute;
+  z-index:3;
+  right:9px;
+  bottom:9px;
+  padding:5px 9px;
+  border:1px solid rgba(255,255,255,.2);
+  border-radius:999px;
+  background:rgba(160,0,0,.86);
+  color:#fff;
+  font-size:9px;
+  font-weight:900;
+  backdrop-filter:blur(5px);
+}
+
+.game-body{
+  padding:12px;
+}
+
+.game-name{
+  overflow:hidden;
+  min-height:38px;
+  display:-webkit-box;
+  margin:0 0 10px;
+  color:#fff;
+  font-size:13px;
+  font-weight:900;
+  line-height:1.4;
+  text-align:left;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:2;
+}
+
+.game-rating{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+  margin-bottom:10px;
+  color:#d6caca;
+  font-size:10px;
+}
+
+.game-stars{
+  color:#ffd348;
+  letter-spacing:1px;
+}
+
+.game-progress-row{
+  display:flex;
+  align-items:center;
+  gap:7px;
+  margin-bottom:11px;
+}
+
+.game-progress-label{
+  flex-shrink:0;
+  color:#ddd;
+  font-size:9px;
+  font-weight:800;
+}
+
+.game-progress{
+  flex:1;
+  overflow:hidden;
+  height:7px;
+  border-radius:999px;
+  background:rgba(255,255,255,.16);
+  box-shadow:inset 0 1px 3px rgba(0,0,0,.35);
+}
+
+.game-progress-fill{
+  display:block;
+  height:100%;
+  border-radius:999px;
+  background:linear-gradient(90deg,#ffbd22,#ff3a3a);
+  box-shadow:0 0 10px rgba(255,58,58,.4);
+}
+
+.rtp-92{width:92%}
+.rtp-94{width:94%}
+.rtp-95{width:95%}
+.rtp-96{width:96%}
+.rtp-98{width:98%}
+
+.game-play-button{
+  position:relative;
+  overflow:hidden;
+  min-height:39px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  border:1px solid rgba(255,255,255,.18);
+  border-radius:999px;
+  background:linear-gradient(135deg,#f21b1b,#7b0000);
+  color:#fff;
+  font-size:11px;
+  font-weight:900;
+  letter-spacing:.3px;
+  text-align:center;
+  box-shadow:
+    0 9px 18px rgba(136,0,0,.34),
+    inset 0 1px 0 rgba(255,255,255,.18);
+}
+
+.game-play-button::after{
+  position:absolute;
+  top:-40%;
+  left:-35%;
+  width:30%;
+  height:180%;
+  background:linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.28),
+    transparent
+  );
+  transform:rotate(18deg);
+  animation:game-button-shine 3.8s linear infinite;
+  content:"";
+}
+
+@keyframes game-button-shine{
+  0%{left:-40%}
+  60%,100%{left:130%}
+}
+
+@media(max-width:900px){
+  .game-grid{
+    grid-template-columns:repeat(3,minmax(0,1fr));
+  }
+}
+
+@media(max-width:600px){
+  .game-showcase{
+    padding-right:10px;
+    padding-left:10px;
+  }
+
+  .game-section-heading{
+    padding:13px;
+    border-radius:15px;
+  }
+
+  .game-heading-text strong{
+    font-size:14px;
+  }
+
+  .game-heading-text span{
+    font-size:10px;
+  }
+
+  .game-heading-badge{
+    padding:6px 9px;
+    font-size:9px;
+  }
+
+  .game-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:10px;
+  }
+
+  .game-card{
+    border-radius:16px;
+  }
+
+  .game-body{
+    padding:10px;
+  }
+
+  .game-name{
+    min-height:36px;
+    font-size:12px;
+  }
+
+  .game-provider,
+  .game-rtp-badge{
+    top:7px;
+    min-height:21px;
+    padding:4px 7px;
+    font-size:8px;
+  }
+
+  .game-provider{
+    left:7px;
+  }
+
+  .game-rtp-badge{
+    right:7px;
+  }
+
+  .game-hot-label{
+    right:7px;
+    bottom:7px;
+    font-size:8px;
+  }
+}
+</style>
+
+</head>
+
+<body>
+  <header class="site-header">
+    <a class="brand-logo" href="#" aria-label="RAJABOLA">
+      <amp-img
+        src="https://cdn.imagetourls.com/image/12Kn0brt2.png"
+        width="640"
+        height="163"
+        layout="responsive"
+        alt="RAJABOLA 🚀 Raja Situs Bola SLOT GACOR 2026 Platform Informasi Maxwin dan Terpercaya">
+      </amp-img>
+    </a>
+
+    <a
+      class="header-button"
+      href="https://heg.tc/ElVhX"
+      target="_blank"
+      rel="nofollow noopener">
+      DAFTAR SEKARANG
+    </a>
+  </header>
+
+  <div class="ticker" aria-label="Informasi RAJABOLA">
+    <span class="ticker-text">
+      RAJABOLA merupakan platform raja situs bola slot gacor 2026 informasi digital daring membahas permainan slot gacor 2026 penyajian terstruktur, agen resmi berfokus pada informasi yang mudah dipahami, relevan, dan diperbarui secara berkala agar pengunjung dapat menemukan referensi sesuai kebutuhan mereka.
+    </span>
+  </div>
+
+  <main>
+    <section class="hero" aria-label="Banner utama RAJABOLA">
+      <amp-img
+        src="https://cdn.imagetourls.com/image/QRh76PK4.jpg"
+        width="1080"
+        height="1080"
+        layout="responsive"
+        alt="Banner RAJABOLA">
+      </amp-img>
+    </section>
+
+
+<div class="primary-actions">
+  <a
+    class="action-button action-login"
+    href="https://heg.tc/ElVhX"
+    target="_blank"
+    rel="nofollow noopener">
+
+    <span class="action-text">
+      <strong>LOGIN</strong>
+    </span>
+  </a>
+
+  <a
+    class="action-button action-register"
+    href="https://heg.tc/ElVhX"
+    target="_blank"
+    rel="nofollow noopener">
+
+    <span class="action-text">
+      <strong>DAFTAR</strong>
+    </span>
+  </a>
+</div>
+
+
+<section class="game-showcase" id="slot-gacor" aria-labelledby="games-heading">
+  <div class="game-section-heading">
+    <div class="game-heading-row">
+      <div class="game-heading-text">
+        <strong id="games-heading">Daftar Bocoran Game Gacor Terbaru Hari Ini</strong>
+      </div>
+
+      <span class="game-heading-badge">HOT GAMES</span>
+    </div>
+  </div>
+
+  <ul class="game-grid">
+    <li class="game-card">
+      <div class="game-thumb">
+        <span class="game-provider">SLOT88</span>
+        <span class="game-rtp-badge">RTP 92%</span>
+
+        <amp-img
+          src="https://dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs20slot88og.jpg?v=606021804"
+          width="215"
+          height="215"
+          layout="responsive"
+          alt="Slot88 Olympus">
+        </amp-img>
+
+        <span class="game-hot-label">POPULER</span>
+      </div>
+
+      <div class="game-body">
+        <div class="game-name">Slot88 Olympus</div>
+
+        <div class="game-rating">
+          <span class="game-stars">★★★★★</span>
+          <span>4.9/5</span>
+        </div>
+
+        <div class="game-progress-row">
+          <span class="game-progress-label">RTP</span>
+          <span class="game-progress">
+            <span class="game-progress-fill rtp-92"></span>
+          </span>
+        </div>
+
+        <a
+          class="game-play-button"
+          href="https://heg.tc/ElVhX"
+          target="_blank"
+          rel="nofollow noopener">
+          MAIN SEKARANG
+        </a>
+      </div>
+    </li>
+
+    <li class="game-card">
+      <div class="game-thumb">
+        <span class="game-provider">SLOT88</span>
+        <span class="game-rtp-badge">RTP 96%</span>
+
+        <amp-img
+          src="https://dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs20slot88sb.jpg?v=606021804"
+          width="215"
+          height="215"
+          layout="responsive"
+          alt="Slot88 Bonanza">
+        </amp-img>
+
+        <span class="game-hot-label">TERBARU</span>
+      </div>
+
+      <div class="game-body">
+        <div class="game-name">Slot88 Bonanza</div>
+
+        <div class="game-rating">
+          <span class="game-stars">★★★★★</span>
+          <span>4.8/5</span>
+        </div>
+
+        <div class="game-progress-row">
+          <span class="game-progress-label">RTP</span>
+          <span class="game-progress">
+            <span class="game-progress-fill rtp-96"></span>
+          </span>
+        </div>
+
+        <a
+          class="game-play-button"
+          href="https://heg.tc/ElVhX"
+          target="_blank"
+          rel="nofollow noopener">
+          MAIN SEKARANG
+        </a>
+      </div>
+    </li>
+
+    <li class="game-card">
+      <div class="game-thumb">
+        <span class="game-provider">SLOT88</span>
+        <span class="game-rtp-badge">RTP 95%</span>
+
+        <amp-img
+          src="https://dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs20slwisdx.jpg?v=606021804"
+          width="215"
+          height="215"
+          layout="responsive"
+          alt="Slot88 Wisdom of Athena">
+        </amp-img>
+
+        <span class="game-hot-label">FAVORIT</span>
+      </div>
+
+      <div class="game-body">
+        <div class="game-name">Slot88 Wisdom of Athena</div>
+
+        <div class="game-rating">
+          <span class="game-stars">★★★★★</span>
+          <span>4.7/5</span>
+        </div>
+
+        <div class="game-progress-row">
+          <span class="game-progress-label">RTP</span>
+          <span class="game-progress">
+            <span class="game-progress-fill rtp-95"></span>
+          </span>
+        </div>
+
+        <a
+          class="game-play-button"
+          href="https://heg.tc/ElVhX"
+          target="_blank"
+          rel="nofollow noopener">
+          MAIN SEKARANG
+        </a>
+      </div>
+    </li>
+
+    <li class="game-card">
+      <div class="game-thumb">
+        <span class="game-provider">SLOT88</span>
+        <span class="game-rtp-badge">RTP 94%</span>
+
+        <amp-img
+          src="https://dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vs20gacorx.jpg?v=606021804"
+          width="215"
+          height="215"
+          layout="responsive"
+          alt="Bang Gacor 1000">
+        </amp-img>
+
+        <span class="game-hot-label">TRENDING</span>
+      </div>
+
+      <div class="game-body">
+        <div class="game-name">Bang Gacor 1000</div>
+
+        <div class="game-rating">
+          <span class="game-stars">★★★★★</span>
+          <span>4.8/5</span>
+        </div>
+
+        <div class="game-progress-row">
+          <span class="game-progress-label">RTP</span>
+          <span class="game-progress">
+            <span class="game-progress-fill rtp-94"></span>
+          </span>
+        </div>
+
+        <a
+          class="game-play-button"
+          href="https://heg.tc/ElVhX"
+          target="_blank"
+          rel="nofollow noopener">
+          MAIN SEKARANG
+        </a>
+      </div>
+    </li>
+
+    <li class="game-card" id="slot88">
+      <div class="game-thumb">
+        <span class="game-provider">SLOT88</span>
+        <span class="game-rtp-badge">RTP 98%</span>
+
+        <amp-img
+          src="https://dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/vswaysslotwin.jpg?v=606021804"
+          width="215"
+          height="215"
+          layout="responsive"
+          alt="Slot88 Mahjong Wins 3">
+        </amp-img>
+
+        <span class="game-hot-label">TOP GAME</span>
+      </div>
+
+      <div class="game-body">
+        <div class="game-name">Slot88 Mahjong Wins 3</div>
+
+        <div class="game-rating">
+          <span class="game-stars">★★★★★</span>
+          <span>5.0/5</span>
+        </div>
+
+        <div class="game-progress-row">
+          <span class="game-progress-label">RTP</span>
+          <span class="game-progress">
+            <span class="game-progress-fill rtp-98"></span>
+          </span>
+        </div>
+
+        <a
+          class="game-play-button"
+          href="https://heg.tc/ElVhX"
+          target="_blank"
+          rel="nofollow noopener">
+          MAIN SEKARANG
+        </a>
+      </div>
+    </li>
+  </ul>
+</section>
+    <section class="article-section" aria-labelledby="article-title">
+      <article class="article-card">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <ol>
+            <li>
+              <a href="https://valeria.pcr.ac.id/">RAJABOLA</a>
+            </li>
+            <li aria-hidden="true">
+              <span class="breadcrumb-separator"></span>
+            </li>
+            <li>
+              <a href="https://valeria.pcr.ac.id/">SLOT GACOR</a>
+            </li>
+            <li aria-hidden="true">
+              <span class="breadcrumb-separator"></span>
+            </li>
+            <li>
+              <a href="https://valeria.pcr.ac.id/">SLOT</a>
+            </li>
+            <li aria-hidden="true">
+              <span class="breadcrumb-separator"></span>
+            </li>
+            <li>
+              <a href="https://valeria.pcr.ac.id/">SLOT88</a>
+            </li>
+            <li aria-hidden="true">
+              <span class="breadcrumb-separator"></span>
+            </li>
+           <li>
+              <a href="https://valeria.pcr.ac.id/">SLOT ONLINE</a>
+            </li>                        
+          </ol>
+        </nav>
+
+        <h1 class="article-title" id="article-title">
+          RAJABOLA 🚀 Raja Situs Bola SLOT GACOR 2026 Platform Informasi Maxwin dan Terpercaya
+        </h1>
+            <p style=color:white;text-align:justify><a href="https://valeria.pcr.ac.id/" style="color:red;">RAJABOLA</a> hadir sebagai platform informasi digital yang membahas berbagai perkembangan seputar dunia bola dan permainan slot gacor 2026. Dengan penyajian konten yang terstruktur, RAJABOLA berfokus pada informasi yang mudah dipahami, relevan, dan diperbarui secara berkala agar pengunjung dapat menemukan referensi sesuai kebutuhan mereka. Melalui beragam artikel dan informasi pilihan, pembaca dapat mengenal lebih jauh tentang berita sepak bola, jadwal pertandingan, hasil laga, profil tim, serta berbagai topik yang berkaitan dengan industri permainan digital. Setiap materi disusun dengan bahasa yang sederhana sehingga nyaman dibaca melalui perangkat desktop maupun smartphone.</p>
+            <p style=color:white;text-align:justify>RAJABOLA juga mengutamakan penyampaian informasi secara transparan dengan mengarahkan pembaca untuk memahami detail layanan, ketentuan, serta risiko yang berkaitan dengan permainan <a href="https://valeria.pcr.ac.id/" style="color:red;">slot gacor 2026</a> sebelum mengambil keputusan. Pengunjung dianjurkan untuk selalu menggunakan layanan yang legal di wilayah masing-masing dan menerapkan permainan secara bertanggung jawab. Dengan menggabungkan pembaruan informasi, navigasi yang praktis, dan konten yang informatif, <a href="https://valeria.pcr.ac.id/" style="color:red;">slot 2026</a> berupaya menjadi salah satu referensi digital bagi pengguna yang ingin mengikuti perkembangan bola dan dunia permainan online di tahun 2026.</p>
+      </article>
+    </section>
+  </main>
+
+  <nav class="fixed-footer" aria-label="Menu cepat">
+    <a
+      class="footer-action"
+      href="https://heg.tc/ElVhX"
+      target="_blank"
+      rel="nofollow noopener">
+      <span class="footer-icon">
+        <amp-img
+          src="https://simpan369.site/RJ99/iconin.png"
+          width="75"
+          height="75"
+          layout="responsive"
+          alt="">
+        </amp-img>
+      </span>
+      LOGIN
+    </a>
+
+    <a
+      class="footer-action footer-action-main"
+      href="https://heg.tc/ElVhX"
+      target="_blank"
+      rel="nofollow noopener">
+      <span class="footer-icon">
+        <amp-img
+          src="https://simpan369.site/RJ99/daftar-1.png"
+          width="60"
+          height="60"
+          layout="responsive"
+          alt="">
+        </amp-img>
+      </span>
+      DAFTAR
+    </a>
+
+    <a
+      class="footer-action"
+      href="https://heg.tc/ElVhX"
+      target="_blank"
+      rel="nofollow noopener">
+      <span class="footer-icon">
+        <amp-img
+          src="https://simpan369.site/RJ99/iconchat.png"
+          width="75"
+          height="75"
+          layout="responsive"
+          alt="">
+        </amp-img>
+      </span>
+      LIVE CHAT
+    </a>
+  </nav>
+</body>
+</html>
